@@ -1,10 +1,10 @@
 // BEGIN_INTERNALS
 /*
 MAP_ZOOM: 1.000
-DIR: icons icons\effects icons\mob icons\obj icons\obj\machines icons\Xeno 
+DIR: icons icons\effects icons\mob icons\obj icons\obj\flora icons\obj\machines icons\Xeno 
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
-WINDOW: icons\Xeno\Effects.dmi
-FILE: icons\Xeno\Effects.dmi
+WINDOW: icons\obj\flora\flora.dmi
+FILE: icons\obj\flora\flora.dmi
 */
 // END_INTERNALS
