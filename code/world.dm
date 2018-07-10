@@ -19,7 +19,7 @@ var/global/datum/global_init/init = new ()
 
 
 
-#define RECOMMENDED_VERSION 502
+#define RECOMMENDED_VERSION 511
 /world/New()
 	//logs
 	var/date_string = time2text(world.realtime, "YYYY/MM-Month/DD-Day")
@@ -230,7 +230,7 @@ var/world_topic_spam_protect_time = world.timeofday
 				if(C.is_afk(INACTIVITY_KICK))
 					if(!istype(C.mob, /mob/dead))
 						log_access("AFK: [key_name(C)]")
-						C << "\red You have been inactive for more than 10 minutes and have been disconnected."
+						C << "\red You have been inactive for more than 20 minutes and have been disconnected."
 						del(C)
 #undef INACTIVITY_KICK
 
@@ -300,9 +300,9 @@ var/world_topic_spam_protect_time = world.timeofday
 	var/s = ""
 
 	if (config && config.server_name)
-		s += "<a href=\"http://www.colonial-marines.com\"><b>[config.server_name]</b> &#8212; <b>USS Sulaco</b> | <b>Planet LV-624</b>"
-		s += "<br>Hosted by <b>Apophis</b>"
-		s += "<br><img src=\"http://i.imgur.com/VSucCrP.jpg\"></a><br>"
+		s += "<a href=\"http://dankassmemes.com\"><b>[config.server_name]</b> &#8212; <b>USS Sulaco</b> | <b>Planet LV-624,Ice Colony</b>"
+		s += "<br>Hosted by <b>BlackCrystall</b>"
+		s += "<br><img src=\"http://dankassmemes.com/hub.gif\"></a><br>"
 
 	var/list/features = list()
 

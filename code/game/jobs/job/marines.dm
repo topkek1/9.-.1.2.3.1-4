@@ -4,7 +4,7 @@
 /datum/job/squadleader
 	title = "Squad Leader"
 	comm_title = "SL"
-	paygrade = 7
+	paygrade = 8
 	flag = SQUADLE
 	department_flag = MARINES
 	faction = "Station"
@@ -45,7 +45,7 @@
 /datum/job/squadmedic
 	title = "Squad Medic"
 	comm_title = "Med"
-	paygrade = 4
+	paygrade = 5
 	flag = SQUADME
 	department_flag = MARINES
 	faction = "Station"
@@ -65,7 +65,7 @@
 /datum/job/squadspecial
 	title = "Squad Specialist"
 	comm_title = "Spc"
-	paygrade = 5
+	paygrade = 4
 	flag = SQUADSP
 	department_flag = MARINES
 	faction = "Station"

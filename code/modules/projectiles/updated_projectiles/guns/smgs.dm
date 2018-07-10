@@ -32,7 +32,7 @@
 	caliber = "10×20mm"
 	icon_state = "9x"
 	icon_empty = "9x0"
-	max_rounds = 35 //Should be 48
+	max_rounds = 48
 	gun_type = /obj/item/weapon/gun/smg/m39
 
 /obj/item/ammo_magazine/smg/m39/extended

@@ -1,10 +1,11 @@
 // BEGIN_INTERNALS
 /*
 MAP_ZOOM: 1.000
-DIR: icons icons\effects icons\mob icons\obj icons\obj\flora icons\obj\machines icons\Xeno 
+DIR: code icons icons\effects icons\Marine\SEASONS icons\misc icons\obj\clothing maps 
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
-WINDOW: icons\obj\flora\flora.dmi
-FILE: icons\obj\flora\flora.dmi
+LAST_COMPILE_VERSION: 510.1345
+WINDOW: maps\obj.dmm;icons\misc\title.jpg;icons\misc\fullscreen.gif;icons\misc\title.dmi;icons\misc\static.dmi
+FILE: icons\misc\title.jpg
 */
 // END_INTERNALS

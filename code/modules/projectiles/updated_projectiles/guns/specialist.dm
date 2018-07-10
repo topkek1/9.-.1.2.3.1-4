@@ -105,7 +105,7 @@
 			var/new_x = target.x == user.x ? user.x : user.x + o_x
 			var/new_y = target.y == user.y ? user.y : user.y + o_y
 			var/near_target = locate(new_x,new_y,target.z)
-			if(PMC_sniper.lying == 0 && !istype(PMC_sniper.wear_suit,/obj/item/clothing/suit/storage/smartgunner/gunner) && !istype(PMC_sniper.wear_suit,/obj/item/clothing/suit/storage/marine/veteran))
+			if(PMC_sniper.lying == 0 && !istype(PMC_sniper.wear_suit,/obj/item/clothing/suit/storage/marine/smartgunner/gunner) && !istype(PMC_sniper.wear_suit,/obj/item/clothing/suit/storage/marine/veteran))
 				PMC_sniper.visible_message("<span class='warning'>[PMC_sniper] is blown backwards from the recoil of the [src]!</span>","<span class='highdanger'>You are knocked prone by the blowback!</span>")
 				step_away(PMC_sniper,near_target)
 				PMC_sniper.Weaken(5)
@@ -157,7 +157,7 @@
 	caliber = "10×28mm"
 	icon_state = ".45a"
 	icon_empty = ".45a0"
-	max_rounds = 50 //Should be 500 in total.
+	max_rounds =  150 //Originally they said it should be 500 in total, but they can eat shit.
 	default_ammo = "smartgun bullet"
 
 //Come get some.
@@ -173,10 +173,10 @@
 	w_class = 5
 	force = 20
 	accuracy = 5
-	fire_delay = 3
-	burst_amount = 3
-	burst_delay = 1
-	var/shells_fired_max = 20 //Smartgun only; once you fire # of shells, it will attempt to reload automatically. If you start the reload, the counter resets.
+	fire_delay = 1
+	burst_amount = 4
+	burst_delay = 0.5
+	var/shells_fired_max = 120 //Smartgun only; once you fire # of shells, it will attempt to reload automatically. If you start the reload, the counter resets.
 	var/shells_fired_now = 0 //The actual counter used. shells_fired_max is what it is compared to.
 //	var/restriction_toggled = 1 //Begin with the safety on.
 	flags = FPRINT | CONDUCT | TWOHANDED
@@ -217,7 +217,7 @@
 	able_to_fire(mob/user)
 		if(!ishuman(user)) return
 		var/mob/living/carbon/human/smart_gunner = user
-		if( !istype(smart_gunner.wear_suit,/obj/item/clothing/suit/storage/smartgunner) || !istype(smart_gunner.back,/obj/item/smartgun_powerpack))
+		if( !istype(smart_gunner.wear_suit,/obj/item/clothing/suit/storage/marine/smartgunner) || !istype(smart_gunner.back,/obj/item/smartgun_powerpack))
 			click_empty(smart_gunner)
 			return
 		return ..()
@@ -574,3 +574,48 @@
 	burst_delay = 4
 	accuracy = -20
 	gun_features = GUN_INTERNAL_MAG | GUN_WY_RESTRICTED
+
+
+//--------------------------------------------------------
+//M72 LAW, Hand with care, might explode on ya.
+
+/obj/item/ammo_magazine/internal/rocket/m72
+	name = "LAW Rocket"
+	caliber = "rocket"
+	default_ammo = "Surplus Missile"
+	desc = "You should not see this, however if you do, this is a M72 LAW Surplus Rocket, handle with care as to not explode."
+	max_rounds = 1
+
+/obj/item/weapon/gun/rocket/m72law
+	name = "\improper M72 LAW"
+	desc = "The M72E8 LAW is nothing short of the long arm of the law. Loaded with a 66mm rocket, this unguided tank weapon was designed to be nothing short of powerful and disposable.  The M72E8 LAW was brought back for Colonial Marine Corps surplus equipment several years back, and is made with bio-degradable materials."
+	icon_state = "m72law"
+	icon_empty = "m72law0"
+	item_state = "m72law"
+	icon_wielded = "rocket"
+	mag_type = /obj/item/ammo_magazine/internal/rocket/m72
+	slot_flags = SLOT_BACK
+	w_class = 5
+	force = 15
+	fire_delay = 10
+	eject_casings = 0
+	recoil = 3
+	flags = FPRINT | CONDUCT | TWOHANDED
+	gun_features = GUN_INTERNAL_MAG
+	var/datum/effect/effect/system/smoke_spread/puff
+
+	New()
+		..()
+		attachable_offset = list("muzzle_x" = 33, "muzzle_y" = 18,"rail_x" = 6, "rail_y" = 19, "under_x" = 19, "under_y" = 14)
+		puff = new /datum/effect/effect/system/smoke_spread()
+		puff.attach(src)
+
+	delete_bullet(obj/item/projectile/projectile_to_fire, refund = 0)
+		cdel(projectile_to_fire)
+		if(refund) current_mag.current_rounds++
+		return 1
+
+	unload(mob/user)
+		if(user)
+			if(!current_mag.current_rounds) user << "<span class='warning'>\The [src] is already empty!</span>"
+			else 							user << "<span class='warning'>You cannot unload \the [src]!</span>"

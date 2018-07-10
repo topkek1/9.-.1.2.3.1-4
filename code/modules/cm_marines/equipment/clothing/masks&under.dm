@@ -129,14 +129,32 @@ include jackets and regular suits, not armor.*/
 	var/basecolor
 	sprite_sheets = list("Vox" = 'icons/mob/species/vox/uniform.dmi')
 
+//art's clothing changes.
+
 /obj/item/clothing/under/marine
 	name = "\improper USCM uniform"
 	desc = "The issue uniform for the USCM forces. It is weaved with light kevlar plates that protect against light impacts and light-caliber rounds."
 	armor = list(melee = 5, bullet = 10, laser = 0,energy = 0, bomb = 10, bio = 0, rad = 0)
 	siemens_coefficient = 0.9
-	icon_state = "marine_jumpsuit"
-	item_state = "marine_jumpsuit"
-	item_color = "marine_jumpsuit"
+	icon_state = "1"
+	item_state = "1"
+	item_color = "1"
+
+/obj/item/clothing/under/marine/BDU
+	name = "\improper USCM Field Fatigues"
+	desc = "The issue uniform for USCM forces operating in terran and jungle enviroments. It has added small kevlar weaves to protect against light impacts and some spalling from rounds."
+	icon_state = "marine_bdu"
+	item_state = "marine_bdu"
+	item_color = "marine_bdu"
+
+/obj/item/clothing/under/marine/test
+	name = "\improper USCM uniform"
+	desc = "The issue uniform for the USCM forces. It is weaved with light kevlar plates that protect against light impacts and light-caliber rounds."
+	armor = list(melee = 5, bullet = 10, laser = 0,energy = 0, bomb = 10, bio = 0, rad = 0)
+	siemens_coefficient = 0.9
+	icon_state = "1"
+	item_state = "1"
+	item_color = "1"
 
 /obj/item/clothing/under/marine/underoos
 	name = "marine underpants"
@@ -399,6 +417,7 @@ include jackets and regular suits, not armor.*/
 //==========================//UNDER PROCS\\=============================\\
 //=======================================================================\\
 
+
 /obj/item/clothing/under/update_clothing_icon()
 	if (ismob(src.loc))
 		var/mob/M = src.loc
@@ -568,3 +587,13 @@ include jackets and regular suits, not armor.*/
 	if (hastie)
 		hastie.emp_act(severity)
 	..()
+
+//what the fuck, code, WORK YOU SHIT.
+/*/obj/item/clothing/under/marine/test
+	New()
+		..()
+		var/suit_variation = rand(1,8)
+		switch(type)
+			if(/obj/item/clothing/under/marine/test)
+				icon_state = "[suit_variation]"
+			else body_parts_covered = initial(body_parts_covered)*/

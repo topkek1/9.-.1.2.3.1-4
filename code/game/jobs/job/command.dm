@@ -4,7 +4,7 @@ var/datum/announcement/minor/captain_announcement = new(do_newscast = 1)
 /datum/job/captain
 	title = "Commander"
 	comm_title = "CO"
-	paygrade = 16
+	paygrade = 27
 	flag = COMMANDER
 	department_flag = COMMAND
 	faction = "Station"
@@ -47,7 +47,7 @@ var/datum/announcement/minor/captain_announcement = new(do_newscast = 1)
 /datum/job/executive_officer
 	title = "Executive Officer"
 	comm_title = "XO"
-	paygrade = 15
+	paygrade = 26
 	flag = EXECUTIVE
 	department_flag = COMMAND
 	faction = "Station"
@@ -81,12 +81,12 @@ var/datum/announcement/minor/captain_announcement = new(do_newscast = 1)
 /datum/job/bridge_officer
 	title = "Bridge Officer"
 	comm_title = "BO"
-	paygrade = 14
+	paygrade = 22
 	flag = BRIDGE
 	department_flag = COMMAND
 	faction = "Station"
-	total_positions = 3
-	spawn_positions = 3
+	total_positions = 4
+	spawn_positions = 4
 	supervisors = "the Commander"
 	selection_color = "#ddddff"
 	idtype = /obj/item/weapon/card/id/silver

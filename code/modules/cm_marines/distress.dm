@@ -167,12 +167,12 @@
 	probability = 15
 	role_needed = BE_ALIEN
 
-//Russian 'iron bear' mercenaries. Hostile to everyone.
+//Russian 'iron bear' mercenaries. Neutral to the USCM. Allied with Weyland Yutani.
 /datum/emergency_call/bears
 	name = "Iron Bears"
 	mob_max = 5
-	arrival_message = "Incoming Transmission: 'Vrag korabl'! Podgotovka k posadke i smerti!'"
-	objectives = "Kill everything that moves. Blow up everything that doesn't. Listen to your superior officers and take over the USS Sulaco at all costs."
+	arrival_message = "USS Sulaco, this is Major Koskova of the Iron Bears - we have heard your distress call and are dispatching a team of Iron Bears to assist you on behalf of Weyland Yutani."
+	objectives = "As a PMC hired by Weyland Yutani, you must support the desired objectives of Weyland Yutani's presence on the USS Sulaco."
 	probability = 15
 
 //Terrified pizza delivery
@@ -586,7 +586,7 @@
 	M.equip_to_slot_or_del(new /obj/item/device/radio/headset/distress/PMC(M), slot_l_ear)
 	M.equip_to_slot_or_del(new /obj/item/clothing/glasses/night/m56_goggles(M), slot_glasses)
 	M.equip_to_slot_or_del(new /obj/item/clothing/under/marine/veteran/PMC(M), slot_w_uniform)
-	M.equip_to_slot_or_del(new /obj/item/clothing/suit/storage/smartgunner/gunner(M), slot_wear_suit)
+	M.equip_to_slot_or_del(new /obj/item/clothing/suit/storage/marine/smartgunner/gunner(M), slot_wear_suit)
 	M.equip_to_slot_or_del(new /obj/item/clothing/gloves/marine/veteran/PMC(M), slot_gloves)
 	M.equip_to_slot_or_del(new /obj/item/clothing/head/helmet/marine/veteran/PMC/gunner(M), slot_head)
 	M.equip_to_slot_or_del(new /obj/item/clothing/shoes/veteran/PMC(M), slot_shoes)

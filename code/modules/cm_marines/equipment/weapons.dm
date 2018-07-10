@@ -95,12 +95,12 @@
 			if(istype(ticker.mode,/datum/game_mode/ice_colony))
 				new /obj/item/clothing/glasses/night/m56_goggles(src)
 				new /obj/item/smartgun_powerpack(src)
-				new /obj/item/clothing/suit/storage/smartgunner/snow(src)
+				new /obj/item/clothing/suit/storage/marine/smartgunner/snow(src)
 				new /obj/item/weapon/gun/smartgun(src)
 			else
 				new /obj/item/clothing/glasses/night/m56_goggles(src)
 				new /obj/item/smartgun_powerpack(src)
-				new /obj/item/clothing/suit/storage/smartgunner(src)
+				new /obj/item/clothing/suit/storage/marine/smartgunner(src)
 				new /obj/item/weapon/gun/smartgun(src)
 			opened = 1
 		..()
@@ -115,7 +115,7 @@
 	slot_flags = SLOT_BACK
 	w_class = 5.0
 	var/obj/item/weapon/cell/pcell = null
-	var/rounds_remaining = 250
+	var/rounds_remaining = 1500
 	icon_action_button = "action_flashlight" //Adds it to the quick-icon list
 	var/reloading = 0
 
@@ -188,7 +188,7 @@
 
 		if (get_dist(usr, src) <= 1)
 			if(pcell)
-				usr << "A small gauge in the corner reads: Ammo: [rounds_remaining] / 250."
+				usr << "A small gauge in the corner reads: Ammo: [rounds_remaining] / 1500."
 
 /obj/item/smartgun_powerpack/fancy
 	icon = 'icons/mob/back.dmi'
@@ -332,6 +332,28 @@
 			new /obj/item/ammo_magazine/rocket/ap(src)
 			new /obj/item/ammo_magazine/rocket/ap(src)
 			new /obj/item/ammo_magazine/rocket/wp(src)
+
+/obj/item/weapon/storage/box/SHARP_system
+	name = "\improper P9 S.H.A.R.P. Rifle case"
+	desc = "A large case containing a prototype squad artillery rifle. Drag this sprite into you to open it up!\nNOTE: You cannot put items back inside this case."
+	icon = 'icons/Marine/marine-weapons.dmi'
+	icon_state = "SHARP_case"
+	w_class = 5
+	storage_slots = 7
+	slowdown = 1
+	can_hold = list() //Nada. Once you take the stuff out it doesn't fit back in.
+	foldable = null
+
+	New()
+		..()
+		spawn(1)
+			new /obj/item/weapon/gun/rifle/sharprifle(src)
+			new /obj/item/ammo_magazine/rifle/sharpammo(src)
+			new /obj/item/ammo_magazine/rifle/sharpammo(src)
+			new /obj/item/ammo_magazine/rifle/sharpammo(src)
+			new /obj/item/ammo_magazine/rifle/sharpammo(src)
+			new /obj/item/ammo_magazine/rifle/sharpammo(src)
+			new /obj/item/ammo_magazine/rifle/sharpammo(src)
 
 /obj/item/weapon/tank/phoron/m240
 	name = "\improper M240 fuel tank"

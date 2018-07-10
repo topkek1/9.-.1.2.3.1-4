@@ -617,3 +617,71 @@
 		</html>
 
 		"}
+
+//-------------------------------------------------------------\\
+//------------ Marine Quality of Life Gear --------------------\\
+//-------------------------------------------------------------\\
+
+///////////////
+//Flare Pouch//
+///////////////
+/obj/item/weapon/storage/flarebox
+	name = "Flare Pouch"
+	desc = "A flarepouch, capable of storing four flares, the flarebox's smaller cousin."
+	icon = 'icons/Marine/marine-items.dmi'
+	icon_state = "flarebox"
+	item_state = "flarebox"
+	w_class = 1
+	throwforce = 2
+	slot_flags = SLOT_BELT
+	storage_slots = 4
+	can_hold = list("/obj/item/device/flashlight/flare")
+
+/obj/item/weapon/storage/flarebox/New()
+	..()
+	new /obj/item/device/flashlight/flare(src)
+	new /obj/item/device/flashlight/flare(src)
+	new /obj/item/device/flashlight/flare(src)
+	new /obj/item/device/flashlight/flare(src)
+	update_icon()
+
+/obj/item/weapon/storage/flarebox/update_icon()
+	icon_state = "[initial(icon_state)][contents.len]"
+	return
+
+/////////////////
+//First Aid Kit//
+/////////////////
+
+/obj/item/weapon/storage/firstaid/marine
+	name = "Field First Aid kit"
+	desc = "It's an emergency medical kit for those serious boo-boos."
+	icon = 'icons/Marine/marine-items.dmi'
+	icon_state = "trooperaid"
+	throw_speed = 2
+	throw_range = 8
+	storage_slots = 5
+	can_hold = list("/obj/item/weapon/reagent_containers/pill","/obj/item/weapon/reagent_containers/glass/bottle","/obj/item/weapon/paper","/obj/item/weapon/reagent_containers/syringe","/obj/item/weapon/reagent_containers/hypospray/autoinjector","/obj/item/stack/medical/bruise_pack","/obj/item/stack/medical/ointment")
+
+	New()
+		..()
+		new /obj/item/stack/medical/bruise_pack(src)
+		new /obj/item/stack/medical/ointment(src)
+		new /obj/item/weapon/reagent_containers/hypospray/autoinjector/tricord(src)
+		new /obj/item/weapon/reagent_containers/pill/inaprovaline( src )
+		new /obj/item/weapon/reagent_containers/pill/tramadol( src )
+
+//////////////////
+//Ammo Carrier////
+//////////////////
+
+/obj/item/weapon/storage/ammocarrier
+	name = "Marine ammo carrier"
+	desc = "Space Marine Santa uses this to deliever ammo to all the good marines"
+	icon = 'icons/Marine/marine-items.dmi'
+	icon_state = "ammocarrier"
+	item_state = "ammocarrier"
+	w_class = 4.0
+	storage_slots = 20
+	max_w_class = 3
+	max_combined_w_class = 400

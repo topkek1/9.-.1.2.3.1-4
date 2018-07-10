@@ -213,6 +213,45 @@ var/list/ghostteleportlocs = list()
 /area/shuttle/escape_pod5/transit
 	icon_state = "shuttle"
 
+/area/shuttle/escape_pod6 //Pod 4 was lost to meteors
+	name = "\improper Escape Pod Six"
+	music = "music/escape.ogg"
+
+/area/shuttle/escape_pod6/station
+	icon_state = "shuttle2"
+
+/area/shuttle/escape_pod6/centcom
+	icon_state = "shuttle"
+
+/area/shuttle/escape_pod6/transit
+	icon_state = "shuttle"
+
+/area/shuttle/escape_pod7 //Pod 4 was lost to meteors
+	name = "\improper Escape Pod Seven"
+	music = "music/escape.ogg"
+
+/area/shuttle/escape_pod7/station
+	icon_state = "shuttle2"
+
+/area/shuttle/escape_pod7/centcom
+	icon_state = "shuttle"
+
+/area/shuttle/escape_pod7/transit
+	icon_state = "shuttle"
+
+/area/shuttle/escape_pod8 //Pod 4 was lost to meteors
+	name = "\improper Escape Pod Eight"
+	music = "music/escape.ogg"
+
+/area/shuttle/escape_pod8/station
+	icon_state = "shuttle2"
+
+/area/shuttle/escape_pod8/centcom
+	icon_state = "shuttle"
+
+/area/shuttle/escape_pod8/transit
+	icon_state = "shuttle"
+
 /area/shuttle/mining
 	name = "\improper abandoned Mining Shuttle"
 	music = "music/escape.ogg"

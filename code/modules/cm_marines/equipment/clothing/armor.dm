@@ -130,6 +130,20 @@ var/list/squad_colors = list(rgb(230,25,25), rgb(255,195,45), rgb(160,32,240), r
 	icon_state = "s_1"
 	min_cold_protection_temperature = ICE_PLANET_MIN_COLD_PROTECTION_TEMPERATURE
 
+//Engi+Medic Variants
+
+/obj/item/clothing/suit/storage/marine/Medi
+	name = "\improper M3 pattern Medic armor"
+	desc = "Colonial Marines M3 Pattern Chestplate, modified for medic use. Its better than the usual M3s. It offers greater protection from the usual hostile encouters. It also has additional protection from biological containmants. However that won't stop the flu so always wash your hands."
+	icon_state = "medi"
+	armor = list(melee = 55, bullet = 45, laser = 35, energy = 20, bomb = 25, bio = 35, rad = 0)
+
+/obj/item/clothing/suit/storage/marine/Engi
+	name = "\improper M3 pattern Engi armor"
+	desc = "Colonial Marines M3 Pattern Chestplate, modified for engineer use. It's better than the usual M3s. It offers greater protection from the usual hostile encounters but also has some anti-radiation shielding and padding to protect you from your explosive fuck ups"
+	icon_state = "engi"
+	armor = list(melee = 55, bullet = 45, laser = 35, energy = 20, bomb = 35, bio = 0, rad = 35)
+
 /obj/item/clothing/suit/storage/marine/MP
 	name = "\improper M2 pattern MP armor"
 	desc = "A standard Colonial Marines M2 Pattern Chestplate. Protects the chest from ballistic rounds, bladed objects and accidents. It has a small leather pouch strapped to it for limited storage."
@@ -174,11 +188,11 @@ var/list/squad_colors = list(rgb(230,25,25), rgb(255,195,45), rgb(160,32,240), r
 	item_state = "s_marine_sniper"
 	min_cold_protection_temperature = ICE_PLANET_MIN_COLD_PROTECTION_TEMPERATURE
 
-/obj/item/clothing/suit/storage/smartgunner
+/obj/item/clothing/suit/storage/marine/smartgunner
 	name = "M56 combat harness"
 	desc = "A heavy protective vest designed to be worn with the M56 Smartgun System. \nIt has specially designed straps and reinforcement to carry the Smartgun and accessories."
 	icon = 'icons/Marine/marine_armor.dmi'
-	icon_state = "8"
+	icon_state = "m56"
 	item_state = "armor"
 	slowdown = 1
 	icon_override = 'icons/Marine/marine_armor.dmi'
@@ -196,7 +210,7 @@ var/list/squad_colors = list(rgb(230,25,25), rgb(255,195,45), rgb(160,32,240), r
 					/obj/item/weapon/combat_knife,
 					/obj/item/weapon/gun/smartgun)
 
-/obj/item/clothing/suit/storage/smartgunner/snow
+/obj/item/clothing/suit/storage/marine/smartgunner/snow
 	name = "\improper M56 combat snow harness"
 	icon_state = "s_8"
 	cold_protection = UPPER_TORSO|LOWER_TORSO|ARMS|LEGS
@@ -205,7 +219,7 @@ var/list/squad_colors = list(rgb(230,25,25), rgb(255,195,45), rgb(160,32,240), r
 /obj/item/clothing/suit/storage/marine/leader
 	name = "\improper B12 pattern leader armor"
 	desc = "A lightweight suit of carbon fiber body armor built for quick movement. Designed in a lovely forest green. Use it to toggle the built-in flashlight."
-	icon_state = "7"
+	icon_state = "sl"
 	armor = list(melee = 50, bullet = 60, laser = 45, energy = 40, bomb = 40, bio = 15, rad = 15)
 
 /obj/item/clothing/suit/storage/marine/leader/snow
@@ -271,7 +285,7 @@ var/list/squad_colors = list(rgb(230,25,25), rgb(255,195,45), rgb(160,32,240), r
 	armor = list(melee = 60, bullet = 70, laser = 50, energy = 60, bomb = 65, bio = 10, rad = 10)
 	flags_inv = BLOCKSHARPOBJ | HIDELOWHAIR
 
-/obj/item/clothing/suit/storage/smartgunner/gunner
+/obj/item/clothing/suit/storage/marine/smartgunner/gunner
 	name = "\improper PMC gunner armor"
 	desc = "A modification of the standard Armat Systems M3 armor. Hooked up with harnesses and straps allowing the user to carry an M56 Smartgun."
 	icon = 'icons/PMC/PMC.dmi'
@@ -344,8 +358,9 @@ var/list/squad_colors = list(rgb(230,25,25), rgb(255,195,45), rgb(160,32,240), r
 /obj/item/clothing/suit/storage/marine
 	New() //Now 100% more robust.
 		..()
-		var/armor_variation = rand(1,6)
-		if(armor_variation == 2 || armor_variation == 3) body_parts_covered = UPPER_TORSO|LOWER_TORSO|LEGS
+		var/armor_variation = rand(1,9)
+		if(armor_variation == 3) body_parts_covered = UPPER_TORSO|LOWER_TORSO|LEGS
+		if(armor_variation == 4) body_parts_covered = UPPER_TORSO|LOWER_TORSO
 		switch(type)
 			if(/obj/item/clothing/suit/storage/marine)
 				icon_state = "[armor_variation]"

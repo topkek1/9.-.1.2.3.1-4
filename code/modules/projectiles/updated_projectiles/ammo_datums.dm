@@ -281,7 +281,7 @@
 
 /datum/ammo/bullet/rifle
 	name = "rifle bullet"
-	damage = 40
+	damage = 43
 	accurate_range = 10
 
 /datum/ammo/bullet/rifle/incendiary
@@ -311,6 +311,68 @@
 	damage = 48
 	accuracy = -5
 	armor_pen = NEG_ARMOR_PENETRATION + 5
+
+/datum/ammo/bullet/rifle/a19
+	name = "A19 High Velocity Round"
+	damage = 47
+	accuracy = 30
+	shrapnel_chance = 0
+	damage_bleed = 0
+	shell_speed = 3
+	accurate_range = 20
+
+/datum/ammo/bullet/rifle/harpoon
+	name = "SHARP Harpoon"
+	ping = "ping_s"
+	damage = 75
+	icon_state = "MSpearFlight"
+	damage_type = BRUTE
+	accuracy = 50
+	max_range = 50
+	accurate_range = 50
+	armor_pen = HIGH_ARMOR_PENETRATION
+	shrapnel_chance = 75
+	shell_speed = 6
+
+	on_hit_mob(mob/M,obj/item/projectile/P)
+		explosion(get_turf(M), 0, 0, 0, 2)
+
+	on_hit_obj(obj/O,obj/item/projectile/P)
+		explosion(get_turf(O), 0, 0, 0, 2)
+
+	on_hit_turf(turf/T,obj/item/projectile/P)
+		explosion(T,  0, 0, 0, 2)
+
+	do_at_max_range(obj/item/projectile/P)
+		explosion(P.loc,  0, 0, 0, 2)
+
+/datum/ammo/bullet/rifle/surplus556
+	name = "Surplus 5.56mm"
+	damage = 30
+	accurate_range = 10
+	shrapnel_chance = 30
+
+/datum/ammo/bullet/rifle/nsground
+	name = "7.62x39mm NSG"
+	damage = 45
+	accurate_range = 20
+	armor_pen = NORM_ARMOR_PENETRATION
+
+/datum/ammo/bullet/rifle/xm99a
+	name = "XM99A Plasma"
+	icon_state = "ion"
+	damage = 70
+	shell_speed = 4
+
+	on_hit_mob(mob/M,obj/item/projectile/P)
+		explosion(get_turf(P.loc), -1, -1, 2, 2)
+
+	on_hit_turf(turf/T,obj/item/projectile/P)
+		explosion(T, -1, -1, 2, 2)
+
+	on_hit_obj(obj/O,obj/item/projectile/P)
+		explosion(get_turf(P.loc), -1, -1, 2, 2)
+
 
 /*
 //================================================
@@ -386,10 +448,10 @@
 	name = "sniper bullet"
 	damage = 80
 	accurate_range = 3 //Works in reverse. You have a lower chance to hit if the target is close.
-	max_range = 30 //Otherwise, the bullet is fairly accurate even at max range.
+	max_range = 60 //Otherwise, the bullet is fairly accurate even at max range.
 	armor_pen = HIGH_ARMOR_PENETRATION
 	damage_bleed = 0
-	accuracy = 15
+	accuracy = 45
 	shell_speed = 3
 	ammo_behavior = AMMO_NO_SCATTER | AMMO_SNIPER
 
@@ -426,7 +488,7 @@
 
 /datum/ammo/bullet/smartgun
 	name = "smartgun bullet"
-	damage = 28
+	damage = 24
 	armor_pen = MIN_ARMOR_PENETRATION
 	accuracy = 50
 	ammo_behavior = AMMO_SKIPS_HUMANS
@@ -563,6 +625,28 @@
 	do_at_max_range(obj/item/projectile/P)
 		drop_flame(get_turf(P))
 		explosion(P.loc,  -1, 2, 3, 4)
+
+/datum/ammo/rocket/m72
+	name = "Surplus Missile"
+	damage = 75
+	damage_type = BRUTE
+	armor_pen = MAX_ARMOR_PENETRATION
+	damage_bleed = 0
+	accuracy = -15 // this is gunna be a fun time.
+	ammo_behavior = AMMO_ROCKET
+
+	on_hit_mob(mob/M,obj/item/projectile/P)
+		explosion(get_turf(M), 0, 0, 1, 1)
+
+	on_hit_obj(obj/O,obj/item/projectile/P)
+		explosion(get_turf(O), 0, 0, 1, 1)
+
+	on_hit_turf(turf/T,obj/item/projectile/P)
+		explosion(T,  0, 0, 1, 1)
+
+	do_at_max_range(obj/item/projectile/P)
+		explosion(P.loc,  0, 0, 1, 1)
+
 
 /*
 //================================================

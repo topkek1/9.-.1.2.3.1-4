@@ -57,6 +57,15 @@
 	name = "\improper Operating Theatre II"
 	icon_state = "surgery"
 
+/area/sulaco/medbay/surgery_three
+	name = "\improper Operating Theatre III"
+	icon_state = "surgery"
+
+/area/sulaco/medbay/surgery_four
+	name = "\improper Operating Theatre IV"
+	icon_state = "surgery"
+
+
 /area/sulaco/disposal
 	name = "\improper Disposal"
 	icon_state = "disposal"

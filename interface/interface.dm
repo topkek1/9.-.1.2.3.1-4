@@ -1,5 +1,5 @@
 //Please use mob or src (not usr) in these procs. This way they can be called in the same fashion as procs.
-.d/client/verb/wiki()
+/client/verb/wiki()
 	set name = "wiki"
 	set desc = "Visit the wiki."
 	set hidden = 1
@@ -11,7 +11,7 @@
 		src << "\red The wiki URL is not set in the server configuration."
 	return
 
-.d/client/verb/forum()
+/client/verb/forum()
 	set name = "forum"
 	set desc = "Visit the forum."
 	set hidden = 1
@@ -23,7 +23,7 @@
 		src << "\red The forum URL is not set in the server configuration."
 	return
 
-.d/client/verb/rules()
+/client/verb/rules()
 	set name = "rules"
 	set desc = "Read our rules."
 	set hidden = 1
@@ -35,7 +35,7 @@
 		src << "\red The rules URL is not set in the server configuration."
 	return
 
-.d/client/verb/donate()
+/client/verb/donate()
 	set name = "Donate"
 	set desc = "Like our server? Buy us a beer and get some custom-made items."
 	set category = "OOC"
@@ -43,7 +43,7 @@
 	src << "Our server runs entirely off of player donations. If you donate, you can receive custom cosmetic items for your character. <br>The minimum amount to donate is $5 to receive your item. <br><br>View our donation page for more info: http://colonial-marines.com/page/donate <br><br>Thank you,<br>Apophis."
 	return
 
-.d/*#define RULES_FILE "config/rules.html"
+/*#define RULES_FILE "config/rules.html"
 /client/verb/rules()
 	set name = "Rules"
 	set desc = "Show Server Rules."

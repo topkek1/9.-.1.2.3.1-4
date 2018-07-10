@@ -26,7 +26,6 @@
 		/mob/living/carbon/Xenomorph/proc/tail_attack,
 		/mob/living/carbon/Xenomorph/proc/corrosive_acid,
 		/mob/living/carbon/Xenomorph/proc/toggle_auras,
-		/mob/living/carbon/Xenomorph/proc/secure_host
 		)
 
 

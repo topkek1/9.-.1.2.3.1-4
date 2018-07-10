@@ -1,2 +1,2 @@
-# ColonialMarines emergency access
-ColonialMarines emergency access
+# NewEdenColonialMarinesALPHA
+New Eden Colonial Marines ALPHA

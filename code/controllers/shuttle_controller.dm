@@ -73,7 +73,7 @@ var/global/datum/shuttle_controller/shuttle_controller
 //	shuttle.docking_controller_tag = "escape_pod_3"
 //	shuttle.dock_target_station = "escape_pod_3_berth"
 //	shuttle.dock_target_offsite = "escape_pod_3_recovery"
-	shuttle.transit_direction = EAST
+	shuttle.transit_direction = SOUTH
 	shuttle.move_time = SHUTTLE_TRANSIT_DURATION_RETURN
 	process_shuttles += shuttle
 	shuttles["Escape Pod 3"] = shuttle
@@ -94,6 +94,48 @@ var/global/datum/shuttle_controller/shuttle_controller
 	process_shuttles += shuttle
 	shuttles["Escape Pod 5"] = shuttle
 
+	shuttle = new/datum/shuttle/ferry/escape_pod()
+	shuttle.location = 0
+	shuttle.warmup_time = 0
+	shuttle.area_station = locate(/area/shuttle/escape_pod6/station)
+	shuttle.area_offsite = locate(/area/shuttle/escape_pod6/centcom)
+	shuttle.area_transition = locate(/area/shuttle/escape_pod6/transit)
+//	shuttle.docking_controller_tag = "escape_pod_5"
+//	shuttle.dock_target_station = "escape_pod_5_berth"
+//	shuttle.dock_target_offsite = "escape_pod_5_recovery"
+	shuttle.transit_direction = WEST //should this be WEST? I have no idea.
+	shuttle.move_time = SHUTTLE_TRANSIT_DURATION_RETURN
+	process_shuttles += shuttle
+	shuttles["Escape Pod 6"] = shuttle
+
+	shuttle = new/datum/shuttle/ferry/escape_pod()
+	shuttle.location = 0
+	shuttle.warmup_time = 0
+	shuttle.area_station = locate(/area/shuttle/escape_pod7/station)
+	shuttle.area_offsite = locate(/area/shuttle/escape_pod7/centcom)
+	shuttle.area_transition = locate(/area/shuttle/escape_pod7/transit)
+//	shuttle.docking_controller_tag = "escape_pod_5"
+//	shuttle.dock_target_station = "escape_pod_5_berth"
+//	shuttle.dock_target_offsite = "escape_pod_5_recovery"
+	shuttle.transit_direction = WEST //should this be WEST? I have no idea.
+	shuttle.move_time = SHUTTLE_TRANSIT_DURATION_RETURN
+	process_shuttles += shuttle
+	shuttles["Escape Pod 7"] = shuttle
+
+	shuttle = new/datum/shuttle/ferry/escape_pod()
+	shuttle.location = 0
+	shuttle.warmup_time = 0
+	shuttle.area_station = locate(/area/shuttle/escape_pod8/station)
+	shuttle.area_offsite = locate(/area/shuttle/escape_pod8/centcom)
+	shuttle.area_transition = locate(/area/shuttle/escape_pod8/transit)
+//	shuttle.docking_controller_tag = "escape_pod_5"
+//	shuttle.dock_target_station = "escape_pod_5_berth"
+//	shuttle.dock_target_offsite = "escape_pod_5_recovery"
+	shuttle.transit_direction = SOUTH //should this be WEST? I have no idea.
+	shuttle.move_time = SHUTTLE_TRANSIT_DURATION_RETURN
+	process_shuttles += shuttle
+	shuttles["Escape Pod 8"] = shuttle
+
 	//give the emergency shuttle controller it's shuttles
 	emergency_shuttle.shuttle = shuttles["Escape"]
 	emergency_shuttle.escape_pods = list(
@@ -101,6 +143,9 @@ var/global/datum/shuttle_controller/shuttle_controller
 		shuttles["Escape Pod 2"],
 		shuttles["Escape Pod 3"],
 		shuttles["Escape Pod 5"],
+		shuttles["Escape Pod 6"],
+		shuttles["Escape Pod 7"],
+		shuttles["Escape Pod 8"],
 	)
 
 	// Supply shuttle

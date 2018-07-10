@@ -275,7 +275,7 @@
 	var/roletext
 	switch(role)
 //		if(BE_CHANGELING)	roletext="changeling"
-//		if(BE_TRAITOR)		roletext="traitor"
+		if(BE_TRAITOR)		roletext="traitor"
 //		if(BE_OPERATIVE)	roletext="operative"
 //		if(BE_WIZARD)		roletext="wizard"
 		if(BE_RESPONDER)	roletext="responder"

@@ -22,6 +22,7 @@
 					/obj/item/weapon/gun/smg/m39 = 20,
 					/obj/item/weapon/gun/rifle/m41a = 25,
 					/obj/item/weapon/gun/shotgun/pump = 10,
+					/obj/item/weapon/gun/rifle/m4ra = 25,
 
 					/obj/item/ammo_magazine/pistol = 30,
 					/obj/item/ammo_magazine/revolver = 25,
@@ -30,11 +31,13 @@
 					/obj/item/ammo_magazine/rifle/ap = 5,
 					/obj/item/ammo_magazine/shotgun = 8,
 					/obj/item/ammo_magazine/shotgun/buckshot = 8,
+					/obj/item/ammo_magazine/rifle/a19hv = 40,
 
 					/obj/item/weapon/combat_knife = 20,
 					/obj/item/weapon/storage/belt/knifepouch = 5,
 					/obj/item/weapon/throwing_knife = 5,
-					/obj/item/device/flashlight/flare = 30,
+					/obj/item/device/flashlight/flare = 10,
+					/obj/item/weapon/storage/flarebox = 10,
 					/obj/item/device/flashlight/ = 20,
 					/obj/item/weapon/storage/backpack/marine = 10,
 					/obj/item/device/radio/headset/msulaco = 5,
@@ -42,12 +45,15 @@
 					/obj/item/weapon/storage/belt/marine = 5,
 //					/obj/item/clothing/head/helmet/marine = 5,
 					/obj/item/clothing/shoes/marine = 5,
+					/obj/item/weapon/storage/firstaid/marine = 5,
 //					/obj/item/clothing/under/marine =5
 //					/obj/item/clothing/under/marine/snow = 15,
 //					/obj/item/clothing/suit/storage/marine/snow = 15,
 //					/obj/item/clothing/head/helmet/marine/snow = 15,
 //					/obj/item/clothing/mask/rebreather = 15,
 //					/obj/item/device/radio = 10
+					/obj/item/attachable/bayonet = 10,
+					/obj/item/attachable/flashlight = 10,
 					)
 
 	contraband = list(/*bj/item/weapon/storage/fancy/donut_box = 5,
@@ -183,7 +189,8 @@
 						/obj/item/weapon/airlock_electronics = 10,
 						/obj/item/weapon/module/power_control = 10,
 						/obj/item/weapon/airalarm_electronics = 10,
-						/obj/item/weapon/cell/high = 10
+						/obj/item/weapon/cell/high = 10,
+						/obj/item/clothing/suit/storage/marine/Engi = 2
 					)
 	contraband = list()
 	premium = list()
@@ -247,7 +254,8 @@
 						/obj/item/weapon/reagent_containers/hypospray/autoinjector/Oxycodone = 3,
 						/obj/item/clothing/glasses/hud/health = 3,
 						/obj/item/weapon/storage/firstaid/regular = 4,
-						/obj/item/weapon/storage/firstaid/adv = 3
+						/obj/item/weapon/storage/firstaid/adv = 3,
+						/obj/item/clothing/suit/storage/marine/Medi = 2
 					)
 	contraband = list(
 					///obj/item/clothing/head/helmet/marine/medic = 2
@@ -291,7 +299,7 @@
 			)
 	contraband = list()
 	premium = list(
-					/obj/item/weapon/storage/box/rocket_system = 1,
+					/obj/item/weapon/storage/box/SHARP_system = 1,
 					/obj/item/weapon/storage/box/grenade_system = 1,
 					/obj/item/weapon/storage/box/m42c_system = 1,
 					/obj/item/weapon/storage/box/m42c_system_Jungle = 1,
@@ -319,6 +327,8 @@
 						/obj/item/weapon/grenade/smokebomb = 3,
 						/obj/item/device/binoculars = 1,
 						/obj/item/weapon/storage/backpack/marinesatchel = 2,
+						/obj/item/weapon/gun/rifle/nsg23ar = 1,
+						/obj/item/ammo_magazine/rifle/nsg762 = 25,
 					)
 	contraband = list()
 	premium = list()
@@ -337,6 +347,28 @@
 									/obj/item/clothing/head/helmet/marine/leader = 1)
 
 			src.build_inventory(products2)//Add them to the products list
+
+/obj/machinery/vending/surplus
+	name = "ColMarTech Surplus Vendor"
+	desc = "A surplus vendor, for all your surplus needs!"
+	product_ads = "If it moves, it's hostile!;How many enemies have you killed today?;Shoot first, perform autopsy later!;Your ammo is right here.;Guns!;Die, scumbag!;Don't shoot me bro!;Shoot them, bro.;Why not have a donut?"
+	req_access = null
+	icon_state = "armory"
+	icon_vend = "armory-vend"
+	icon_deny = "armory"
+	special_equipment = 1
+
+	products = list(
+						/obj/item/weapon/gun/rocket/m72law = 3,
+						/obj/item/weapon/gun/rifle/m16a1 = 35,
+
+						/obj/item/ammo_magazine/rifle/m16a = 70,
+
+					)
+	contraband = list()
+	premium = list()
+	prices = list()
+
 
 /obj/machinery/vending/attachments
 	name = "Armat Systems Attachments Vendor"
@@ -373,6 +405,312 @@
 
 						/obj/item/clothing/tie/storage/webbing = 3,
 						/obj/item/weapon/claymore/mercsword/machete = 5
+
+					)
+	contraband = list()
+	premium = list()
+	prices = list()
+
+/obj/machinery/vending/adminbus/arsenal/revolver
+	name = "Adminbus Arsenal Revolver Rack"
+	desc = "A automated weapon rack hooked up to an impossible storage of not-very-standard-issue weapons and armor. This one carries revolvers."
+	icon_state = "armory"
+	icon_vend = "armory-vend"
+	icon_deny = "armory"
+	req_access = null
+	req_access_txt = "0"
+	req_one_access = null
+	req_one_access_txt = "9;2;21"
+	special_equipment = 1
+
+	product_ads = "If it moves, it's hostile!;How many enemies have you killed today?;Shoot first, perform autopsy later!;Your ammo is right here.;Guns!;Die, scumbag!;Don't shoot me bro!;Shoot them, bro.;Why not have a donut?"
+	products = list(
+					/obj/item/weapon/gun/revolver/m44 = 50,
+					/obj/item/weapon/gun/revolver/upp = 50,
+					/obj/item/weapon/gun/revolver/small = 50,
+
+					/obj/item/weapon/gun/revolver/mateba = 50,
+					/obj/item/weapon/gun/revolver/cmb = 50,
+
+					/obj/item/ammo_magazine/revolver = 50,
+					/obj/item/ammo_magazine/revolver/marksman = 50,
+					/obj/item/ammo_magazine/revolver/upp = 50,
+					/obj/item/ammo_magazine/revolver/small = 50,
+
+					/obj/item/ammo_magazine/revolver/mateba = 50,
+					/obj/item/ammo_magazine/revolver/cmb = 50,
+
+					)
+	contraband = list()
+	premium = list()
+	prices = list()
+
+/obj/machinery/vending/adminbus/arsenal/pistol
+	name = "Adminbus Arsenal Handgun Rack"
+	desc = "A automated weapon rack hooked up to an impossible storage of not-very-standard-issue weapons. This one carries handguns."
+	icon_state = "armory"
+	icon_vend = "armory-vend"
+	icon_deny = "armory"
+	req_access = null
+	req_access_txt = "0"
+	req_one_access = null
+	req_one_access_txt = "9;2;21"
+	special_equipment = 1
+
+	product_ads = "If it moves, it's hostile!;How many enemies have you killed today?;Shoot first, perform autopsy later!;Your ammo is right here.;Guns!;Die, scumbag!;Don't shoot me bro!;Shoot them, bro.;Why not have a donut?"
+	products = list(
+					/obj/item/weapon/gun/pistol/m4a3 = 50,
+					/obj/item/weapon/gun/pistol/m4a3/custom = 50,
+
+					/obj/item/weapon/gun/pistol/heavy = 50,
+					/obj/item/weapon/gun/pistol/c99 = 50,
+					/obj/item/weapon/gun/pistol/m1911 = 50,
+
+					/obj/item/weapon/gun/pistol/kt42 = 50,
+					/obj/item/weapon/gun/pistol/holdout = 50,
+					/obj/item/weapon/gun/pistol/highpower = 50,
+
+					/obj/item/weapon/gun/pistol/vp70 = 50,
+					/obj/item/weapon/gun/pistol/vp78 = 50,
+
+					/obj/item/ammo_magazine/pistol = 50,
+					/obj/item/ammo_magazine/pistol/hp = 50,
+					/obj/item/ammo_magazine/pistol/ap = 50,
+
+					/obj/item/ammo_magazine/pistol/incendiary = 50,
+					/obj/item/ammo_magazine/pistol/extended = 50,
+					/obj/item/ammo_magazine/pistol/heavy = 50,
+
+					/obj/item/ammo_magazine/pistol/c99 = 50,
+					/obj/item/ammo_magazine/pistol/m1911 = 50,
+					/obj/item/ammo_magazine/pistol/automatic = 50,
+					/obj/item/ammo_magazine/pistol/highpower = 50,
+
+					/obj/item/ammo_magazine/pistol/holdout = 50,
+					/obj/item/ammo_magazine/pistol/vp70 = 50,
+					/obj/item/ammo_magazine/pistol/vp78 = 50,
+
+					)
+	contraband = list()
+	premium = list()
+	prices = list()
+
+/obj/machinery/vending/adminbus/arsenal/rifle
+	name = "Adminbus Arsenal Rifle Rack"
+	desc = "A automated weapon rack hooked up to an impossible storage of not-very-standard-issue weapons. This one carries rifles."
+	icon_state = "armory"
+	icon_vend = "armory-vend"
+	icon_deny = "armory"
+	req_access = null
+	req_access_txt = "0"
+	req_one_access = null
+	req_one_access_txt = "9;2;21"
+	special_equipment = 1
+
+	product_ads = "If it moves, it's hostile!;How many enemies have you killed today?;Shoot first, perform autopsy later!;Your ammo is right here.;Guns!;Die, scumbag!;Don't shoot me bro!;Shoot them, bro.;Why not have a donut?"
+	products = list(
+					/obj/item/weapon/gun/rifle/m41a = 50,
+					/obj/item/weapon/gun/rifle/m41aMK1 = 50,
+					/obj/item/weapon/gun/rifle/m41a/scoped = 50,
+
+					/obj/item/weapon/gun/rifle/m41a/elite = 50,
+					/obj/item/weapon/gun/rifle/mar40 = 50,
+
+					/obj/item/weapon/gun/rifle/mar40/carbine = 50,
+					/obj/item/weapon/gun/rifle/lmg = 50,
+
+
+					/obj/item/ammo_magazine/rifle = 50,
+					/obj/item/ammo_magazine/rifle/extended = 50,
+					/obj/item/ammo_magazine/rifle/incendiary = 50,
+					/obj/item/ammo_magazine/rifle/ap = 50,
+
+					/obj/item/ammo_magazine/rifle/ap/elite = 50,
+					/obj/item/ammo_magazine/rifle/marksman = 50,
+					/obj/item/ammo_magazine/rifle/m41aMK1 = 50,
+					/obj/item/ammo_magazine/rifle/mar40 = 50,
+
+					/obj/item/ammo_magazine/rifle/mar40/extended = 50,
+					/obj/item/ammo_magazine/rifle/lmg = 50,
+
+					)
+	contraband = list()
+	premium = list()
+	prices = list()
+
+/obj/machinery/vending/adminbus/arsenal/shotgun
+	name = "Adminbus Arsenal Shotgun Rack"
+	desc = "A automated weapon rack hooked up to an impossible storage of not-very-standard-issue weapons. This one carries shotguns."
+	icon_state = "armory"
+	icon_vend = "armory-vend"
+	icon_deny = "armory"
+	req_access = null
+	req_access_txt = "0"
+	req_one_access = null
+	req_one_access_txt = "9;2;21"
+	special_equipment = 1
+
+	product_ads = "If it moves, it's hostile!;How many enemies have you killed today?;Shoot first, perform autopsy later!;Your ammo is right here.;Guns!;Die, scumbag!;Don't shoot me bro!;Shoot them, bro.;Why not have a donut?"
+	products = list(
+					/obj/item/weapon/gun/shotgun/pump = 50,
+					/obj/item/weapon/gun/shotgun/merc = 50,
+					/obj/item/weapon/gun/shotgun/combat = 50,
+
+					/obj/item/weapon/gun/shotgun/double = 50,
+					/obj/item/weapon/gun/shotgun/double/sawn = 50,
+					/obj/item/weapon/gun/shotgun/pump/cmb = 50,
+
+
+					/obj/item/ammo_magazine/shotgun = 50,
+					/obj/item/ammo_magazine/shotgun/incendiary = 50,
+					/obj/item/ammo_magazine/shotgun/buckshot = 50,
+
+					)
+	contraband = list()
+	premium = list()
+	prices = list()
+
+/obj/machinery/vending/adminbus/arsenal/smg
+	name = "Adminbus Arsenal SMG Rack"
+	desc = "A automated weapon rack hooked up to an impossible storage of not-very-standard-issue weapons. This one carries submachine guns."
+	icon_state = "armory"
+	icon_vend = "armory-vend"
+	icon_deny = "armory"
+	req_access = null
+	req_access_txt = "0"
+	req_one_access = null
+	req_one_access_txt = "9;2;21"
+	special_equipment = 1
+
+	product_ads = "If it moves, it's hostile!;How many enemies have you killed today?;Shoot first, perform autopsy later!;Your ammo is right here.;Guns!;Die, scumbag!;Don't shoot me bro!;Shoot them, bro.;Why not have a donut?"
+	products = list(
+					/obj/item/weapon/gun/smg/m39 = 50,
+					/obj/item/weapon/gun/smg/m39/elite = 50,
+					/obj/item/weapon/gun/smg/mp7 = 50,
+					/obj/item/weapon/gun/smg/skorpion = 50,
+
+					/obj/item/weapon/gun/smg/ppsh = 50,
+					/obj/item/weapon/gun/smg/uzi = 50,
+					/obj/item/weapon/gun/smg/p90 = 50,
+
+					/obj/item/ammo_magazine/smg/m39 = 50,
+					/obj/item/ammo_magazine/smg/m39/extended = 50,
+					/obj/item/ammo_magazine/smg/m39/ap = 50,
+					/obj/item/ammo_magazine/smg/mp7 = 50,
+					/obj/item/ammo_magazine/smg/skorpion = 50,
+
+					/obj/item/ammo_magazine/smg/ppsh = 50,
+					/obj/item/ammo_magazine/smg/ppsh/extended = 50,
+					/obj/item/ammo_magazine/smg/uzi = 50,
+					/obj/item/ammo_magazine/smg/p90 = 50,
+
+					)
+	contraband = list()
+	premium = list()
+	prices = list()
+
+/obj/machinery/vending/adminbus/arsenal/super
+	name = "Adminbus Arsenal Super Weapon Rack"
+	desc = "A automated weapon rack hooked up to an impossible storage of not-very-standard-issue weapons. This one carries Weyland Yutani Super Weapons."
+	icon_state = "armory"
+	icon_vend = "armory-vend"
+	icon_deny = "armory"
+	req_access = null
+	req_access_txt = "0"
+	req_one_access = null
+	req_one_access_txt = "9;2;21"
+	special_equipment = 1
+
+	product_ads = "If it moves, it's hostile!;How many enemies have you killed today?;Shoot first, perform autopsy later!;Your ammo is right here.;Guns!;Die, scumbag!;Don't shoot me bro!;Shoot them, bro.;Why not have a donut?"
+	products = list(
+					/obj/item/weapon/gun/pistol/chimp = 50,
+					/obj/item/weapon/gun/rifle/sniper/elite = 50,
+					/obj/item/weapon/gun/smartgun/dirty = 50,
+					/obj/item/weapon/gun/rocketlauncher/quad = 50,
+
+					/obj/item/ammo_magazine/pistol/chimp = 50,
+					/obj/item/ammo_magazine/sniper/elite = 50,
+					/obj/item/ammo_magazine/rocket/quad = 50,
+
+					)
+	contraband = list()
+	premium = list()
+	prices = list()
+
+/obj/machinery/vending/adminbus/arsenal/sasoperative // For Joseph Skinner only.
+	name = "Adminbus Arsenal Skinner's Gear Rack"
+	desc = "A automated closet hooked up to an actually possible storage of not-very-standard-issue gear. Smells like cinnamon whiskey. Joseph Skinner only."
+	icon_state = "armory"
+	icon_vend = "armory-vend"
+	icon_deny = "armory"
+	req_access = null
+	req_access_txt = "0"
+	req_one_access = null
+	req_one_access_txt = "9;2;21"
+	special_equipment = 1
+
+	product_ads = "I've got your whiskey right here!;Hail Sanctum!;Feet first into hell!;Hail Skinner!;Don't leave home without it!;You asked for your gear, here it is!"
+	products = list(
+					/obj/item/clothing/suit/storage/marine/fluff/sas3 = 1,
+					/obj/item/clothing/head/helmet/marine/fluff/sas3 = 1,
+					/obj/item/clothing/under/marine/fluff/sas3 = 1,
+					/obj/item/clothing/mask/fluff/sas3 = 1,
+					/obj/item/clothing/suit/storage/marine/fluff/sas3 = 1,
+					/obj/item/weapon/storage/belt/marine = 11,
+					/obj/item/clothing/shoes/marine = 11,
+
+					/obj/item/clothing/under/marine/fluff/Sanctum_uniform = 10,
+					/obj/item/clothing/suit/storage/marine/fluff/Sanctum_heavy = 10,
+					/obj/item/clothing/suit/storage/marine/fluff/Sanctum_medium = 10,
+					/obj/item/clothing/head/helmet/marine/fluff/Sanctum_helmet = 10,
+
+					)
+	contraband = list()
+	premium = list()
+	prices = list()
+
+/obj/machinery/vending/adminbus/attachments
+	name = "Adminbus Arsenal Attachment Vendor"
+	desc = "An automated closet with a bunch of shit inside of it."
+	product_ads = "If it moves, it's hostile!;How many enemies have you killed today?;Shoot first, perform autopsy later!;Your ammo is right here.;Guns!;Die, scumbag!;Don't shoot me bro!;Shoot them, bro.;Why not have a donut?"
+	req_access = null
+	icon_deny = "robotics-deny"
+	products = list(
+						/obj/item/attachable/suppressor = 50,
+						/obj/item/attachable/bayonet = 50,
+						/obj/item/attachable/compensator = 50,
+						/obj/item/attachable/extended_barrel = 50,
+						/obj/item/attachable/heavy_barrel = 50,
+
+						/obj/item/attachable/scope = 50,
+						/obj/item/attachable/flashlight = 50,
+						/obj/item/attachable/reddot = 50,
+						/obj/item/attachable/magnetic_harness = 50,
+						/obj/item/attachable/quickfire = 50,
+
+						/obj/item/attachable/foregrip = 50,
+						/obj/item/attachable/gyro = 50,
+						/obj/item/attachable/bipod = 50,
+						/obj/item/attachable/burstfire_assembly = 50,
+
+						/obj/item/attachable/stock/shotgun = 50,
+						/obj/item/attachable/stock/rifle = 50,
+						/obj/item/attachable/stock/revolver = 50,
+
+						/obj/item/attachable/grenade = 50,
+						/obj/item/attachable/shotgun = 50,
+						/obj/item/attachable/flamer = 50,
+
+						/obj/item/weapon/claymore/mercsword/machete = 50,
+						/obj/item/weapon/claymore/mercsword = 50,
+						/obj/item/weapon/claymore = 50,
+
+						/obj/item/clothing/tie/storage/brown_vest = 50,
+						/obj/item/clothing/tie/storage/black_vest = 50,
+						/obj/item/clothing/tie/storage/webbing = 50,
+						/obj/item/clothing/tie/holster = 50,
+						/obj/item/weapon/storage/box/sentry = 50,
+
 
 					)
 	contraband = list()
