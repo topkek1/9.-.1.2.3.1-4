@@ -1,5 +1,3 @@
-//EDITING BY APOPHIS:  Non-Ripleys disabled, as well as mech suit weapons.
-
 //This is an exentision of Designs.dm, focused on the alien stuff.
 
 

@@ -1,6 +1,3 @@
-//MARINE VENDING - APOPHIS775 - LAST UPDATE - 25JAN2015
-
-
 ///******MARINE VENDOR******///
 
 /obj/machinery/vending/marine
@@ -84,7 +81,6 @@
 
 			src.build_inventory(products2)//Add them to the list
 
-//MARINE FOOD VENDOR APOPHIS775 22DEC2015
 /obj/machinery/vending/marineFood
 	name = "Marine Food and Drinks Vendor"
 	desc = "Standard Issue Food and Drinks Vendor, containing standard military food and drinks."
@@ -107,8 +103,6 @@
 	product_ads = "Your only choice for food...Literally;"
 	req_access_txt = ""
 
-
-//MARINE MEDICAL VENDOR -APOPHIS775 24JAN2015
 /obj/machinery/vending/MarineMed
 	name = "MarineMed"
 	desc = "Advanced Marine Drug Dispenser"
@@ -143,9 +137,6 @@
 					/obj/item/stack/medical/splint = 2)
 	contraband = list(/obj/item/weapon/reagent_containers/hypospray/autoinjector/chloralhydrate =3)
 
-
-
-//NEW BLOOD VENDOR CODE - APOPHIS775 22JAN2015
 /obj/machinery/vending/MarineMed/Blood
 	name = "MM Blood Dispenser"
 	desc = "Marine Med brand Blood Pack Dispensery"

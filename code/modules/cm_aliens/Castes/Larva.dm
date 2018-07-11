@@ -1,6 +1,3 @@
-//Xenomorph - Larva - Colonial Marines - Apophis775 - Last Edit: 11JUN16
-
-
 /mob/living/carbon/Xenomorph/Larva
 	name = "Alien Larva"
 	real_name = "Alien Larva"

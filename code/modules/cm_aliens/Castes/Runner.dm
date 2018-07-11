@@ -1,5 +1,3 @@
-//Runner Code - Colonial Marines - Last Edit: Apophis775 - 11JUN16
-
 /mob/living/carbon/Xenomorph/Runner
 	caste = "Runner"
 	name = "Runner"

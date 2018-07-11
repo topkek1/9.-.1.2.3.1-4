@@ -18,7 +18,6 @@
  *
  *		For syndicate call-ins see uplink_kits.dm
  *
- *  EDITED BY APOPHIS 09OCT2015 to prevent in-game abuse of boxes.
  */
 
 

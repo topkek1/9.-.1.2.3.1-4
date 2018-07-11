@@ -1,5 +1,3 @@
-//Praetorian Code - Colonial Marines - Last Edit: Apophis775 - 11JUN16
-
 /mob/living/carbon/Xenomorph/Praetorian
 	caste = "Praetorian"
 	name = "Praetorian"

@@ -1,5 +1,3 @@
-//Carrier Code - Colonial Marines - Last Edit: Apophis775 - 11JUN16
-
 /mob/living/carbon/Xenomorph/Carrier
 	caste = "Carrier"
 	name = "Carrier"

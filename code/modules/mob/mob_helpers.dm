@@ -116,12 +116,12 @@ proc/isnewplayer(A)
 		return 1
 	return 0
 
-proc/isXeno(A) //Xenomorph Hud Test APOPHIS 22MAY2015
+proc/isXeno(A)
 	if(istype(A, /mob/living/carbon/Xenomorph))
 		return 1
 	return 0
 
-proc/isXenoLarva(A) //Xenomorph Larva Hud Test APOPHIS 22MAY2015
+proc/isXenoLarva(A)
 	if(istype(A, /mob/living/carbon/Xenomorph/Larva))
 		return 1
 	return 0

@@ -1,5 +1,3 @@
-//Hivelord Code - Colonial Marines - Last Edit: Apophis775 - 11JUN16
-
 /mob/living/carbon/Xenomorph/Hivelord
 	caste = "Hivelord"
 	name = "Hivelord"

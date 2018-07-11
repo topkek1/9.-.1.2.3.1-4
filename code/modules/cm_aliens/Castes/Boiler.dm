@@ -1,5 +1,3 @@
-//Boiler Code - Colonial Marines - Last Edit: Apophis775 - 11JUN16
-
 /mob/living/carbon/Xenomorph/Boiler
 	caste = "Boiler"
 	name = "Boiler"

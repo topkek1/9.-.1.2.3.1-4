@@ -1,5 +1,3 @@
-//Ravager Code - Colonial Marines - Last Edit: Apophis775 - 11JUN16
-
 /mob/living/carbon/Xenomorph/Ravager
 	caste = "Ravager"
 	name = "Ravager"

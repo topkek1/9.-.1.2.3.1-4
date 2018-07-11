@@ -292,9 +292,6 @@
 			new /obj/item/weapon/storage/belt/medical(src)
 			new /obj/item/clothing/glasses/hud/health(src)
 
-
-//MARINE SUPPLY CRATES APOPHIS775 15JAN2015
-
 //Meh.
 /*
 /obj/structure/closet/crate/large/marine/gear

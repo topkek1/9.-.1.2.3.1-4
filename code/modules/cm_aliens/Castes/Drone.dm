@@ -1,5 +1,3 @@
-//Xenomorph - Drone - Colonial Marines - Apophis775 - Last Edit: 11JUN16
-
 /mob/living/carbon/Xenomorph/Drone
 	caste = "Drone"
 	name = "Drone"

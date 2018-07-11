@@ -1,5 +1,3 @@
-//MARINE SPECIAL CHEMICALS -APOPHIS - LAST UPDATE - 21SEP2015
-
 //Auto-injectors Items
 
 /obj/item/weapon/reagent_containers/hypospray/autoinjector/tricord
@@ -124,11 +122,6 @@
 			reagents.add_reagent("bicaridine", 5)
 			update_icon()
 		return
-
-
-
-
-//New Medic Combat-Lifesaver Bag - 21SEP2015 - APOPHIS
 
 /obj/item/weapon/storage/belt/medical/combatLifesaver
 	name = "Combat Lifesaver Bag"

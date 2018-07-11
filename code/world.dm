@@ -333,19 +333,9 @@ var/world_topic_spam_protect_time = world.timeofday
 	else if (n > 0)
 		features += "~[n] player"
 
-	/*
-	is there a reason for this? the byond site shows 'hosted by X' when there is a proper host already.
-	if (host)
-		features += "hosted by <b>[host]</b>"
-	*/
-
-	// if (!host && config && config.hostedby)
-	// 	features += "hosted by <b>Apophis</b>"
-
 	if (features)
 		s += ": [list2text(features, ", ")]"
 
-	/* does this help? I do not know */
 	if (src.status != s)
 		src.status = s
 

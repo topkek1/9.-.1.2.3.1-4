@@ -1,5 +1,3 @@
-//Spitter Code - Colonial Marines - Last Edit: Apophis775 - 11JUN16
-
 /mob/living/carbon/Xenomorph/Spitter
 	caste = "Spitter"
 	name = "Spitter"

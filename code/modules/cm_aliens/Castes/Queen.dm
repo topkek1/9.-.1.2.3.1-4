@@ -1,5 +1,3 @@
-//Xenomorph - Queen- Colonial Marines - Apophis775 - Last Edit: 11JUN16
-
 /mob/living/carbon/Xenomorph/Queen
 	caste = "Queen"
 	name = "Queen"
