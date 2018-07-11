@@ -1,6 +1,3 @@
-//Xenomorph Upgrade Code - Colonial Marines - Apophis775 - Last Edit: 11JUN16
-
-
 /mob/living/carbon/Xenomorph/verb/Upgrade()
 	set name = "Upgrade"
 	set desc = "Upgrades you, at the cost of never being able to evolve.  Requires full plasma"

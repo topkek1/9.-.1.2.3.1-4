@@ -1,5 +1,3 @@
-//Xenomorph Life - Colonial Marines - Apophis775 - Last Edit: 03JAN2015
-
 /mob/living/carbon/Xenomorph/Life()
 
 	set invisibility = 0

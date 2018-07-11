@@ -1,5 +1,3 @@
-//Xenomorph - Queen- Colonial Marines - Apophis775 - Last Edit: 11JUN16
-
 /mob/living/carbon/Xenomorph/Queen
 	caste = "Queen"
 	name = "Queen"
@@ -16,13 +14,13 @@
 	attack_sound = null
 	friendly = "nuzzles"
 	wall_smash = 0
-	health = 300
-	maxHealth = 300
+	health = 800
+	maxHealth = 800
 	amount_grown = 0
 	max_grown = 10
-	storedplasma = 300
-	maxplasma = 700
-	plasma_gain = 30
+	storedplasma = 1000
+	maxplasma = 1600
+	plasma_gain = 200
 	is_intelligent = 1
 	speed = 1
 	jelly = 1

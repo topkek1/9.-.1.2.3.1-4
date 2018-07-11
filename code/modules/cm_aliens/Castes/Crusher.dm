@@ -1,5 +1,3 @@
-//Crusher Code - Colonial Marines - Last Edit: Apophis775 - 11JUN16
-
 /mob/living/carbon/Xenomorph/Crusher
 	caste = "Crusher"
 	name = "Crusher"
@@ -11,11 +9,11 @@
 	tacklemin = 4
 	tacklemax = 7
 	tackle_chance = 95
-	health = 200
-	maxHealth = 200
-	storedplasma = 200
-	plasma_gain = 10
-	maxplasma = 200
+	health = 400
+	maxHealth = 400
+	storedplasma = 800
+	plasma_gain = 100
+	maxplasma = 800
 	jelly = 1
 	jellyMax = 800
 	caste_desc = "A huge tanky xenomorph."

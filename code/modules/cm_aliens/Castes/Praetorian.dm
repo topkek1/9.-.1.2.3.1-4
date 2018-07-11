@@ -1,5 +1,3 @@
-//Praetorian Code - Colonial Marines - Last Edit: Apophis775 - 11JUN16
-
 /mob/living/carbon/Xenomorph/Praetorian
 	caste = "Praetorian"
 	name = "Praetorian"
@@ -11,11 +9,11 @@
 	tacklemin = 3
 	tacklemax = 8
 	tackle_chance = 75
-	health = 200
-	maxHealth = 200
-	storedplasma = 200
-	plasma_gain = 25
-	maxplasma = 800
+	health = 300
+	maxHealth = 300
+	storedplasma = 300
+	plasma_gain = 100
+	maxplasma = 1000
 	jellyMax = 800
 	spit_delay = 20
 	speed = 1.7

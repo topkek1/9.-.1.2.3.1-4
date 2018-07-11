@@ -1,5 +1,3 @@
-//Spitter Code - Colonial Marines - Last Edit: Apophis775 - 11JUN16
-
 /mob/living/carbon/Xenomorph/Spitter
 	caste = "Spitter"
 	name = "Spitter"
@@ -7,10 +5,10 @@
 	icon_state = "Spitter Walking"
 	melee_damage_lower = 12
 	melee_damage_upper = 22
-	health = 160
-	maxHealth = 160
-	storedplasma = 150
-	plasma_gain = 20
+	health = 200
+	maxHealth = 200
+	storedplasma = 200
+	plasma_gain = 80
 	maxplasma = 600
 	jellyMax = 250
 	spit_delay = 25

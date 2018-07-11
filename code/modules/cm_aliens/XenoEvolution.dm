@@ -1,5 +1,3 @@
-//Xenomorph Evolution Code - Colonial Marines - Apophis775 - Last Edit: 11JUN16
-
 //Recoded and consolidated by Abby -- ALL evolutions come from here now. It should work with any caste, anywhere
 //All castes need an evolves_to() list in their defines
 //Such as evolves_to = list("Warrior", "Sentinel", "Runner", "Badass") etc

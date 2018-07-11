@@ -1,5 +1,3 @@
-//EDITING BY APOPHIS:  Non-Ripleys disabled, as well as mech suit weapons.
-
 //This file was auto-corrected by findeclaration.exe on 25.5.2012 20:42:33
 
 /***************************************************************

@@ -1,5 +1,3 @@
-//Ravager Code - Colonial Marines - Last Edit: Apophis775 - 11JUN16
-
 /mob/living/carbon/Xenomorph/Ravager
 	caste = "Ravager"
 	name = "Ravager"
@@ -11,11 +9,11 @@
 	tacklemin = 3
 	tacklemax = 6
 	tackle_chance = 80
-	health = 180
-	maxHealth = 180
-	storedplasma = 50
-	plasma_gain = 8
-	maxplasma = 100
+	health = 250
+	maxHealth = 250
+	storedplasma = 250
+	plasma_gain = 80
+	maxplasma = 300
 	jelly = 1
 	jellyMax = 800
 	caste_desc = "A brutal, devastating front-line attacker."

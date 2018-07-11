@@ -1,6 +1,3 @@
-//Xenomorph General Procs And Functions - Colonial Marines
-//LAST EDIT: APOPHIS 22MAY16
-
 ///mob/living/carbon/Xenomorph/gib(anim="gibbed-m",do_gibs)
 //	return ..(anim="gibbed-a",do_gibs)
 

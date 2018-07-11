@@ -1,5 +1,3 @@
-//Boiler Code - Colonial Marines - Last Edit: Apophis775 - 11JUN16
-
 /mob/living/carbon/Xenomorph/Boiler
 	caste = "Boiler"
 	name = "Boiler"
@@ -11,11 +9,11 @@
 	tacklemin = 2
 	tacklemax = 4
 	tackle_chance = 60
-	health = 180
-	maxHealth = 180
-	storedplasma = 450
-	plasma_gain = 30
-	maxplasma = 800
+	health = 200
+	maxHealth = 200
+	storedplasma = 550
+	plasma_gain = 100
+	maxplasma = 1000
 	jelly = 1
 	jellyMax = 800
 	spit_delay = 40

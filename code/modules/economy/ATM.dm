@@ -438,7 +438,6 @@ log transactions
 
 	src.attack_hand(usr)
 
-//stolen wholesale and then edited a bit from newscasters, which are awesome and by Agouri
 /obj/machinery/atm/proc/scan_user(mob/living/carbon/human/human_user as mob)
 	if(!authenticated_account)
 		if(human_user.wear_id)

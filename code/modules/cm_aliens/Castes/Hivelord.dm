@@ -1,5 +1,3 @@
-//Hivelord Code - Colonial Marines - Last Edit: Apophis775 - 11JUN16
-
 /mob/living/carbon/Xenomorph/Hivelord
 	caste = "Hivelord"
 	name = "Hivelord"
@@ -8,12 +6,12 @@
 	icon_state = "Hivelord Walking"
 	melee_damage_lower = 15
 	melee_damage_upper = 20
-	health = 220
-	maxHealth = 220
+	health = 320
+	maxHealth = 320
 	storedplasma = 200
-	maxplasma = 800
+	maxplasma = 1000
 	jellyMax = 800
-	plasma_gain = 35
+	plasma_gain = 80
 	evolves_to = list()
 	caste_desc = "A builder of REALLY BIG hives."
 	adjust_pixel_x = -16

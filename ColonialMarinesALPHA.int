@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
 MAP_ZOOM: 1.000
-DIR: code icons icons\effects icons\Marine\SEASONS icons\misc icons\obj\clothing maps 
+DIR: code code\modules code\modules\cm_aliens code\modules\cm_aliens\Castes icons icons\effects icons\Marine\SEASONS icons\misc icons\obj\clothing maps 
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 510.1345
-WINDOW: maps\obj.dmm;icons\misc\title.jpg;icons\misc\fullscreen.gif;icons\misc\title.dmi;icons\misc\static.dmi
-FILE: icons\misc\title.jpg
+WINDOW: code\modules\cm_aliens\Castes\Xenoborg.dm
+FILE: code\modules\cm_aliens\Castes\Xenoborg.dm
 */
 // END_INTERNALS

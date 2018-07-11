@@ -1,6 +1,3 @@
-//Xenomorph - Larva - Colonial Marines - Apophis775 - Last Edit: 11JUN16
-
-
 /mob/living/carbon/Xenomorph/Larva
 	name = "Alien Larva"
 	real_name = "Alien Larva"
@@ -10,8 +7,8 @@
 	language = "Hivemind"
 	amount_grown = 0
 	max_grown = 100
-	maxHealth = 35
-	health = 35
+	maxHealth = 50
+	health = 50
 	plasma_gain = 1
 	melee_damage_lower = 0
 	melee_damage_upper = 0

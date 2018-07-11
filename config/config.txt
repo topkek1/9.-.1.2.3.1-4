@@ -289,7 +289,7 @@ STARLIGHT 0
 PLAYER_REROUTE_CAP 0
 
 ## Server to reroute to
-#OVERFLOW_SERVER_URL byond://example.org:1111
+#OVERFLOW_SERVER_URL byond://ColonialMarines.org:33333
 
 ## Disable the loading of away missions
 #DISABLE_AWAY_MISSIONS

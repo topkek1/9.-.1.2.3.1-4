@@ -1,5 +1,3 @@
-//Sentinal Code - Colonial Marines - Last Edit: Apophis775 - 11JUN16
-
 /mob/living/carbon/Xenomorph/Sentinel
 	caste = "Sentinel"
 	name = "Sentinel"
@@ -7,11 +5,11 @@
 	icon_state = "Sentinel Walking"
 	melee_damage_lower = 10
 	melee_damage_upper = 20
-	health = 130
-	maxHealth = 130
-	storedplasma = 75
-	plasma_gain = 10
-	maxplasma = 300
+	health = 180
+	maxHealth = 180
+	storedplasma = 200
+	plasma_gain = 50
+	maxplasma = 350
 	jellyMax = 200
 	spit_delay = 30
 	caste_desc = "A weak ranged combat alien."

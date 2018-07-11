@@ -3,8 +3,7 @@
 -<i>This server is running a <u>custom</u> version of Colonial Marines code.</i>
 <br><br>
 
-<h2><b><u>ATTENTION</u></b></h2><br>
-We have enough administration staff, we would like  
+<h2><b><u>ATTENTION</u></b></h2><br> 
 
 Updates Coming Soon/7 day
 New Map(s)
@@ -16,7 +15,6 @@ CM: BC Map Maker
 Server RU + Каждые 7-мь дней будут апгрейды
 </small></small>
 
-<h2><b><u>ATTENTION</u></b></h2><br>
 Создатель сервера BlackCrystall/Creator server BlackCrystall
 Зам. создателЯ Victor77705/Dep. the creator Victor77705
 

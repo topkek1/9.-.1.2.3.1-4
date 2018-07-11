@@ -1,5 +1,3 @@
-//Hunter Code - Colonial Marines - Last Edit: Apophis775 - 11JUN16
-
 /mob/living/carbon/Xenomorph/Hunter
 	caste = "Hunter"
 	name = "Hunter"
@@ -7,11 +5,11 @@
 	icon_state = "Hunter Walking"
 	melee_damage_lower = 20
 	melee_damage_upper = 30
-	health = 150
-	maxHealth = 150
+	health = 200
+	maxHealth = 200
 	storedplasma = 50
-	plasma_gain = 8
-	maxplasma = 100
+	plasma_gain = 20
+	maxplasma = 200
 	jellyMax = 500
 	jelly = 1
 	caste_desc = "A fast, powerful front line combatant."

@@ -1,5 +1,3 @@
-//Runner Code - Colonial Marines - Last Edit: Apophis775 - 11JUN16
-
 /mob/living/carbon/Xenomorph/Runner
 	caste = "Runner"
 	name = "Runner"
@@ -8,11 +6,11 @@
 	icon_state = "Runner Walking"
 	melee_damage_lower = 10
 	melee_damage_upper = 20
-	health = 100
-	maxHealth = 100
-	storedplasma = 50
-	plasma_gain = 1
-	maxplasma = 100
+	health = 120
+	maxHealth = 120
+	storedplasma = 150
+	plasma_gain = 10
+	maxplasma = 150
 	jellyMax = 200
 	caste_desc = "A fast, four-legged terror, but weak in sustained combat."
 	speed = -1.5
