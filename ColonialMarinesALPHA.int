@@ -1,11 +1,12 @@
 // BEGIN_INTERNALS
 /*
 MAP_ZOOM: 1.000
+LAST_COMPILE_TIME: 1531335471
 DIR: code code\modules code\modules\cm_aliens code\modules\cm_aliens\Castes icons icons\effects icons\Marine\SEASONS icons\misc icons\obj\clothing maps 
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
-LAST_COMPILE_VERSION: 510.1345
-WINDOW: code\modules\cm_aliens\Castes\Xenoborg.dm
-FILE: code\modules\cm_aliens\Castes\Xenoborg.dm
+LAST_COMPILE_VERSION: 511.1385
+WINDOW: code\modules\cm_aliens\XenoUpgrade.dm
+FILE: code\modules\cm_aliens\XenoUpgrade.dm
 */
 // END_INTERNALS

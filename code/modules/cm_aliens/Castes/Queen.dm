@@ -5,8 +5,8 @@
 	icon = 'icons/xeno/2x2_Xenos.dmi'
 	icon_state = "Queen Walking"
 //	pass_flags = PASSTABLE
-	melee_damage_lower = 30
-	melee_damage_upper = 46
+	melee_damage_lower = 20
+	melee_damage_upper = 36
 	tacklemin = 4
 	tacklemax = 6
 	tackle_chance = 80
@@ -32,7 +32,7 @@
 	fire_immune = 1
 	big_xeno = 1
 	jelly = 1
-	armor_deflection = 60
+	armor_deflection = 120
 	tier = 0 //Queen doesn't count towards population limit.
 	upgrade = 0
 	caste_desc = "The biggest and baddest xeno. The Queen controls the hive and plants eggs and royal jelly."

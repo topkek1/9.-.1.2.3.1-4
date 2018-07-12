@@ -1,0 +1,1604 @@
+
+
+Starting up. 13:29.12
+---------------------
+[13:29:12]MISC: Adding game mode traitor (traitor) to configuration.
+[13:29:13]MISC: Adding game mode Colonial Marines (Colonial Marines) to configuration.
+[13:29:13]MISC: Adding game mode Hunter Games (Hunter Games) to configuration.
+[13:29:13]MISC: Adding game mode Ice Colony (Ice Colony) to configuration.
+[13:29:13]MISC: Adding game mode Whiskey Outpost (Whiskey Outpost) to configuration.
+[13:29:13]MISC: Adding game mode extended (extended) to configuration.
+[13:29:13]MISC: Unknown setting in configuration: 'assistant_limit'
+[13:29:13]MISC: Unknown setting in configuration: 'assistant_ratio'
+[13:29:13]MISC: Unknown setting in configuration: 'station_levels'
+[13:29:13]MISC: Unknown setting in configuration: 'admin_levels'
+[13:29:13]MISC: Unknown setting in configuration: 'contact_levels'
+[13:29:13]MISC: Unknown setting in configuration: 'player_levels'
+[13:29:13]MISC: Unknown setting in configuration: 'expected_round_length'
+[13:29:13]MISC: Unknown setting in configuration: 'event_delay_lower'
+[13:29:13]MISC: Unknown setting in configuration: 'event_delay_upper'
+[13:29:13]MISC: Unknown setting in configuration: 'event_custom_start_major'
+[13:29:13]MISC: Unknown setting in configuration: 'starlight'
+[13:29:13]MISC: Unknown setting in configuration: 'player_reroute_cap'
+[13:29:13]MISC: Unknown setting in configuration: 'disable_space_ruins'
+[13:29:13]MISC: Unknown setting in configuration: 'feedback_tableprefix'
+[13:29:13]MISC: Saved mode is 'Colonial Marines'
+[13:29:14]ADMIN: Loading jobban_rank
+[13:29:14]ADMIN: jobban_keylist was empty
+[13:29:14]ADMIN: Loading Banlist
+[13:29:14]DEBUG: Rebuilding Master Controller
+
+
+Starting up. 13:30.54
+---------------------
+[13:30:54]MISC: Adding game mode traitor (traitor) to configuration.
+[13:30:54]MISC: Adding game mode Colonial Marines (Colonial Marines) to configuration.
+[13:30:54]MISC: Adding game mode Hunter Games (Hunter Games) to configuration.
+[13:30:54]MISC: Adding game mode Ice Colony (Ice Colony) to configuration.
+[13:30:54]MISC: Adding game mode Whiskey Outpost (Whiskey Outpost) to configuration.
+[13:30:54]MISC: Adding game mode extended (extended) to configuration.
+[13:30:55]MISC: Unknown setting in configuration: 'assistant_limit'
+[13:30:55]MISC: Unknown setting in configuration: 'assistant_ratio'
+[13:30:55]MISC: Unknown setting in configuration: 'station_levels'
+[13:30:55]MISC: Unknown setting in configuration: 'admin_levels'
+[13:30:55]MISC: Unknown setting in configuration: 'contact_levels'
+[13:30:55]MISC: Unknown setting in configuration: 'player_levels'
+[13:30:55]MISC: Unknown setting in configuration: 'expected_round_length'
+[13:30:55]MISC: Unknown setting in configuration: 'event_delay_lower'
+[13:30:55]MISC: Unknown setting in configuration: 'event_delay_upper'
+[13:30:55]MISC: Unknown setting in configuration: 'event_custom_start_major'
+[13:30:55]MISC: Unknown setting in configuration: 'starlight'
+[13:30:55]MISC: Unknown setting in configuration: 'player_reroute_cap'
+[13:30:55]MISC: Unknown setting in configuration: 'disable_space_ruins'
+[13:30:55]MISC: Unknown setting in configuration: 'feedback_tableprefix'
+[13:30:55]MISC: Saved mode is 'Colonial Marines'
+[13:30:55]ADMIN: Loading jobban_rank
+[13:30:55]ADMIN: jobban_keylist was empty
+[13:30:55]ADMIN: Loading Banlist
+[13:30:56]DEBUG: Rebuilding Master Controller
+[13:57:15]ACCESS: Login: Lady Rainicorn/(Lady Rainicorn) from 46.162.56.23-3673882395 || BYOND v512
+[13:57:24]ACCESS: Logout: Lady Rainicorn/(Lady Rainicorn)
+[14:35:47]ACCESS: Login: BlackCrystall/(BlackCrystall) from 127.0.0.1-2513525785 || BYOND v512
+[14:35:54]ACCESS: Logout: BlackCrystall/(BlackCrystall)
+
+
+Starting up. 14:40.08
+---------------------
+[14:40:08]MISC: Adding game mode traitor (traitor) to configuration.
+[14:40:08]MISC: Adding game mode Colonial Marines (Colonial Marines) to configuration.
+[14:40:08]MISC: Adding game mode Hunter Games (Hunter Games) to configuration.
+[14:40:08]MISC: Adding game mode Ice Colony (Ice Colony) to configuration.
+[14:40:08]MISC: Adding game mode Whiskey Outpost (Whiskey Outpost) to configuration.
+[14:40:08]MISC: Adding game mode extended (extended) to configuration.
+[14:40:08]MISC: Unknown setting in configuration: 'assistant_limit'
+[14:40:08]MISC: Unknown setting in configuration: 'assistant_ratio'
+[14:40:08]MISC: Unknown setting in configuration: 'station_levels'
+[14:40:08]MISC: Unknown setting in configuration: 'admin_levels'
+[14:40:08]MISC: Unknown setting in configuration: 'contact_levels'
+[14:40:08]MISC: Unknown setting in configuration: 'player_levels'
+[14:40:08]MISC: Unknown setting in configuration: 'expected_round_length'
+[14:40:08]MISC: Unknown setting in configuration: 'event_delay_lower'
+[14:40:08]MISC: Unknown setting in configuration: 'event_delay_upper'
+[14:40:08]MISC: Unknown setting in configuration: 'event_custom_start_major'
+[14:40:08]MISC: Unknown setting in configuration: 'starlight'
+[14:40:08]MISC: Unknown setting in configuration: 'player_reroute_cap'
+[14:40:08]MISC: Unknown setting in configuration: 'disable_space_ruins'
+[14:40:08]MISC: Unknown setting in configuration: 'feedback_tableprefix'
+[14:40:08]MISC: Saved mode is 'Colonial Marines'
+[14:40:10]ADMIN: Loading jobban_rank
+[14:40:10]ADMIN: jobban_keylist was empty
+[14:40:10]ADMIN: Loading Banlist
+[14:40:10]DEBUG: Rebuilding Master Controller
+[14:41:28]ACCESS: Login: BlackCrystall/(BlackCrystall) from 127.0.0.1-2513525785 || BYOND v512
+[14:42:50]VOTE: Gamemode vote started by the server.
+[14:42:50]DEBUG: The server has called a gamemode vote
+[14:42:59]DEBUG: The server has called a gamemode vote
+[14:42:59]DEBUG: The server has called a gamemode vote
+[14:43:00]DEBUG: The server has called a gamemode vote
+[14:43:01]DEBUG: The server has called a gamemode vote
+[14:43:02]DEBUG: The server has called a gamemode vote
+[14:43:03]DEBUG: The server has called a gamemode vote
+[14:43:03]DEBUG: The server has called a gamemode vote
+[14:43:04]DEBUG: The server has called a gamemode vote
+[14:43:05]DEBUG: The server has called a gamemode vote
+[14:43:06]DEBUG: The server has called a gamemode vote
+[14:43:07]DEBUG: The server has called a gamemode vote
+[14:43:07]DEBUG: The server has called a gamemode vote
+[14:43:08]DEBUG: The server has called a gamemode vote
+[14:43:09]DEBUG: The server has called a gamemode vote
+[14:43:10]DEBUG: The server has called a gamemode vote
+[14:43:11]DEBUG: The server has called a gamemode vote
+[14:43:11]DEBUG: The server has called a gamemode vote
+[14:43:12]DEBUG: The server has called a gamemode vote
+[14:43:13]DEBUG: The server has called a gamemode vote
+[14:43:14]DEBUG: The server has called a gamemode vote
+[14:43:14]ADMIN: BlackCrystall/(BlackCrystall) removed the delay.
+[14:45:38]DEBUG: The server has called a gamemode vote
+[14:48:02]DEBUG: The server has called a gamemode vote
+[14:50:26]DEBUG: The server has called a gamemode vote
+[14:52:50]DEBUG: The server has called a gamemode vote
+[14:55:14]DEBUG: The server has called a gamemode vote
+[14:57:38]DEBUG: The server has called a gamemode vote
+[15:00:02]DEBUG: The server has called a gamemode vote
+[15:02:26]DEBUG: The server has called a gamemode vote
+[15:04:50]DEBUG: The server has called a gamemode vote
+[15:07:14]DEBUG: The server has called a gamemode vote
+[15:09:38]DEBUG: The server has called a gamemode vote
+[15:12:02]DEBUG: The server has called a gamemode vote
+[15:14:26]VOTE: Gamemode vote started by the server.
+[15:14:26]DEBUG: The server has called a gamemode vote
+[15:14:37]DEBUG: The server has called a gamemode vote
+[15:14:38]DEBUG: The server has called a gamemode vote
+[15:14:39]DEBUG: The server has called a gamemode vote
+[15:14:40]DEBUG: The server has called a gamemode vote
+[15:14:41]DEBUG: The server has called a gamemode vote
+[15:14:41]ADMIN: BlackCrystall/(BlackCrystall) removed the delay.
+[15:17:05]DEBUG: The server has called a gamemode vote
+[15:19:29]DEBUG: The server has called a gamemode vote
+[15:21:53]DEBUG: The server has called a gamemode vote
+[15:24:17]DEBUG: The server has called a gamemode vote
+[15:26:41]DEBUG: The server has called a gamemode vote
+[15:29:05]DEBUG: The server has called a gamemode vote
+[15:31:29]DEBUG: The server has called a gamemode vote
+[15:33:54]DEBUG: The server has called a gamemode vote
+[15:36:18]DEBUG: The server has called a gamemode vote
+[15:38:42]DEBUG: The server has called a gamemode vote
+[15:41:06]DEBUG: The server has called a gamemode vote
+[15:41:21]ACCESS: Login: Protos-Zerg/(Protos-Zerg) from 5.164.133.148-3930154522 || BYOND v512
+[15:41:30]OOC: Protos-Zerg/Protos-Zerg : Ку
+[15:41:49]OOC: Protos-Zerg/Protos-Zerg : Услышал про твою версию маринада, захотел поиграть, говор ты много помен
+[15:41:54]OOC: Protos-Zerg/Protos-Zerg : Говор*
+[15:41:58]OOC: Protos-Zerg/Protos-Zerg : ГворЯТ
+[15:43:27]OOC: Protos-Zerg/Protos-Zerg : Ru or ENG?
+[15:43:31]DEBUG: The server has called a gamemode vote
+[15:43:32]OOC: BlackCrystall/BlackCrystall : русский
+[15:43:36]OOC: BlackCrystall/BlackCrystall : угу
+[15:43:38]OOC: Protos-Zerg/Protos-Zerg : Игноришь значит D:
+[15:43:43]OOC: BlackCrystall/BlackCrystall : Нет
+[15:43:47]OOC: BlackCrystall/BlackCrystall : Я зан был
+[15:44:10]OOC: BlackCrystall/BlackCrystall : Я был занЯт
+[15:44:15]OOC: Protos-Zerg/Protos-Zerg : Чем тут отличаетсЯ от пиндосов?
+[15:44:34]OOC: BlackCrystall/BlackCrystall : Тем что Я её не забросил и апгрейжу
+[15:45:03]OOC: Protos-Zerg/Protos-Zerg : Можешь взь Алиена?
+[15:45:08]OOC: Protos-Zerg/Protos-Zerg : ВзЯть*
+[15:45:49]OOC: BlackCrystall/BlackCrystall : Ты реактор не настроишь
+[15:45:54]OOC: BlackCrystall/BlackCrystall : Он там особый
+[15:45:55]VOTE: Gamemode vote started by the server.
+[15:45:55]DEBUG: The server has called a gamemode vote
+[15:45:58]OOC: BlackCrystall/BlackCrystall : А ну ладно
+[15:46:05]OOC: Protos-Zerg/Protos-Zerg : Ну, научи
+[15:46:13]OOC: Protos-Zerg/Protos-Zerg : А что там с ним?
+[15:46:16]OOC: Protos-Zerg/Protos-Zerg : Он Термальный?
+[15:46:19]OOC: Protos-Zerg/Protos-Zerg : как на гунах?
+[15:46:22]OOC: BlackCrystall/BlackCrystall : Чёрнаматери
+[15:46:32]OOC: Protos-Zerg/Protos-Zerg : Чем он отличаетсот материи?
+[15:46:34]OOC: BlackCrystall/BlackCrystall : Black Mater
+[15:46:48]OOC: BlackCrystall/BlackCrystall : Black Mater Generator
+[15:46:55]DEBUG: The server has called a gamemode vote
+[15:46:55]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[15:47:13]ADMIN: BlackCrystall has started the game.
+[15:47:13]DEBUG: BlackCrystall had xeno enabled, so we are drafting them.
+[15:47:14]ACCESS: Logout: *no key*/(BlackCrystall)
+[15:47:14]ACCESS: Login: BlackCrystall/(Goodwin Swabey) from 127.0.0.1-2513525785 || BYOND v512
+[15:47:14]ACCESS: Logout: *no key*/(Protos-Zerg)
+[15:47:14]ACCESS: Login: Protos-Zerg/(Zachary Henry) from 5.164.133.148-3930154522 || BYOND v512
+[15:47:15]ACCESS: Logout: *no key*/(Goodwin Swabey)
+[15:47:15]ACCESS: Login: BlackCrystall/(Alien Larva) from 127.0.0.1-2513525785 || BYOND v512
+[15:47:30]DEBUG: Next event in 36.102 minutes.
+[15:47:36]OOC: Mature Larva (822)/BlackCrystall : тут рандомизер карты
+[15:47:44]OOC: Zachary Henry/Protos-Zerg : Сулако рандомное?
+[15:47:55]OOC: Mature Larva (822)/BlackCrystall : По этому в начале долго сервер думает
+[15:48:00]OOC: Mature Larva (822)/BlackCrystall : сулако нет
+[15:48:08]OOC: Zachary Henry/Protos-Zerg : Если сейчас перезайду, раунд не кончитс у менхоткие не работают просто
+[15:48:11]OOC: Mature Larva (822)/BlackCrystall : в моей версии 19.21 будет
+[15:48:15]OOC: Zachary Henry/Protos-Zerg : Хоткеи*
+[15:48:21]OOC: Zachary Henry/Protos-Zerg : 19ю21?
+[15:48:23]OOC: Zachary Henry/Protos-Zerg : Что ето
+[15:48:23]OOC: Mature Larva (822)/BlackCrystall : она только на уровне програмировани
+[15:48:40]OOC: Mature Larva (822)/BlackCrystall : это сколько внесу изменений , правельнее 1.921
+[15:49:02]OOC: Zachary Henry/Protos-Zerg : Версибилда типо?
+[15:49:26]OOC: Mature Larva (822)/BlackCrystall : да
+[15:49:28]ACCESS: Login: Thomas.rus/(Thomas.rus) from 134.17.137.57-476934342 || BYOND v512
+[15:49:40]OOC: Mature Larva (822)/BlackCrystall : у менуже из 120 гигов только 3 гига осталось
+[15:49:42]OOC: Thomas.rus/Thomas.rus : Привет всем
+[15:49:47]OOC: Zachary Henry/Protos-Zerg : Фига
+[15:49:48]OOC: Zachary Henry/Protos-Zerg : Ты
+[15:49:49]OOC: Mature Larva (822)/BlackCrystall : привет томас
+[15:49:51]OOC: Zachary Henry/Protos-Zerg : Привет Томас
+[15:50:08]ACCESS: Login: William dave/(William dave) from 139.228.56.12-1168092526 || BYOND v512
+[15:50:10]OOC: Thomas.rus/Thomas.rus : Крис, ты мне билд англомаринов так и не скинул :\
+[15:50:16]OOC: Mature Larva (822)/BlackCrystall : Я каждое 100 изменение-новаверси
+[15:50:17]ACCESS: Logout: *no key*/(William dave)
+[15:50:18]ACCESS: Login: William dave/(Romayne Bluetenberger) from 139.228.56.12-1168092526 || BYOND v512
+[15:50:22]OOC: Mature Larva (822)/BlackCrystall : Я
+[15:50:33]OOC: Mature Larva (822)/BlackCrystall : НоваЯ версиЯ
+[15:50:50]OOC: Zachary Henry/Protos-Zerg : Билд? там ток стараверси в гитхабе посмотри
+[15:50:56]OOC: Zachary Henry/Protos-Zerg : СтараЯ
+[15:50:58]OOC: Zachary Henry/Protos-Zerg : ВерсиЯ
+[15:51:07]OOC: Thomas.rus/Thomas.rus : Аааааа...
+[15:51:12]OOC: Thomas.rus/Thomas.rus : Увы
+[15:51:30]ACCESS: Logout: William dave/(Romayne Bluetenberger)
+[15:51:36]ACCESS: Logout: *no key*/(Thomas.rus)
+[15:51:36]ACCESS: Login: Thomas.rus/(Skylar Harrison) from 134.17.137.57-476934342 || BYOND v512
+[15:52:03]ACCESS: Logout: *no key*/(Young Bloody Larva (822))
+[15:52:03]ACCESS: Login: BlackCrystall/(Alien Larva (822)) from 127.0.0.1-2513525785 || BYOND v512
+[15:52:18]OOC: Zachary Henry/Protos-Zerg : Тоесть
+[15:52:21]OOC: Zachary Henry/Protos-Zerg : Твой билд
+[15:52:25]OOC: Zachary Henry/Protos-Zerg : 100+ гб
+[15:52:27]OOC: Zachary Henry/Protos-Zerg : Весит
+[15:52:54]OOC: Young Drone (59)/BlackCrystall : Нет, это сколько всего версий
+[15:53:00]OOC: Zachary Henry/Protos-Zerg : а..
+[15:53:04]OOC: Young Drone (59)/BlackCrystall : Это общее количество веса
+[15:53:11]OOC: Young Drone (59)/BlackCrystall : моих версий билда
+[15:53:33]OOC: Zachary Henry/Protos-Zerg : Томас, заспавнилс мне просто перезайти надо, боюсь раунд кончист
+[15:53:40]OOC: Zachary Henry/Protos-Zerg : ЗАспавнилсЯ?*
+[15:53:47]OOC: Skylar Harrison/Thomas.rus : Заспавнилсуже
+[15:53:49]ACCESS: Logout: Protos-Zerg/(Zachary Henry)
+[15:54:06]EMOTE: Zachary Henry/Protos-Zerg : <B>CPL Zachary Henry</B> snores.
+[15:54:46]ACCESS: Logout: *no key*/(Young Drone (59))
+[15:54:46]ACCESS: Login: BlackCrystall/(Queen) from 127.0.0.1-2513525785 || BYOND v512
+[15:55:14]ACCESS: Login: Protos-Zerg/(Zachary Henry) from 5.164.133.148-3930154522 || BYOND v512
+[15:56:22]OOC: Zachary Henry/Protos-Zerg : p9 Сшарп
+[15:56:24]OOC: Zachary Henry/Protos-Zerg : Это что
+[15:56:46]ADMIN: Queen (BlackCrystall) launched a shuttle from Dropship Console
+[15:57:13]SAY: Skylar Harrison/Thomas.rus : Эй?
+[15:57:18]SAY: Skylar Harrison/Thomas.rus : какого хрена?
+[15:57:21]SAY: Skylar Harrison/Thomas.rus : ау
+[15:57:34]SAY: Skylar Harrison/Thomas.rus : Раз-раз...
+[15:57:39]SAY: Skylar Harrison/Thomas.rus : Дерьмо...
+[15:58:11]SAY: Skylar Harrison/Thomas.rus : Какого черта тут творитс
+[15:58:16]SAY: Zachary Henry/Protos-Zerg : ЧТо то летит
+[15:58:18]SAY: Skylar Harrison/Thomas.rus : ТсЯ
+[15:58:20]SAY: Skylar Harrison/Thomas.rus : Мда...
+[16:00:58]SAY: Zachary Henry/Protos-Zerg : У нас проблемы
+[16:01:03]SAY: Zachary Henry/Protos-Zerg : Ало
+[16:01:08]SAY: Zachary Henry/Protos-Zerg : Ало
+[16:01:28]SAY: Zachary Henry/Protos-Zerg : У нас проблемы
+[16:01:35]SAY: Zachary Henry/Protos-Zerg : Через брифинг не пройдем
+[16:01:37]SAY: Zachary Henry/Protos-Zerg : А ангар за ним
+[16:01:55]SAY: Zachary Henry/Protos-Zerg : Могу взорвать
+[16:01:57]SAY: Skylar Harrison/Thomas.rus : Мх...
+[16:01:59]ACCESS: Login: Mollog/(Mollog) from 176.113.230.189-2230213921 || BYOND v511
+[16:02:02]OOC: Zachary Henry/Protos-Zerg : Тут Текстуры взЯты с
+[16:02:06]SAY: Skylar Harrison/Thomas.rus : Обходного пути нет?
+[16:02:07]OOC: Zachary Henry/Protos-Zerg : Со старых маринов
+[16:02:10]OOC: Zachary Henry/Protos-Zerg : Но не совсем старых
+[16:02:11]ADMIN: Queen (BlackCrystall) launched a shuttle from Dropship Console
+[16:02:16]OOC: Zachary Henry/Protos-Zerg : С тех что были до Алмаера
+[16:02:21]SAY: Zachary Henry/Protos-Zerg : Нет
+[16:02:24]OOC: Queen/BlackCrystall : их доробатывал
+[16:02:30]SAY: Skylar Harrison/Thomas.rus : Не нужно взрывать
+[16:02:32]SAY: Skylar Harrison/Thomas.rus : Идем
+[16:02:35]OOC: Zachary Henry/Protos-Zerg : Оно видно
+[16:02:40]SAY: Skylar Harrison/Thomas.rus : Ах бль...
+[16:02:42]SAY: Skylar Harrison/Thomas.rus : Ладно
+[16:03:01]SAY: Zachary Henry/Protos-Zerg : А
+[16:03:02]SAY: Zachary Henry/Protos-Zerg : Хах
+[16:03:02]GAME: Protos-Zerg/(Zachary Henry) planted plastic explosives on spaceship hull at (139,125,5) with 10 second fuse
+[16:03:12]GAME: Explosion with size (-1, -1, 2) in area Briefing Room 
+[16:03:37]SAY: Zachary Henry/Protos-Zerg : Обесточено все
+[16:03:45]OOC: Zachary Henry/Protos-Zerg : Надо будет двигатель настроить
+[16:03:57]OOC: Queen/BlackCrystall : к вам квиа летит
+[16:04:01]OOC: Zachary Henry/Protos-Zerg : Тут на самом деле все похоже на старый Сулако
+[16:04:12]OOC: Zachary Henry/Protos-Zerg : С bpvtytybZbv
+[16:04:17]OOC: Zachary Henry/Protos-Zerg : С изменениЯми
+[16:04:28]ATTACK: UA-577 Gauss Turret shot Queen (blackcrystall) with a the autocannon bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=122;Y=119;Z=5'>JMP</a>)
+[16:04:29]ATTACK: UA-577 Gauss Turret shot Queen (blackcrystall) with a the autocannon bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=122;Y=119;Z=5'>JMP</a>)
+[16:04:30]ATTACK: UA-577 Gauss Turret shot Queen (blackcrystall) with a the autocannon bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=122;Y=119;Z=5'>JMP</a>)
+[16:04:31]OOC: Zachary Henry/Protos-Zerg : Тут есть PMC ?
+[16:04:34]ACCESS: Logout: *no key*/(Mollog)
+[16:04:34]ACCESS: Login: Mollog/(Shiro Takagi) from 176.113.230.189-2230213921 || BYOND v511
+[16:05:00]ATTACK: Zachary Henry (protoszerg) shot Queen (blackcrystall) with a the smartgun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=121;Y=113;Z=5'>JMP</a>)
+[16:05:25]ATTACK: Zachary Henry (protoszerg) shot Queen (blackcrystall) with a the smartgun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=120;Y=112;Z=5'>JMP</a>)
+[16:05:30]ATTACK: Zachary Henry (protoszerg) primed a frag grenade (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=119;Y=112;Z=5'>JMP</a>)
+[16:05:34]GAME: Explosion with size (-1, -1, 2) in area Dropship 1 
+[16:05:36]ATTACK: Zachary Henry (protoszerg) primed an incendiary grenade (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=119;Y=111;Z=5'>JMP</a>)
+[16:05:58]ATTACK: Zachary Henry (protoszerg) primed a frag grenade (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=121;Y=116;Z=5'>JMP</a>)
+[16:06:02]GAME: Explosion with size (-1, -1, 2) in area Dropship 1 
+[16:06:05]ATTACK: Zachary Henry (protoszerg) shot Queen (blackcrystall) with a the smartgun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=120;Y=116;Z=5'>JMP</a>)
+[16:06:08]ATTACK: Zachary Henry (protoszerg) primed an incendiary grenade (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=118;Y=116;Z=5'>JMP</a>)
+[16:06:39]ATTACK: Skylar Harrison (thomasrus) shot Queen (blackcrystall) with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=130;Y=111;Z=5'>JMP</a>)
+[16:06:39]EMOTE: Queen/BlackCrystall : <B>The Queen</B> hisses.
+[16:06:45]ATTACK: Zachary Henry (protoszerg) shot Queen (blackcrystall) with a the smartgun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=122;Y=110;Z=5'>JMP</a>)
+[16:06:45]EMOTE: Queen/BlackCrystall : <B>The Queen</B> hisses.
+[16:06:46]ATTACK: Zachary Henry (protoszerg) shot Queen (blackcrystall) with a the smartgun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=122;Y=110;Z=5'>JMP</a>)
+[16:06:46]ATTACK: Zachary Henry (protoszerg) shot Queen (blackcrystall) with a the smartgun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=122;Y=110;Z=5'>JMP</a>)
+[16:06:48]ATTACK: Skylar Harrison (thomasrus) shot Queen (blackcrystall) with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=129;Y=110;Z=5'>JMP</a>)
+[16:06:48]ATTACK: Zachary Henry (protoszerg) shot Queen (blackcrystall) with a the smartgun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=119;Y=109;Z=5'>JMP</a>)
+[16:06:52]SAY: mouse (81)/ : Squeek!
+[16:07:00]ATTACK: Zachary Henry (protoszerg) shot Queen (blackcrystall) with a the smartgun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=125;Y=109;Z=5'>JMP</a>)
+[16:07:01]ATTACK: Zachary Henry (protoszerg) shot Queen (blackcrystall) with a the smartgun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=125;Y=109;Z=5'>JMP</a>)
+[16:07:15]ATTACK: Skylar Harrison (thomasrus) shot Queen (blackcrystall) with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=132;Y=116;Z=5'>JMP</a>)
+[16:07:16]ATTACK: Zachary Henry (protoszerg) shot Queen (blackcrystall) with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=135;Y=113;Z=5'>JMP</a>)
+[16:07:16]EMOTE: Queen/BlackCrystall : <B>The Queen</B> hisses.
+[16:07:17]ATTACK: Skylar Harrison (thomasrus) shot Queen (blackcrystall) with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=132;Y=114;Z=5'>JMP</a>)
+[16:07:17]ATTACK: Zachary Henry (protoszerg) shot Queen (blackcrystall) with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=135;Y=112;Z=5'>JMP</a>)
+[16:07:17]ATTACK: Skylar Harrison (thomasrus) shot Queen (blackcrystall) with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=132;Y=114;Z=5'>JMP</a>)
+[16:07:19]ATTACK: Zachary Henry (protoszerg) shot Queen (blackcrystall) with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=132;Y=110;Z=5'>JMP</a>)
+[16:07:27]ATTACK: Skylar Harrison (thomasrus) shot Zachary Henry (protoszerg) with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=133;Y=112;Z=5'>JMP</a>) (<a href='?priv_msg=[0x3000075]'>PM</a>)
+[16:07:31]ATTACK: Skylar Harrison (thomasrus) shot Queen (blackcrystall) with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=128;Y=113;Z=5'>JMP</a>)
+[16:07:40]ATTACK: Zachary Henry (protoszerg) shot Queen (blackcrystall) with a the smartgun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=132;Y=110;Z=5'>JMP</a>)
+[16:07:55]ATTACK: Zachary Henry (protoszerg) shot Queen (blackcrystall) with a the smartgun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=125;Y=114;Z=5'>JMP</a>)
+[16:07:56]ATTACK: Zachary Henry (protoszerg) shot Queen (blackcrystall) with a the smartgun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=125;Y=114;Z=5'>JMP</a>)
+[16:07:56]ATTACK: Zachary Henry (protoszerg) shot Queen (blackcrystall) with a the smartgun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=125;Y=114;Z=5'>JMP</a>)
+[16:07:58]ATTACK: Zachary Henry (protoszerg) shot Queen (blackcrystall) with a the smartgun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=124;Y=113;Z=5'>JMP</a>)
+[16:07:58]ATTACK: Zachary Henry (protoszerg) shot Queen (blackcrystall) with a the smartgun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=124;Y=113;Z=5'>JMP</a>)
+[16:07:58]ATTACK: Zachary Henry (protoszerg) shot Queen (blackcrystall) with a the smartgun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=124;Y=113;Z=5'>JMP</a>)
+[16:08:02]ATTACK: Zachary Henry (protoszerg) shot Queen (blackcrystall) with a the smartgun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=128;Y=114;Z=5'>JMP</a>)
+[16:08:03]ATTACK: Zachary Henry (protoszerg) shot Queen (blackcrystall) with a the smartgun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=128;Y=115;Z=5'>JMP</a>)
+[16:08:03]ATTACK: Zachary Henry (protoszerg) shot Queen (blackcrystall) with a the smartgun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=128;Y=115;Z=5'>JMP</a>)
+[16:08:04]ATTACK: Zachary Henry (protoszerg) shot Queen (blackcrystall) with a the smartgun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=128;Y=115;Z=5'>JMP</a>)
+[16:08:05]ATTACK: Zachary Henry (protoszerg) shot Queen (blackcrystall) with a the smartgun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=128;Y=115;Z=5'>JMP</a>)
+[16:08:05]ATTACK: Skylar Harrison (thomasrus) shot Queen (blackcrystall) with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=129;Y=116;Z=5'>JMP</a>)
+[16:08:06]ATTACK: Zachary Henry (protoszerg) shot Queen (blackcrystall) with a the smartgun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=128;Y=115;Z=5'>JMP</a>)
+[16:08:08]ATTACK: Zachary Henry (protoszerg) shot Queen (blackcrystall) with a the smartgun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=128;Y=115;Z=5'>JMP</a>)
+[16:08:08]ATTACK: Zachary Henry (protoszerg) shot Queen (blackcrystall) with a the smartgun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=128;Y=115;Z=5'>JMP</a>)
+[16:08:10]ATTACK: Zachary Henry (protoszerg) shot Queen (blackcrystall) with a the smartgun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=128;Y=115;Z=5'>JMP</a>)
+[16:08:10]ATTACK: Zachary Henry (protoszerg) shot Queen (blackcrystall) with a the smartgun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=128;Y=115;Z=5'>JMP</a>)
+[16:08:12]GAME: Antagonists at round end were...
+[16:08:12]GAME: Aliens: Queen(BlackCrystall).
+[16:08:18]SAY: Skylar Harrison/Thomas.rus : Ну и дрнь...
+[16:08:27]OOC: Queen/BlackCrystall : скричь релоад 12 сек осталось
+[16:08:31]SAY: Skylar Harrison/Thomas.rus : Теперь
+[16:08:37]SAY: Skylar Harrison/Thomas.rus : Как собрать эту хренть?
+[16:08:38]OOC: Zachary Henry/Protos-Zerg : Сколько всего Релоад его?
+[16:08:40]SAY: mouse (81)/ : SQUEEK!
+[16:08:41]SAY: Zachary Henry/Protos-Zerg : Не наша забота
+[16:08:50]OOC: Queen/BlackCrystall : 300 сек
+[16:08:54]OOC: Zachary Henry/Protos-Zerg : Нормально
+[16:09:01]OOC: Zachary Henry/Protos-Zerg : Сколько плазмы уходит?
+[16:09:18]SAY: mouse (81)/ : SQUEEK!
+[16:09:19]ACCESS: Logout: BlackCrystall/(Queen)
+[16:09:19]ACCESS: Logout: Protos-Zerg/(Zachary Henry)
+[16:09:19]ACCESS: Logout: Thomas.rus/(Skylar Harrison)
+[16:09:19]ACCESS: Logout: Mollog/(Shiro Takagi)
+
+
+Starting up. 16:10.00
+---------------------
+[16:10:00]MISC: Adding game mode traitor (traitor) to configuration.
+[16:10:00]MISC: Adding game mode Colonial Marines (Colonial Marines) to configuration.
+[16:10:00]MISC: Adding game mode Hunter Games (Hunter Games) to configuration.
+[16:10:00]MISC: Adding game mode Ice Colony (Ice Colony) to configuration.
+[16:10:00]MISC: Adding game mode Whiskey Outpost (Whiskey Outpost) to configuration.
+[16:10:00]MISC: Adding game mode extended (extended) to configuration.
+[16:10:00]MISC: Unknown setting in configuration: 'assistant_limit'
+[16:10:00]MISC: Unknown setting in configuration: 'assistant_ratio'
+[16:10:00]MISC: Unknown setting in configuration: 'station_levels'
+[16:10:00]MISC: Unknown setting in configuration: 'admin_levels'
+[16:10:00]MISC: Unknown setting in configuration: 'contact_levels'
+[16:10:00]MISC: Unknown setting in configuration: 'player_levels'
+[16:10:00]MISC: Unknown setting in configuration: 'expected_round_length'
+[16:10:00]MISC: Unknown setting in configuration: 'event_delay_lower'
+[16:10:00]MISC: Unknown setting in configuration: 'event_delay_upper'
+[16:10:00]MISC: Unknown setting in configuration: 'event_custom_start_major'
+[16:10:00]MISC: Unknown setting in configuration: 'starlight'
+[16:10:00]MISC: Unknown setting in configuration: 'player_reroute_cap'
+[16:10:00]MISC: Unknown setting in configuration: 'disable_space_ruins'
+[16:10:00]MISC: Unknown setting in configuration: 'feedback_tableprefix'
+[16:10:00]MISC: Saved mode is 'Colonial Marines'
+[16:10:03]ADMIN: Loading jobban_rank
+[16:10:03]ADMIN: jobban_keylist was empty
+[16:10:03]ADMIN: Loading Banlist
+[16:10:03]DEBUG: Rebuilding Master Controller
+[16:11:00]ACCESS: Login: BlackCristall/(BlackCristall) from 127.0.0.1-2513525785 || BYOND v512
+[16:11:28]ACCESS: Login: Mollog/(Mollog) from 176.113.230.189-2230213921 || BYOND v511
+[16:11:49]ACCESS: Login: Protos-Zerg/(Protos-Zerg) from 5.164.133.148-3930154522 || BYOND v512
+[16:11:56]VOTE: Gamemode vote started by the server.
+[16:11:56]DEBUG: The server has called a gamemode vote
+[16:12:09]ACCESS: Logout: BlackCristall/(BlackCristall)
+[16:12:15]ACCESS: Login: Thomas.rus/(Thomas.rus) from 134.17.137.57-476934342 || BYOND v512
+[16:12:40]ACCESS: Login: BlackCrystall/(BlackCrystall) from 127.0.0.1-2513525785 || BYOND v512
+[16:12:54]ACCESS: Login: BlackCristall/(BlackCristall) from 127.0.0.1-2513525785 || BYOND v512
+[16:12:54]ACCESS: Notice: BlackCristall/(BlackCristall) has the same IP (127.0.0.1) and ID (2513525785) as BlackCrystall/(BlackCrystall).
+[16:12:56]DEBUG: The server has called a gamemode vote
+[16:12:56]VOTE: <b>Vote Result: Colonial Marines</b>
+[16:13:59]OOC: Protos-Zerg/Protos-Zerg : Тут два Кристала
+[16:14:09]OOC: BlackCrystall/BlackCrystall : таксссс
+[16:14:13]OOC: BlackCrystall/BlackCrystall : Это как?
+[16:14:16]DEBUG: BlackCrystall had xeno enabled, so we are drafting them.
+[16:14:16]ACCESS: Logout: *no key*/(Protos-Zerg)
+[16:14:16]ACCESS: Login: Protos-Zerg/(Zachary Henry) from 5.164.133.148-3930154522 || BYOND v512
+[16:14:16]ACCESS: Logout: *no key*/(BlackCrystall)
+[16:14:16]ACCESS: Login: BlackCrystall/(Goodwin Swabey) from 127.0.0.1-2513525785 || BYOND v512
+[16:14:16]ACCESS: Notice: BlackCrystall/(Goodwin Swabey) has the same IP (127.0.0.1) and ID (2513525785) as BlackCristall/(BlackCristall).
+[16:14:16]ACCESS: Logout: *no key*/(BlackCristall)
+[16:14:16]ACCESS: Login: BlackCristall/(Philip Carmichael) from 127.0.0.1-2513525785 || BYOND v512
+[16:14:16]ACCESS: Notice: BlackCristall/(Philip Carmichael) has the same IP (127.0.0.1) and ID (2513525785) as BlackCrystall/(Goodwin Swabey).
+[16:14:17]ACCESS: Logout: *no key*/(Goodwin Swabey)
+[16:14:17]ACCESS: Login: BlackCrystall/(Alien Larva) from 127.0.0.1-2513525785 || BYOND v512
+[16:14:17]ACCESS: Notice: BlackCrystall/(Alien Larva) has the same IP (127.0.0.1) and ID (2513525785) as BlackCristall/(Philip Carmichael).
+[16:14:26]DEBUG: Next event in 25.152 minutes.
+[16:14:28]ACCESS: Logout: *no key*/(Mollog)
+[16:14:28]ACCESS: Login: Mollog/(Shiro Takagi) from 176.113.230.189-2230213921 || BYOND v511
+[16:14:29]ACCESS: Logout: *no key*/(Thomas.rus)
+[16:14:29]ACCESS: Login: Thomas.rus/(Vik Melloy) from 134.17.137.57-476934342 || BYOND v512
+[16:14:33]SAY: mouse (996)/ : Squeek?
+[16:14:41]ACCESS: Logout: Protos-Zerg/(Zachary Henry)
+[16:15:04]ADMIN: Protos-Zerg (DC)/(Zachary Henry) has entered a stasis pod. (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=188;Y=118;Z=5'>JMP</a>)
+[16:15:18]ACCESS: Login: Protos-Zerg/(Zachary Henry) from 5.164.133.148-3930154522 || BYOND v512
+[16:15:49]SAY: Zachary Henry/Protos-Zerg : Альфа?
+[16:15:54]SAY: Vik Melloy/Thomas.rus : Fkmaf
+[16:15:56]SAY: Vik Melloy/Thomas.rus : Фак
+[16:15:58]SAY: Vik Melloy/Thomas.rus : Альфа
+[16:16:07]SAY: Zachary Henry/Protos-Zerg : Дать Огнемет?
+[16:16:12]SAY: Vik Melloy/Thomas.rus : Нет
+[16:16:17]SAY: Vik Melloy/Thomas.rus : Накой черт он мне?
+[16:16:21]SAY: Zachary Henry/Protos-Zerg : Сжигать
+[16:17:56]ATTACK: Shiro Takagi (mollog) was hit by a the M44 combat revolver, thrown by Shiro Takagi (mollog) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=150;Y=147;Z=5'>JMP</a>)
+[16:19:02]OOC: Vik Melloy/Thomas.rus : Тут горелка портит глаза?
+[16:19:08]OOC: Philip Carmichael/BlackCristall : Да
+[16:19:25]OOC: Zachary Henry/Protos-Zerg : Тут штык влит на что то?
+[16:19:30]OOC: Zachary Henry/Protos-Zerg : ВлиЯет?
+[16:19:43]OOC: Zachary Henry/Protos-Zerg : Не на ближний урон, а в смысле Меньше шанс попасть
+[16:19:44]ACCESS: Login: Good314/(Good314) from 85.140.1.133-4062190161 || BYOND v512
+[16:19:45]OOC: Zachary Henry/Protos-Zerg : И прочее
+[16:21:24]GAME: BlackCristall/(Philip Carmichael) planted plastic explosives on spaceship hull at (139,125,5) with 10 second fuse
+[16:21:34]GAME: Explosion with size (-1, -1, 2) in area Briefing Room 
+[16:21:41]ACCESS: Logout: *no key*/(Good314)
+[16:21:41]ACCESS: Login: Good314/(Enrique Tyler) from 85.140.1.133-4062190161 || BYOND v512
+[16:22:06]ACCESS: Login: Alphabetti Spaghetti/(Alphabetti Spaghetti) from 123.2.32.159-3357432428 || BYOND v511
+[16:22:29]ACCESS: Logout: *no key*/(Young Bloody Larva (989))
+[16:22:29]ACCESS: Login: BlackCrystall/(Alien Larva (989)) from 127.0.0.1-2513525785 || BYOND v512
+[16:22:29]ACCESS: Notice: BlackCrystall/(Alien Larva (989)) has the same IP (127.0.0.1) and ID (2513525785) as BlackCristall/(Philip Carmichael).
+[16:22:42]OOC: Zachary Henry/Protos-Zerg : А мы улететь не можем
+[16:22:43]OOC: Zachary Henry/Protos-Zerg : Хах
+[16:22:55]ADMIN: BlackCrystall/(Young Drone (587)) used secret quickpower
+[16:22:59]ADMIN: BlackCrystall/(Young Drone (587)) used secret quickpower
+[16:23:00]ADMIN: BlackCrystall/(Young Drone (587)) used secret quickpower
+[16:23:09]SAY: Vik Melloy/Thomas.rus : Дерьмо...
+[16:23:13]SAY: Vik Melloy/Thomas.rus : Сраные консоли
+[16:23:16]SAY: Vik Melloy/Thomas.rus : Куда ни гль
+[16:23:22]SAY: Vik Melloy/Thomas.rus : Везде нужен сраный доступ!
+[16:23:27]SAY: Zachary Henry/Protos-Zerg : Идем сломаем каюту командера
+[16:23:29]SAY: Zachary Henry/Protos-Zerg : Там доступ есть
+[16:23:31]SAY: Zachary Henry/Protos-Zerg : Наверное
+[16:23:36]SAY: Vik Melloy/Thomas.rus : Наверное...
+[16:23:39]SAY: Shiro Takagi/Mollog : может взорвем?
+[16:23:44]SAY: Zachary Henry/Protos-Zerg : Шатл?
+[16:23:49]SAY: Shiro Takagi/Mollog : все
+[16:23:58]SAY: Zachary Henry/Protos-Zerg : Нет
+[16:24:01]SAY: Zachary Henry/Protos-Zerg : Только каюту
+[16:24:39]SAY: Zachary Henry/Protos-Zerg : Ломай
+[16:25:03]OOC: Zachary Henry/Protos-Zerg : А тут есть орбитальный бомбандировки?
+[16:25:09]OOC: Zachary Henry/Protos-Zerg : Орбитальные*
+[16:25:30]SAY: Vik Melloy/Thomas.rus : Дерьмо
+[16:25:38]ADMIN: BlackCrystall/(Young Drone (587)) edited the admin rank of blackcrystall to Owner
+[16:25:47]SAY: Zachary Henry/Protos-Zerg : Ты не можешь чертовым мультитулом разблочить дверь?
+[16:25:50]ACCESS: Logout: *no key*/(Young Drone (587))
+[16:25:50]ACCESS: Login: BlackCrystall/(Queen) from 127.0.0.1-2513525785 || BYOND v512
+[16:25:50]ACCESS: Notice: BlackCrystall/(Queen) has the same IP (127.0.0.1) and ID (2513525785) as BlackCristall/(Philip Carmichael).
+[16:25:55]SAY: Enrique Tyler/Good314 : Кхм
+[16:25:57]SAY: Shiro Takagi/Mollog : И так не работает...
+[16:26:00]SAY: Zachary Henry/Protos-Zerg : Ну пиздец
+[16:26:02]ADMIN: Queen (BlackCrystall) launched a shuttle from Dropship Console
+[16:26:14]OOC: Zachary Henry/Protos-Zerg : Я верю, мы когда то сможем посмотреть карту
+[16:26:26]OOC: Philip Carmichael/BlackCristall : угу
+[16:26:40]OOC: Zachary Henry/Protos-Zerg : Я в след. раунде возьму Пилота или командера
+[16:26:46]OOC: Zachary Henry/Protos-Zerg : Что бы хоть кто то полетел
+[16:26:50]SAY: Vik Melloy/Thomas.rus : Дерьмо...
+[16:26:56]ACCESS: Logout: *no key*/(Alphabetti Spaghetti)
+[16:26:56]ACCESS: Login: Alphabetti Spaghetti/(Nydia Duncan) from 123.2.32.159-3357432428 || BYOND v511
+[16:27:14]SAY: Vik Melloy/Thomas.rus : НЕТУ!
+[16:27:23]GAME: BlackCristall/(Philip Carmichael) planted plastic explosives on Shuttle Doors at (239,16,4) with 10 second fuse
+[16:27:27]SAY: Zachary Henry/Protos-Zerg : Айда к шатлам
+[16:27:29]SAY: Zachary Henry/Protos-Zerg : У нас угнали же 1
+[16:27:34]GAME: Explosion with size (-1, -1, 2) in area Dropship 1 
+[16:27:38]SAY: Zachary Henry/Protos-Zerg : Проверка
+[16:27:47]EMOTE: Philip Carmichael/BlackCristall : <B>CPL Philip Carmichael</B> gasps!
+[16:27:50]EMOTE: Philip Carmichael/BlackCristall : <B>CPL Philip Carmichael</B> gasps!
+[16:27:59]EMOTE: Philip Carmichael/BlackCristall : <B>CPL Philip Carmichael</B> gasps!
+[16:28:01]SAY: Shiro Takagi/Mollog : эмм
+[16:28:02]EMOTE: Philip Carmichael/BlackCristall : <B>CPL Philip Carmichael</B> gasps!
+[16:28:07]SAY: Shiro Takagi/Mollog : Чего-то не хватает
+[16:28:08]SAY: Enrique Tyler/Good314 : Что?
+[16:28:11]ACCESS: Logout: *no key*/(Philip Carmichael)
+[16:28:11]ACCESS: Login: BlackCristall/(Philip Carmichael) from 127.0.0.1-2513525785 || BYOND v512
+[16:28:11]ACCESS: Notice: BlackCristall/(Philip Carmichael) has the same IP (127.0.0.1) and ID (2513525785) as BlackCrystall/(Queen).
+[16:28:16]SAY: Zachary Henry/Protos-Zerg : Да
+[16:28:18]SAY: Zachary Henry/Protos-Zerg : У нас шатл угнали
+[16:28:21]SAY: Zachary Henry/Protos-Zerg : СТроим оборону
+[16:28:22]SAY: Enrique Tyler/Good314 : Хм...
+[16:28:30]SAY: Enrique Tyler/Good314 : Где?
+[16:28:46]SAY: Vik Melloy/Thomas.rus : Да чего строитть то?
+[16:28:48]SAY: Enrique Tyler/Good314 : Где строить будем?
+[16:28:57]SAY: Zachary Henry/Protos-Zerg : Ни где
+[16:29:01]SAY: Zachary Henry/Protos-Zerg : Максимум турель сюда
+[16:29:03]SAY: Vik Melloy/Thomas.rus : Заштурмуем то говно, которое ИМЕЕТ ДОСТУП К СРАНЫМ КОНСОЛЯМ на шатле
+[16:29:06]SAY: Zachary Henry/Protos-Zerg : А дальше ручками
+[16:29:08]ADMIN: BlackCrystall/(Queen) toggled respawn to On.
+[16:29:24]OOC: Zachary Henry/Protos-Zerg : Тут противогазы не крутые((
+[16:29:25]OOC: Vik Melloy/Thomas.rus : Тут рации вообще воркают?
+[16:29:29]OOC: Zachary Henry/Protos-Zerg : Свет нужен
+[16:29:32]OOC: Zachary Henry/Protos-Zerg : Длворка же
+[16:29:39]OOC: Vik Melloy/Thomas.rus : Ааааа...
+[16:29:43]SAY: Zachary Henry/Protos-Zerg : Так
+[16:29:45]OOC: Vik Melloy/Thomas.rus : Как сложна
+[16:29:49]SAY: Zachary Henry/Protos-Zerg : Стойте тут, за инженером
+[16:29:52]SAY: Zachary Henry/Protos-Zerg : И скажу план
+[16:29:53]SAY: Nydia Duncan/Alphabetti Spaghetti : Im the last survivor
+[16:29:54]SAY: Nydia Duncan/Alphabetti Spaghetti : Me
+[16:29:59]SAY: Nydia Duncan/Alphabetti Spaghetti : Alphabetti Spaghetti
+[16:30:01]SAY: Zachary Henry/Protos-Zerg : Идем
+[16:30:02]SAY: Enrique Tyler/Good314 : Эх...
+[16:30:03]SAY: Zachary Henry/Protos-Zerg : ЮСда
+[16:30:12]SAY: Zachary Henry/Protos-Zerg : И так
+[16:30:14]SAY: Zachary Henry/Protos-Zerg : ПЛан такой
+[16:30:20]SAY: Zachary Henry/Protos-Zerg : По двое с каждой из сторон
+[16:30:23]SAY: Zachary Henry/Protos-Zerg : Входим в окна
+[16:30:28]SAY: Zachary Henry/Protos-Zerg : Растреливаем
+[16:30:29]SAY: Shiro Takagi/Mollog : Иногда чувствую себпушечным мом...
+[16:30:31]SAY: Zachary Henry/Protos-Zerg : Курим
+[16:30:32]ADMIN: Queen (BlackCrystall) launched a shuttle from Dropship Console
+[16:30:36]SAY: Enrique Tyler/Good314 : Идут!
+[16:30:41]SAY: Enrique Tyler/Good314 : Кхм
+[16:30:41]ADMIN: BlackCrystall/(Queen) deleted UA-577 Gauss Turret at (189,73,2) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000076]'>JMP</A>)
+[16:30:42]SAY: Zachary Henry/Protos-Zerg : Двое на ту строну!
+[16:30:44]SAY: Enrique Tyler/Good314 : Они на шатле
+[16:30:45]ADMIN: BlackCrystall/(Queen) deleted UA-577 Gauss Turret at (243,25,4) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000076]'>JMP</A>)
+[16:30:45]SAY: Zachary Henry/Protos-Zerg : Уже 1!
+[16:30:56]ADMIN: BlackCrystall/(Queen) deleted Shuttle Doors at (242,25,4) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000076]'>JMP</A>)
+[16:31:00]ADMIN: BlackCrystall/(Queen) deleted UA-577 Gauss Turret at (244,25,4) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000076]'>JMP</A>)
+[16:31:03]ADMIN: BlackCrystall/(Queen) deleted Shuttle Doors at (240,25,4) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000076]'>JMP</A>)
+[16:31:06]ADMIN: BlackCrystall/(Queen) deleted UA-577 Gauss Turret at (238,25,4) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000076]'>JMP</A>)
+[16:31:19]SAY: Enrique Tyler/Good314 : Ух...
+[16:31:26]SAY: Enrique Tyler/Good314 : И сколько их там?
+[16:31:40]SAY: Enrique Tyler/Good314 : Хм...
+[16:31:41]OOC: Zachary Henry/Protos-Zerg : m4ra Сильно дамажит или так себе?
+[16:31:43]SAY: Enrique Tyler/Good314 : Пульсова
+[16:32:05]SAY: Enrique Tyler/Good314 : Не люблю сорок первую
+[16:32:07]SAY: Shiro Takagi/Mollog : Всегда спасает
+[16:32:10]OOC: Vik Melloy/Thomas.rus : Хз...
+[16:32:14]SAY: Enrique Tyler/Good314 : Хм...
+[16:32:26]ADMIN: BlackCrystall/(Queen) modified Queen's maxHealth to 800
+[16:32:29]SAY: Enrique Tyler/Good314 : Идут!
+[16:32:45]ATTACK: Enrique Tyler (good314) shot Shiro Takagi (mollog) with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=130;Y=116;Z=5'>JMP</a>) (<a href='?priv_msg=[0x3000078]'>PM</a>)
+[16:32:46]ATTACK: Vik Melloy (thomasrus) shot Queen (blackcrystall) with a A19 High Velocity Round (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=119;Y=109;Z=5'>JMP</a>)
+[16:32:46]EMOTE: Queen/BlackCrystall : <B>The Queen</B> hisses.
+[16:32:47]ATTACK: Vik Melloy (thomasrus) shot Queen (blackcrystall) with a A19 High Velocity Round (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=117;Y=109;Z=5'>JMP</a>)
+[16:32:52]ATTACK: Vik Melloy (thomasrus) shot Queen (blackcrystall) with a A19 High Velocity Round (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=117;Y=117;Z=5'>JMP</a>)
+[16:32:59]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=115;Y=117;Z=5'>JMP</a>)
+[16:32:59]ATTACK: Enrique Tyler (good314) shot Queen (blackcrystall) with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=119;Y=120;Z=5'>JMP</a>)
+[16:32:59]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=115;Y=119;Z=5'>JMP</a>)
+[16:32:59]EMOTE: Queen/BlackCrystall : <B>The Queen</B> hisses.
+[16:33:00]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=115;Y=120;Z=5'>JMP</a>)
+[16:33:02]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=116;Y=124;Z=5'>JMP</a>)
+[16:33:05]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=115;Y=124;Z=5'>JMP</a>)
+[16:33:07]ATTACK: Enrique Tyler (good314) shot Queen (blackcrystall) with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=117;Y=123;Z=5'>JMP</a>)
+[16:33:07]EMOTE: Queen/BlackCrystall : <B>The Queen</B> hisses.
+[16:33:07]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=115;Y=124;Z=5'>JMP</a>)
+[16:33:08]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=115;Y=124;Z=5'>JMP</a>)
+[16:33:08]EMOTE: Queen/BlackCrystall : <B>The Queen</B> hisses.
+[16:33:12]ATTACK: Enrique Tyler (good314) shot Shiro Takagi (mollog) with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=116;Y=123;Z=5'>JMP</a>) (<a href='?priv_msg=[0x3000078]'>PM</a>)
+[16:33:27]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=126;Y=136;Z=5'>JMP</a>)
+[16:33:29]ATTACK: Vik Melloy (thomasrus) shot Queen (blackcrystall) with a A19 High Velocity Round (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=118;Y=132;Z=5'>JMP</a>)
+[16:33:29]EMOTE: Queen/BlackCrystall : <B>The Queen</B> roars!
+[16:33:32]ATTACK: Vik Melloy (thomasrus) shot Queen (blackcrystall) with a A19 High Velocity Round (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=119;Y=136;Z=5'>JMP</a>)
+[16:33:38]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=132;Y=124;Z=5'>JMP</a>)
+[16:33:39]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=132;Y=121;Z=5'>JMP</a>)
+[16:33:41]ATTACK: Enrique Tyler (good314) shot Queen (blackcrystall) with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=133;Y=128;Z=5'>JMP</a>)
+[16:33:41]ATTACK: Zachary Henry (protoszerg) shot Queen (blackcrystall) with a A19 High Velocity Round (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=133;Y=126;Z=5'>JMP</a>)
+[16:33:41]EMOTE: Queen/BlackCrystall : <B>The Queen</B> hisses.
+[16:33:41]ATTACK: Enrique Tyler (good314) shot Queen (blackcrystall) with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=134;Y=128;Z=5'>JMP</a>)
+[16:33:41]EMOTE: Queen/BlackCrystall : <B>The Queen</B> hisses.
+[16:33:42]ATTACK: Enrique Tyler (good314) shot Queen (blackcrystall) with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=135;Y=128;Z=5'>JMP</a>)
+[16:33:42]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=135;Y=122;Z=5'>JMP</a>)
+[16:33:42]ATTACK: Enrique Tyler (good314) shot Zachary Henry (protoszerg) with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=136;Y=127;Z=5'>JMP</a>) (<a href='?priv_msg=[0x3000078]'>PM</a>)
+[16:33:43]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=136;Y=122;Z=5'>JMP</a>)
+[16:33:45]ATTACK: Enrique Tyler (good314) shot Zachary Henry (protoszerg) with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=137;Y=127;Z=5'>JMP</a>) (<a href='?priv_msg=[0x3000078]'>PM</a>)
+[16:33:45]ATTACK: Zachary Henry (protoszerg) shot Queen (blackcrystall) with a A19 High Velocity Round (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=140;Y=125;Z=5'>JMP</a>)
+[16:33:49]ATTACK: Shiro Takagi (mollog) shot Vik Melloy (thomasrus) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=134;Y=125;Z=5'>JMP</a>) (<a href='?priv_msg=[0x3000074]'>PM</a>)
+[16:33:51]ATTACK: Enrique Tyler (good314) shot Vik Melloy (thomasrus) with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=144;Y=122;Z=5'>JMP</a>) (<a href='?priv_msg=[0x3000078]'>PM</a>)
+[16:33:52]ATTACK: Vik Melloy (thomasrus) shot Queen (blackcrystall) with a A19 High Velocity Round (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=145;Y=125;Z=5'>JMP</a>)
+[16:33:52]EMOTE: Shiro Takagi/Mollog : <B>PFC Shiro Takagi</B> screams!
+[16:33:52]EMOTE: Queen/BlackCrystall : <B>The Queen</B> roars!
+[16:33:52]ATTACK: Enrique Tyler (good314) shot Zachary Henry (protoszerg) with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=146;Y=122;Z=5'>JMP</a>) (<a href='?priv_msg=[0x3000078]'>PM</a>)
+[16:33:54]ATTACK: Enrique Tyler (good314) shot Queen (blackcrystall) with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=146;Y=122;Z=5'>JMP</a>)
+[16:33:55]ATTACK: Enrique Tyler (good314) shot Queen (blackcrystall) with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=146;Y=122;Z=5'>JMP</a>)
+[16:33:57]ATTACK: Enrique Tyler (good314) shot Zachary Henry (protoszerg) with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=145;Y=121;Z=5'>JMP</a>) (<a href='?priv_msg=[0x3000078]'>PM</a>)
+[16:33:57]ATTACK: Vik Melloy (thomasrus) shot Queen (blackcrystall) with a A19 High Velocity Round (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=144;Y=124;Z=5'>JMP</a>)
+[16:33:59]ATTACK: Zachary Henry (protoszerg) primed an incendiary grenade (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=141;Y=123;Z=5'>JMP</a>)
+[16:34:02]GAME: Antagonists at round end were...
+[16:34:02]GAME: Aliens: Queen(BlackCrystall).
+[16:34:02]SAY: Enrique Tyler/Good314 : Ух...
+[16:34:07]ATTACK: Zachary Henry (protoszerg) primed a frag grenade (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=145;Y=123;Z=5'>JMP</a>)
+[16:34:11]GAME: Explosion with size (-1, -1, 2) in area Briefing Room 
+[16:34:13]ATTACK: Mollog/(Shiro Takagi) attacked BlackCrystall/(Queen) with marine combat knife (INTENT: HELP) (DAMTYE: BRUTE)
+[16:34:14]ATTACK: Mollog/(Shiro Takagi) attacked BlackCrystall/(Queen) with marine combat knife (INTENT: HELP) (DAMTYE: BRUTE)
+[16:34:15]ATTACK: Mollog/(Shiro Takagi) attacked BlackCrystall/(Queen) with marine combat knife (INTENT: HELP) (DAMTYE: BRUTE)
+[16:34:16]ATTACK: Mollog/(Shiro Takagi) attacked BlackCrystall/(Queen) with marine combat knife (INTENT: HELP) (DAMTYE: BRUTE)
+[16:34:16]OOC: Zachary Henry/Protos-Zerg : Все, беру командера или пилота
+[16:34:17]ATTACK: Mollog/(Shiro Takagi) attacked BlackCrystall/(Queen) with marine combat knife (INTENT: HELP) (DAMTYE: BRUTE)
+[16:34:18]ATTACK: Mollog/(Shiro Takagi) attacked BlackCrystall/(Queen) with marine combat knife (INTENT: HELP) (DAMTYE: BRUTE)
+[16:34:19]ATTACK: Mollog/(Shiro Takagi) attacked BlackCrystall/(Queen) with marine combat knife (INTENT: HELP) (DAMTYE: BRUTE)
+[16:34:20]ATTACK: Mollog/(Shiro Takagi) attacked BlackCrystall/(Queen) with marine combat knife (INTENT: HELP) (DAMTYE: BRUTE)
+[16:34:21]ACCESS: Logout: Alphabetti Spaghetti/(Nydia Duncan)
+[16:34:22]ATTACK: Mollog/(Shiro Takagi) attacked BlackCrystall/(Queen) with marine combat knife (INTENT: HELP) (DAMTYE: BRUTE)
+[16:34:23]ATTACK: Mollog/(Shiro Takagi) attacked BlackCrystall/(Queen) with marine combat knife (INTENT: HELP) (DAMTYE: BRUTE)
+[16:34:23]SAY: Enrique Tyler/Good314 : Почистить бы шатл...
+[16:34:24]OOC: Vik Melloy/Thomas.rus : )
+[16:34:24]ATTACK: Mollog/(Shiro Takagi) attacked BlackCrystall/(Queen) with marine combat knife (INTENT: HELP) (DAMTYE: BRUTE)
+[16:34:25]ATTACK: Mollog/(Shiro Takagi) attacked BlackCrystall/(Queen) with marine combat knife (INTENT: HELP) (DAMTYE: BRUTE)
+[16:34:26]ATTACK: Mollog/(Shiro Takagi) attacked BlackCrystall/(Queen) with marine combat knife (INTENT: HELP) (DAMTYE: BRUTE)
+[16:34:28]SAY: Vik Melloy/Thomas.rus : Нахер надо
+[16:34:31]SAY: Vik Melloy/Thomas.rus : Я бухать
+[16:35:06]ACCESS: Logout: BlackCristall/(Philip Carmichael)
+[16:35:09]ACCESS: Logout: BlackCrystall/(Queen)
+[16:35:09]ACCESS: Logout: Mollog/(Shiro Takagi)
+[16:35:09]ACCESS: Logout: Protos-Zerg/(Zachary Henry)
+[16:35:09]ACCESS: Logout: Thomas.rus/(Vik Melloy)
+[16:35:09]ACCESS: Logout: Good314/(Enrique Tyler)
+
+
+Starting up. 16:35.28
+---------------------
+[16:35:28]MISC: Adding game mode traitor (traitor) to configuration.
+[16:35:28]MISC: Adding game mode Colonial Marines (Colonial Marines) to configuration.
+[16:35:28]MISC: Adding game mode Hunter Games (Hunter Games) to configuration.
+[16:35:28]MISC: Adding game mode Ice Colony (Ice Colony) to configuration.
+[16:35:28]MISC: Adding game mode Whiskey Outpost (Whiskey Outpost) to configuration.
+[16:35:28]MISC: Adding game mode extended (extended) to configuration.
+[16:35:28]MISC: Unknown setting in configuration: 'assistant_limit'
+[16:35:28]MISC: Unknown setting in configuration: 'assistant_ratio'
+[16:35:28]MISC: Unknown setting in configuration: 'station_levels'
+[16:35:28]MISC: Unknown setting in configuration: 'admin_levels'
+[16:35:28]MISC: Unknown setting in configuration: 'contact_levels'
+[16:35:28]MISC: Unknown setting in configuration: 'player_levels'
+[16:35:28]MISC: Unknown setting in configuration: 'expected_round_length'
+[16:35:28]MISC: Unknown setting in configuration: 'event_delay_lower'
+[16:35:28]MISC: Unknown setting in configuration: 'event_delay_upper'
+[16:35:28]MISC: Unknown setting in configuration: 'event_custom_start_major'
+[16:35:28]MISC: Unknown setting in configuration: 'starlight'
+[16:35:28]MISC: Unknown setting in configuration: 'player_reroute_cap'
+[16:35:28]MISC: Unknown setting in configuration: 'disable_space_ruins'
+[16:35:28]MISC: Unknown setting in configuration: 'feedback_tableprefix'
+[16:35:28]MISC: Saved mode is 'Colonial Marines'
+[16:35:30]ADMIN: Loading jobban_rank
+[16:35:30]ADMIN: jobban_keylist was empty
+[16:35:30]ADMIN: Loading Banlist
+[16:35:30]DEBUG: Rebuilding Master Controller
+[16:36:17]ACCESS: Login: Samylesalboter/(Samylesalboter) from 188.224.39.200-1713253822 || BYOND v512
+[16:36:34]ACCESS: Login: BlackCristall/(BlackCristall) from 127.0.0.1-2513525785 || BYOND v512
+[16:36:43]ACCESS: Logout: BlackCristall/(BlackCristall)
+[16:36:54]ACCESS: Login: Thomas.rus/(Thomas.rus) from 134.17.137.57-476934342 || BYOND v512
+[16:36:56]ACCESS: Login: BlackCrystall/(BlackCrystall) from 127.0.0.1-2513525785 || BYOND v512
+[16:37:16]OOC: BlackCrystall/BlackCrystall : Если что реконекта авто нет
+[16:37:16]VOTE: Gamemode vote started by the server.
+[16:37:16]DEBUG: The server has called a gamemode vote
+[16:37:25]ACCESS: Login: Mollog/(Mollog) from 176.113.230.189-2230213921 || BYOND v511
+[16:37:27]OOC: Thomas.rus/Thomas.rus : Надо было бы раньше сказать?
+[16:37:30]OOC: Samylesalboter/Samylesalboter : Russian server ?
+[16:37:39]OOC: BlackCrystall/BlackCrystall : Rus + Eng
+[16:37:39]ACCESS: Logout: Samylesalboter/(Samylesalboter)
+[16:38:16]DEBUG: The server has called a gamemode vote
+[16:38:16]VOTE: <b>Vote Result: Colonial Marines</b>
+[16:39:04]OOC: BlackCrystall/BlackCrystall : Avto reconect disable/нету авто реконекта!
+[16:39:21]OOC: Mollog/Mollog : Просто перезапусти
+[16:39:25]ACCESS: Login: Good314/(Good314) from 85.140.1.133-4062190161 || BYOND v512
+[16:39:36]DEBUG: BlackCrystall had xeno enabled, so we are drafting them.
+[16:39:36]DEBUG: Thomas.rus had survivor enabled, so we are drafting them.
+[16:39:36]ACCESS: Logout: *no key*/(Thomas.rus)
+[16:39:36]ACCESS: Login: Thomas.rus/(Vik Melloy) from 134.17.137.57-476934342 || BYOND v512
+[16:39:36]ACCESS: Logout: *no key*/(BlackCrystall)
+[16:39:36]ACCESS: Login: BlackCrystall/(Goodwin Swabey) from 127.0.0.1-2513525785 || BYOND v512
+[16:39:37]ACCESS: Logout: *no key*/(Goodwin Swabey)
+[16:39:37]ACCESS: Login: BlackCrystall/(Alien Larva) from 127.0.0.1-2513525785 || BYOND v512
+[16:39:45]DEBUG: Next event in 36.29 minutes.
+[16:39:58]ACCESS: Logout: *no key*/(Mollog)
+[16:39:58]ACCESS: Login: Mollog/(Shiro Takagi) from 176.113.230.189-2230213921 || BYOND v511
+[16:40:17]ACCESS: Login: Protos-Zerg/(Protos-Zerg) from 5.164.133.148-3930154522 || BYOND v512
+[16:40:18]OOC: Mature Larva (157)/BlackCrystall : Avto reconect disable/нету авто реконекта!
+[16:40:27]OOC: Protos-Zerg/Protos-Zerg : Z en
+[16:40:29]OOC: Protos-Zerg/Protos-Zerg : Я тут
+[16:40:32]OOC: Protos-Zerg/Protos-Zerg : Инет на времпропал
+[16:40:32]OOC: Mature Larva (157)/BlackCrystall : будет исправлено в следующем обновление
+[16:40:39]ACCESS: Logout: *no key*/(Protos-Zerg)
+[16:40:39]ACCESS: Login: Protos-Zerg/(Zachary Henry) from 5.164.133.148-3930154522 || BYOND v512
+[16:40:47]ACCESS: Logout: Protos-Zerg/(Zachary Henry)
+[16:40:57]ACCESS: Logout: *no key*/(Young Bloody Larva (157))
+[16:40:57]ACCESS: Login: BlackCrystall/(Alien Larva (157)) from 127.0.0.1-2513525785 || BYOND v512
+[16:41:32]ACCESS: Login: Protos-Zerg/(Zachary Henry) from 5.164.133.148-3930154522 || BYOND v512
+[16:41:33]ACCESS: Logout: *no key*/(Good314)
+[16:41:33]ACCESS: Login: Good314/(Enrique Tyler) from 85.140.1.133-4062190161 || BYOND v512
+[16:42:01]OOC: Zachary Henry/Protos-Zerg : Где двигатель
+[16:43:11]ADMIN: BlackCrystall/(Young Drone (485)) modified Young Drone (485)'s storedplasma to 750
+[16:43:12]ADMIN: HELP: Protos-Zerg/(Zachary Henry): Хелп, как это настраивать - heard by 1 non-AFK admins.
+[16:43:16]ACCESS: Logout: *no key*/(Young Drone (485))
+[16:43:16]ACCESS: Login: BlackCrystall/(Queen) from 127.0.0.1-2513525785 || BYOND v512
+[16:43:27]ADMIN: PM: BlackCrystall/(Queen)->Protos-Zerg/(Zachary Henry): в задней часте короблтоисть левее
+[16:43:32]ADMIN: Queen (BlackCrystall) launched a shuttle from Dropship Console
+[16:43:44]ADMIN: PM: Protos-Zerg/(Zachary Henry)->BlackCrystall/(Queen): А мог бы ты не вызывать шатл к себе, к тебе скоро марины полет
+[16:43:54]ADMIN: BlackCrystall/(Queen) modified Queen's maxHealth to 800
+[16:44:08]ADMIN: PM: BlackCrystall/(Queen)->Protos-Zerg/(Zachary Henry): hjq
+[16:44:14]ADMIN: PM: BlackCrystall/(Queen)->Protos-Zerg/(Zachary Henry): лады
+[16:44:20]SAY: Zachary Henry/Protos-Zerg : Морпех
+[16:44:24]SAY: Zachary Henry/Protos-Zerg : Ждите в брифинге
+[16:44:27]ADMIN: BlackCrystall/(Queen) modified Queen's maxplasma to 1600
+[16:44:27]OOC: Unknown/Thomas.rus : Какой-то дикий раш со стороны алинов уже третий раунд
+[16:44:27]SAY: Zachary Henry/Protos-Zerg : И остальынм скажи
+[16:44:31]SAY: Shiro Takagi/Mollog : Так точно
+[16:45:04]ADMIN: PM: Protos-Zerg/(Zachary Henry)->BlackCrystall/(Queen): Я тут в комнате под реактором, тут конвеер
+[16:45:14]SAY: Enrique Tyler/Good314 : А хуле у нас уже спиздили шатл?
+[16:45:17]ADMIN: PM: BlackCrystall/(Queen)->Protos-Zerg/(Zachary Henry): это мусоро провод вродебы
+[16:45:28]ADMIN: PM: BlackCrystall/(Queen)->Protos-Zerg/(Zachary Henry): или двигатели на ерном топливе
+[16:45:30]ADMIN: PM: Protos-Zerg/(Zachary Henry)->BlackCrystall/(Queen): Я про у реактора теперь
+[16:45:32]SAY: Shiro Takagi/Mollog : Неизвестно, приказ ждать здесь
+[16:45:40]ADMIN: PM: Protos-Zerg/(Zachary Henry)->BlackCrystall/(Queen): Скорее двигатели
+[16:45:52]ADMIN: PM: Protos-Zerg/(Zachary Henry)->BlackCrystall/(Queen): Я прЯмо у реактора
+[16:46:01]ADMIN: PM: BlackCrystall/(Queen)->Protos-Zerg/(Zachary Henry): топливо тащи
+[16:46:23]ADMIN: BlackCrystall/(Queen) deleted Passenger Seat at (188,70,2) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000072]'>JMP</A>)
+[16:46:26]ADMIN: BlackCrystall/(Queen) deleted Passenger Seat at (188,67,2) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000072]'>JMP</A>)
+[16:46:29]ADMIN: BlackCrystall/(Queen) deleted Passenger Seat at (194,67,2) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000072]'>JMP</A>)
+[16:46:30]SAY: Enrique Tyler/Good314 : Где капитан?
+[16:46:32]ADMIN: BlackCrystall/(Queen) deleted Passenger Seat at (194,70,2) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000072]'>JMP</A>)
+[16:46:34]ADMIN: BlackCrystall/(Queen) deleted Passenger Seat at (194,71,2) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000072]'>JMP</A>)
+[16:46:36]SAY: Shiro Takagi/Mollog : Неизвестно
+[16:46:36]ADMIN: BlackCrystall/(Queen) deleted Passenger Seat at (194,69,2) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000072]'>JMP</A>)
+[16:46:38]ADMIN: BlackCrystall/(Queen) deleted Passenger Seat at (194,68,2) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000072]'>JMP</A>)
+[16:46:41]ADMIN: BlackCrystall/(Queen) deleted Passenger Seat at (194,66,2) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000072]'>JMP</A>)
+[16:46:43]ADMIN: BlackCrystall/(Queen) deleted Passenger Seat at (192,70,2) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000072]'>JMP</A>)
+[16:46:45]ADMIN: BlackCrystall/(Queen) deleted Passenger Seat at (192,69,2) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000072]'>JMP</A>)
+[16:46:48]ADMIN: BlackCrystall/(Queen) deleted Passenger Seat at (192,68,2) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000072]'>JMP</A>)
+[16:46:50]ADMIN: BlackCrystall/(Queen) deleted Passenger Seat at (192,67,2) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000072]'>JMP</A>)
+[16:46:53]SAY: Enrique Tyler/Good314 : Хм?
+[16:46:53]ADMIN: BlackCrystall/(Queen) deleted Passenger Seat at (190,70,2) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000072]'>JMP</A>)
+[16:46:57]ADMIN: BlackCrystall/(Queen) deleted Passenger Seat at (190,69,2) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000072]'>JMP</A>)
+[16:46:59]ADMIN: BlackCrystall/(Queen) deleted Passenger Seat at (190,68,2) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000072]'>JMP</A>)
+[16:47:04]ADMIN: PM: Protos-Zerg/(Zachary Henry)->BlackCrystall/(Queen): Тут ик
+[16:47:07]ADMIN: BlackCrystall/(Queen) deleted Passenger Seat at (190,67,2) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000072]'>JMP</A>)
+[16:47:08]SAY: Enrique Tyler/Good314 : Хм...
+[16:47:09]ADMIN: PM: Protos-Zerg/(Zachary Henry)->BlackCrystall/(Queen): Ящик
+[16:47:10]ADMIN: BlackCrystall/(Queen) deleted Passenger Seat at (188,69,2) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000072]'>JMP</A>)
+[16:47:12]ADMIN: BlackCrystall/(Queen) deleted Passenger Seat at (188,68,2) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000072]'>JMP</A>)
+[16:47:15]ADMIN: BlackCrystall/(Queen) deleted Passenger Seat at (188,66,2) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000072]'>JMP</A>)
+[16:47:18]ADMIN: BlackCrystall/(Queen) deleted Passenger Seat at (188,71,2) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000072]'>JMP</A>)
+[16:47:33]ADMIN: PM: Protos-Zerg/(Zachary Henry)->BlackCrystall/(Queen): Антиматер контйнер
+[16:47:37]ADMIN: PM: BlackCrystall/(Queen)->Protos-Zerg/(Zachary Henry): угу
+[16:47:37]ADMIN: PM: Protos-Zerg/(Zachary Henry)->BlackCrystall/(Queen): В нутри
+[16:47:55]ADMIN: PM: BlackCrystall/(Queen)->Protos-Zerg/(Zachary Henry): запускай значит реактор, клас по консоле
+[16:48:07]ADMIN: PM: BlackCrystall/(Queen)->Protos-Zerg/(Zachary Henry): токо контроль его или жахнит
+[16:48:18]ADMIN: PM: Protos-Zerg/(Zachary Henry)->BlackCrystall/(Queen): Ок
+[16:48:21]SAY: Zachary Henry/Protos-Zerg : Проверка
+[16:48:22]ADMIN: BlackCrystall/(Queen) deleted the egg at (194,70,2) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000072]'>JMP</A>)
+[16:48:57]OOC: Unknown/Thomas.rus : Какие-то лаги только у менпошли?
+[16:49:27]ADMIN: BlackCrystall/(Queen) deleted Passenger Seat at (192,62,2) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000072]'>JMP</A>)
+[16:49:30]ADMIN: BlackCrystall/(Queen) deleted Passenger Seat at (192,61,2) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000072]'>JMP</A>)
+[16:49:33]ADMIN: BlackCrystall/(Queen) deleted Passenger Seat at (190,62,2) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000072]'>JMP</A>)
+[16:49:41]ADMIN: BlackCrystall/(Queen) deleted Passenger Seat at (190,61,2) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000072]'>JMP</A>)
+[16:49:52]SAY: Zachary Henry/Protos-Zerg : Ало
+[16:49:55]SAY: Zachary Henry/Protos-Zerg : Отлично
+[16:50:02]SAY: Zachary Henry/Protos-Zerg : Я запустил двигатель
+[16:50:05]SAY: Enrique Tyler/Good314 : Капитан!
+[16:50:06]SAY: Zachary Henry/Protos-Zerg : Вы в брифинге?
+[16:50:17]SAY: Enrique Tyler/Good314 : Почему у нас уже спиздили шатл?
+[16:50:23]SAY: Zachary Henry/Protos-Zerg : Забей
+[16:50:28]SAY: Zachary Henry/Protos-Zerg : Все на первый шатл
+[16:50:41]SAY: Enrique Tyler/Good314 : Это Дроп-под
+[16:50:51]ADMIN: Queen (BlackCrystall) launched a shuttle from Dropship Console
+[16:50:52]SAY: Zachary Henry/Protos-Zerg : Лезь и не умничай
+[16:50:54]SAY: Enrique Tyler/Good314 : Ммм?
+[16:50:56]ADMIN: BlackCrystall/(Queen) deleted UA-577 Gauss Turret at (193,73,2) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000072]'>JMP</A>)
+[16:50:59]ADMIN: BlackCrystall/(Queen) deleted UA-577 Gauss Turret at (194,73,2) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000072]'>JMP</A>)
+[16:51:01]ADMIN: BlackCrystall/(Queen) deleted UA-577 Gauss Turret at (188,73,2) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000072]'>JMP</A>)
+[16:51:04]SAY: Enrique Tyler/Good314 : Что делать?
+[16:51:05]ADMIN: BlackCrystall/(Queen) deleted Shuttle Doors at (240,25,4) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000072]'>JMP</A>)
+[16:51:07]ADMIN: BlackCrystall/(Queen) deleted UA-577 Gauss Turret at (239,25,4) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000072]'>JMP</A>)
+[16:51:09]SAY: Enrique Tyler/Good314 : Что делать?
+[16:51:11]ADMIN: Zachary Henry (Protos-Zerg) launched a shuttle from Drop Pod Console
+[16:51:17]SAY: Zachary Henry/Protos-Zerg : В перед
+[16:51:47]SAY: Shiro Takagi/Mollog : Что то страшно немного
+[16:51:53]SAY: Enrique Tyler/Good314 : Ха...
+[16:51:54]ADMIN: HELP: Protos-Zerg/(Zachary Henry): А что контролить? оно вроде работает - heard by 1 non-AFK admins.
+[16:51:57]ADMIN: BlackCrystall/(Queen) modified Queen's storedplasma to 1600
+[16:52:01]SAY: Enrique Tyler/Good314 : Вернём на шатл?
+[16:52:02]ADMIN: PM: BlackCrystall/(Queen)->Protos-Zerg/(Zachary Henry): у?
+[16:52:06]SAY: Enrique Tyler/Good314 : Наш...
+[16:52:07]SAY: Enrique Tyler/Good314 : Кхм
+[16:52:10]ADMIN: PM: Protos-Zerg/(Zachary Henry)->BlackCrystall/(Queen): Я про двигатель
+[16:52:14]ADMIN: PM: BlackCrystall/(Queen)->Protos-Zerg/(Zachary Henry): а что?
+[16:52:16]SAY: Shiro Takagi/Mollog : Надо бы,
+[16:52:21]ADMIN: PM: Protos-Zerg/(Zachary Henry)->BlackCrystall/(Queen): Ты сказал контролить или жахнет
+[16:52:25]ADMIN: PM: Protos-Zerg/(Zachary Henry)->BlackCrystall/(Queen): А что контролить то
+[16:52:26]ADMIN: PM: BlackCrystall/(Queen)->Protos-Zerg/(Zachary Henry): угу
+[16:52:28]ATTACK: Enrique Tyler (good314) shot the monkey (789) () with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=100;Y=37;Z=2'>JMP</a>)
+[16:52:36]ADMIN: PM: BlackCrystall/(Queen)->Protos-Zerg/(Zachary Henry): движок
+[16:52:40]ADMIN: PM: Protos-Zerg/(Zachary Henry)->BlackCrystall/(Queen): Как
+[16:52:47]ADMIN: PM: BlackCrystall/(Queen)->Protos-Zerg/(Zachary Henry): в консоли следи
+[16:52:58]ADMIN: PM: Protos-Zerg/(Zachary Henry)->BlackCrystall/(Queen): Если начнет ломатс че делать
+[16:53:05]ADMIN: PM: BlackCrystall/(Queen)->Protos-Zerg/(Zachary Henry): беги
+[16:53:14]ADMIN: PM: Protos-Zerg/(Zachary Henry)->BlackCrystall/(Queen): Справедливо
+[16:53:16]ADMIN: PM: BlackCrystall/(Queen)->Protos-Zerg/(Zachary Henry): или вынь топливо
+[16:53:18]ACCESS: Login: VaValor/(VaValor) from 120.29.100.69-1895305346 || BYOND v512
+[16:53:25]ADMIN: PM: Protos-Zerg/(Zachary Henry)->BlackCrystall/(Queen): Около реактора что то стукает
+[16:53:27]SAY: Enrique Tyler/Good314 : Фу
+[16:53:40]SAY: Enrique Tyler/Good314 : Эм..
+[16:53:43]SAY: Enrique Tyler/Good314 : На пол!
+[16:53:51]ADMIN: PM: BlackCrystall/(Queen)->Protos-Zerg/(Zachary Henry): токо не говори что ты реактор угробил?!
+[16:54:00]ADMIN: PM: Protos-Zerg/(Zachary Henry)->BlackCrystall/(Queen): Вроде нет
+[16:54:01]SAY: Enrique Tyler/Good314 : Стой, бл
+[16:54:12]ADMIN: PM: Protos-Zerg/(Zachary Henry)->BlackCrystall/(Queen): Инстабили 100
+[16:54:22]ADMIN: PM: BlackCrystall/(Queen)->Protos-Zerg/(Zachary Henry): иннн???
+[16:54:26]ADMIN: PM: Protos-Zerg/(Zachary Henry)->BlackCrystall/(Queen): Да
+[16:54:27]ADMIN: PM: BlackCrystall/(Queen)->Protos-Zerg/(Zachary Henry): еббобо
+[16:54:30]ADMIN: PM: BlackCrystall/(Queen)->Protos-Zerg/(Zachary Henry): всё
+[16:54:33]ADMIN: PM: BlackCrystall/(Queen)->Protos-Zerg/(Zachary Henry): это конец
+[16:54:33]SAY: Enrique Tyler/Good314 : Ладно-ладно
+[16:54:36]SAY: Enrique Tyler/Good314 : Пусть валит
+[16:54:36]ADMIN: PM: Protos-Zerg/(Zachary Henry)->BlackCrystall/(Queen): Бл
+[16:54:38]ADMIN: PM: BlackCrystall/(Queen)->Protos-Zerg/(Zachary Henry): вырубай ро
+[16:54:43]ADMIN: PM: BlackCrystall/(Queen)->Protos-Zerg/(Zachary Henry): Ядро
+[16:54:43]SAY: Enrique Tyler/Good314 : К поду
+[16:54:43]SAY: Mister Wiggles/ : AUUUUUU
+[16:54:59]SAY: Unknown/Thomas.rus : У-у-у-ух...
+[16:55:00]SAY: Enrique Tyler/Good314 : Только бы не угнали
+[16:55:11]ADMIN: Queen (BlackCrystall) launched a shuttle from Drop Pod Console
+[16:55:12]SAY: Enrique Tyler/Good314 : Капитан!!
+[16:55:16]SAY: Enrique Tyler/Good314 : Чер...
+[16:55:17]SAY: Zachary Henry/Protos-Zerg : Я тут не при делах
+[16:55:27]SAY: Enrique Tyler/Good314 : Эм...
+[16:55:30]SAY: Unknown/Thomas.rus : А-а-ау?
+[16:55:38]ADMIN: PM: Protos-Zerg/(Zachary Henry)->BlackCrystall/(Queen): А корабль может лететь куда то? раз тут есть движки
+[16:55:42]ADMIN: PM: Protos-Zerg/(Zachary Henry)->BlackCrystall/(Queen): Как на Луне
+[16:55:45]SAY: Enrique Tyler/Good314 : Ну...
+[16:55:49]ADMIN: PM: BlackCrystall/(Queen)->Protos-Zerg/(Zachary Henry): угу
+[16:55:51]SAY: Enrique Tyler/Good314 : Шатл мы проебали
+[16:55:52]SAY: Shiro Takagi/Mollog : мне кажетсна корабле что то произошло
+[16:55:54]ADMIN: PM: Protos-Zerg/(Zachary Henry)->BlackCrystall/(Queen): О, крута
+[16:55:57]ADMIN: PM: Protos-Zerg/(Zachary Henry)->BlackCrystall/(Queen): Как
+[16:55:58]ADMIN: PM: BlackCrystall/(Queen)->Protos-Zerg/(Zachary Henry): может локацию сменить
+[16:56:03]SAY: Shiro Takagi/Mollog : Бл..
+[16:56:04]ADMIN: PM: BlackCrystall/(Queen)->Protos-Zerg/(Zachary Henry): на зимнюю
+[16:56:08]SAY: Enrique Tyler/Good314 : Хм...
+[16:56:13]ADMIN: PM: Protos-Zerg/(Zachary Henry)->BlackCrystall/(Queen): Приколько
+[16:56:14]ADMIN: PM: BlackCrystall/(Queen)->Protos-Zerg/(Zachary Henry): и алиенам придётсбегать
+[16:56:29]ATTACK: Enrique Tyler (good314) shot Queen (blackcrystall) with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=130;Y=133;Z=5'>JMP</a>)
+[16:56:31]SAY: Enrique Tyler/Good314 : Ааа!
+[16:56:37]ACCESS: Logout: VaValor/(VaValor)
+[16:56:37]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=129;Y=136;Z=5'>JMP</a>)
+[16:56:39]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=124;Y=136;Z=5'>JMP</a>)
+[16:56:47]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=133;Y=135;Z=5'>JMP</a>)
+[16:56:48]SAY: Enrique Tyler/Good314 : Убей убей!
+[16:56:50]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=132;Y=127;Z=5'>JMP</a>)
+[16:56:50]EMOTE: Queen/BlackCrystall : <B>The Queen</B> hisses.
+[16:56:54]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=132;Y=127;Z=5'>JMP</a>)
+[16:56:54]EMOTE: Queen/BlackCrystall : <B>The Queen</B> roars!
+[16:56:58]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=131;Y=128;Z=5'>JMP</a>)
+[16:57:00]ADMIN: PM: Protos-Zerg/(Zachary Henry)->BlackCrystall/(Queen): Тут короче самый верхний пункт instability 100% А ниже Average Stability 100
+[16:57:02]ATTACK: Enrique Tyler (good314) shot Queen (blackcrystall) with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=132;Y=135;Z=5'>JMP</a>)
+[16:57:31]SAY: Enrique Tyler/Good314 : Капитан!!
+[16:57:32]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=132;Y=127;Z=5'>JMP</a>)
+[16:57:35]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=137;Y=127;Z=5'>JMP</a>)
+[16:57:38]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=139;Y=124;Z=5'>JMP</a>)
+[16:57:39]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=142;Y=124;Z=5'>JMP</a>)
+[16:57:39]ATTACK: Good314/(Enrique Tyler) attacked BlackCrystall/(Queen) with M39 submachinegun (INTENT: HELP) (DAMTYE: BRUTE)
+[16:57:40]ATTACK: Shiro Takagi (mollog) shot Enrique Tyler (good314) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=140;Y=124;Z=5'>JMP</a>) (<a href='?priv_msg=[0x3000073]'>PM</a>)
+[16:57:41]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=138;Y=124;Z=5'>JMP</a>)
+[16:57:44]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=137;Y=124;Z=5'>JMP</a>)
+[16:57:44]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=137;Y=124;Z=5'>JMP</a>)
+[16:57:44]SAY: Enrique Tyler/Good314 : Уберите!
+[16:57:46]SAY: Mister Wiggles/ : Woof!
+[16:57:47]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=135;Y=124;Z=5'>JMP</a>)
+[16:57:48]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=135;Y=124;Z=5'>JMP</a>)
+[16:58:19]ATTACK: Zachary Henry (protoszerg) shot Queen (blackcrystall) with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=138;Y=124;Z=5'>JMP</a>)
+[16:58:19]ACCESS: Login: VaValor/(VaValor) from 120.29.100.69-1895305346 || BYOND v512
+[16:58:36]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the pistol bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=148;Y=124;Z=5'>JMP</a>)
+[16:58:43]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the pistol bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=148;Y=124;Z=5'>JMP</a>)
+[16:58:45]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the pistol bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=152;Y=125;Z=5'>JMP</a>)
+[16:58:53]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the pistol bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=149;Y=124;Z=5'>JMP</a>)
+[16:59:09]ADMIN: BlackCrystall/(Queen) deleted the interior door at (140,122,5) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000072]'>JMP</A>)
+[16:59:32]ATTACK: Zachary Henry (protoszerg) injected Enrique Tyler (Good314) with Tricordrazine Auto-Injector. Reagents: Tricordrazine (INTENT: HELP) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=100;Y=104;Z=5'>JMP</a>)
+[16:59:58]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=146;Y=124;Z=5'>JMP</a>)
+[16:59:59]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=148;Y=124;Z=5'>JMP</a>)
+[17:00:00]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=152;Y=124;Z=5'>JMP</a>)
+[17:00:00]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=152;Y=124;Z=5'>JMP</a>)
+[17:00:05]ATTACK: Zachary Henry (protoszerg) injected Enrique Tyler (Good314) with Bicaridine Auto-Injector. Reagents: Bicaridine (INTENT: HELP) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=100;Y=104;Z=5'>JMP</a>)
+[17:00:10]ATTACK: Zachary Henry (protoszerg) injected Enrique Tyler (Good314) with Quick Clot. Reagents: Quick clot (INTENT: HELP) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=100;Y=104;Z=5'>JMP</a>)
+[17:00:15]ATTACK: Zachary Henry (protoszerg) injected Enrique Tyler (Good314) with Dexalin Plus Auto-Injector. Reagents: Dexalin Plus (INTENT: HELP) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=100;Y=104;Z=5'>JMP</a>)
+[17:00:26]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=165;Y=128;Z=5'>JMP</a>)
+[17:00:46]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=180;Y=127;Z=5'>JMP</a>)
+[17:00:46]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=179;Y=127;Z=5'>JMP</a>)
+[17:00:47]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=179;Y=127;Z=5'>JMP</a>)
+[17:00:47]EMOTE: Queen/BlackCrystall : <B>The Queen</B> hisses.
+[17:00:48]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=179;Y=127;Z=5'>JMP</a>)
+[17:00:49]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=179;Y=127;Z=5'>JMP</a>)
+[17:00:49]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=179;Y=127;Z=5'>JMP</a>)
+[17:00:50]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=179;Y=127;Z=5'>JMP</a>)
+[17:00:51]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=177;Y=127;Z=5'>JMP</a>)
+[17:00:59]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=168;Y=127;Z=5'>JMP</a>)
+[17:01:01]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=166;Y=127;Z=5'>JMP</a>)
+[17:01:02]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=164;Y=127;Z=5'>JMP</a>)
+[17:01:02]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=161;Y=127;Z=5'>JMP</a>)
+[17:01:28]ADMIN: BlackCrystall/(Queen) modified Queen's storedplasma to 1600
+[17:01:34]ADMIN: BlackCrystall/(Queen) healed / Rrvived BlackCrystall/(Queen)
+[17:01:54]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=170;Y=127;Z=5'>JMP</a>)
+[17:01:55]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=171;Y=127;Z=5'>JMP</a>)
+[17:01:57]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=176;Y=127;Z=5'>JMP</a>)
+[17:01:57]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=176;Y=127;Z=5'>JMP</a>)
+[17:01:57]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=178;Y=127;Z=5'>JMP</a>)
+[17:01:58]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=178;Y=127;Z=5'>JMP</a>)
+[17:02:00]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=179;Y=127;Z=5'>JMP</a>)
+[17:02:01]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=177;Y=126;Z=5'>JMP</a>)
+[17:02:04]ATTACK: Shiro Takagi (mollog) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=175;Y=126;Z=5'>JMP</a>)
+[17:02:08]SAY: Zachary Henry/Protos-Zerg : Проверка
+[17:02:41]ADMIN: HELP: Protos-Zerg/(Zachary Henry): Где оружейка мостика? - heard by 1 non-AFK admins.
+[17:02:46]ADMIN: PM: BlackCrystall/(Queen)->Protos-Zerg/(Zachary Henry): ?
+[17:02:55]ADMIN: PM: Protos-Zerg/(Zachary Henry)->BlackCrystall/(Queen): Ну, типо что бы офицеры воружились
+[17:03:05]ACCESS: Login: Jerman5/(Jerman5) from 88.66.38.82-3467763257 || BYOND v512
+[17:03:15]OOC: (LOCAL) Zachary Henry/Protos-Zerg : Ты в теле?
+[17:03:49]OOC: (LOCAL) Enrique Tyler/Good314 : Да
+[17:04:03]ACCESS: Logout: *no key*/(VaValor)
+[17:04:03]ACCESS: Login: VaValor/(Joe 'Schmuckatelli' Vick) from 120.29.100.69-1895305346 || BYOND v512
+[17:04:08]ACCESS: Logout: *no key*/(Jerman5)
+[17:04:08]ACCESS: Login: Jerman5/(Justin Willey) from 88.66.38.82-3467763257 || BYOND v512
+[17:04:47]OOC: (LOCAL) Zachary Henry/Protos-Zerg : Ухади ереца D:
+[17:04:52]OOC: (LOCAL) Zachary Henry/Protos-Zerg : Ящереца*
+[17:05:22]SAY: Zachary Henry/Protos-Zerg : Проверка
+[17:05:49]OOC: Zachary Henry/Protos-Zerg : Тут надо что то делать со светом, он в секунду уходит
+[17:05:57]OOC: Joe 'Schmuckatelli' Vick/VaValor : totally, bro
+[17:07:07]OOC: (LOCAL) Joe 'Schmuckatelli' Vick/VaValor : oof!
+[17:07:25]ADMIN: HELP: Protos-Zerg/(Zachary Henry): Я кстати могу как то помочь с разработкой? чуток шарю в коде, хоть и слабо - heard by 1 non-AFK admins.
+[17:07:29]ADMIN: PM: BlackCrystall/(Queen)->Protos-Zerg/(Zachary Henry): e xnj&
+[17:07:30]EMOTE: Enrique Tyler/Good314 : <B>PFC Enrique Tyler</B> gasps!
+[17:07:33]EMOTE: Enrique Tyler/Good314 : <B>PFC Enrique Tyler</B> gasps!
+[17:07:58]ACCESS: Logout: *no key*/(Shiro Takagi)
+[17:07:58]ACCESS: Login: Mollog/(Shiro Takagi) from 176.113.230.189-2230213921 || BYOND v511
+[17:08:08]ADMIN: BlackCrystall/(Queen) used Dispatch Response Team.
+[17:08:21]GAME: <a href='?priv_msg=[0x5000004]'>Protos-Zerg</a>/(Zachary Henry) has ghosted.
+[17:08:21]ACCESS: Logout: *no key*/(Zachary Henry)
+[17:08:21]ACCESS: Login: Protos-Zerg/(Zachary Henry) from 5.164.133.148-3930154522 || BYOND v512
+[17:08:23]EMOTE: Enrique Tyler/Good314 : <B>PFC Enrique Tyler</B> gasps!
+[17:09:04]ADMIN: PM: Protos-Zerg/(Zachary Henry)->BlackCrystall/(Queen): Верни в тело, вышел нечайно
+[17:09:21]ADMIN: PM: BlackCrystall/(Queen)->Protos-Zerg/(Zachary Henry): Не могу хенос (один)
+[17:09:23]EMOTE: Enrique Tyler/Good314 : <B>PFC Enrique Tyler</B> gasps!
+[17:09:25]EMOTE: Enrique Tyler/Good314 : <B>PFC Enrique Tyler</B> gasps!
+[17:09:31]EMOTE: Enrique Tyler/Good314 : <B>PFC Enrique Tyler</B> gasps!
+[17:09:39]EMOTE: Enrique Tyler/Good314 : <B>PFC Enrique Tyler</B> gasps!
+[17:09:45]EMOTE: Enrique Tyler/Good314 : <B>PFC Enrique Tyler</B> gasps!
+[17:09:47]ADMIN: PM: Protos-Zerg/(Zachary Henry)->BlackCrystall/(Queen): Разве нельзна ф6 открыть панель игроков, там найти тело, открыть его Vv, и там вписать в нужном месте сикей?
+[17:09:55]ADMIN: PM: Protos-Zerg/(Zachary Henry)->BlackCrystall/(Queen): Или ф5, не помню
+[17:09:57]EMOTE: Enrique Tyler/Good314 : <B>PFC Enrique Tyler</B> gasps!
+[17:10:05]EMOTE: Enrique Tyler/Good314 : <B>PFC Enrique Tyler</B> gasps!
+[17:10:12]ADMIN: BlackCrystall/(Queen) allowed Protos-Zerg/(Zachary Henry) to bypass the 30 minute respawn limit
+[17:10:13]EMOTE: Enrique Tyler/Good314 : <B>PFC Enrique Tyler</B> gasps!
+[17:10:17]ACCESS: Login: SpartanWolfJr/(SpartanWolfJr) from 82.29.97.85-3259133721 || BYOND v512
+[17:10:33]EMOTE: Enrique Tyler/Good314 : <B>PFC Enrique Tyler</B> gasps!
+[17:10:41]EMOTE: Enrique Tyler/Good314 : <B>PFC Enrique Tyler</B> gasps!
+[17:10:43]ACCESS: Logout: SpartanWolfJr/(SpartanWolfJr)
+[17:11:15]EMOTE: Enrique Tyler/Good314 : <B>PFC Enrique Tyler</B> gasps!
+[17:11:23]ADMIN: BlackCrystall/(Queen) has created a command report: All go to evac/Все эвакуируемс
+
+[17:11:34]ACCESS: Login: Agecom3/(Agecom3) from 79.193.154.160-1288623208 || BYOND v512
+[17:11:40]EMOTE: Enrique Tyler/Good314 : <B>PFC Enrique Tyler</B> gasps!
+[17:11:42]EMOTE: Enrique Tyler/Good314 : <B>PFC Enrique Tyler</B> gasps!
+[17:11:50]EMOTE: Enrique Tyler/Good314 : <B>PFC Enrique Tyler</B> gasps!
+[17:12:02]EMOTE: Enrique Tyler/Good314 : <B>PFC Enrique Tyler</B> gasps!
+[17:12:22]EMOTE: Enrique Tyler/Good314 : <B>PFC Enrique Tyler</B> gasps!
+[17:12:29]ATTACK: Justin Willey (jerman5) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=175;Y=127;Z=5'>JMP</a>)
+[17:12:40]ATTACK: Joe 'Schmuckatelli' Vick (vavalor) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=181;Y=128;Z=5'>JMP</a>)
+[17:12:42]ATTACK: Joe 'Schmuckatelli' Vick (vavalor) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=179;Y=128;Z=5'>JMP</a>)
+[17:12:42]EMOTE: Queen/BlackCrystall : <B>The Queen</B> hisses.
+[17:12:48]ATTACK: Joe 'Schmuckatelli' Vick (vavalor) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=173;Y=128;Z=5'>JMP</a>)
+[17:12:55]ATTACK: Joe 'Schmuckatelli' Vick (vavalor) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=168;Y=128;Z=5'>JMP</a>)
+[17:12:55]ATTACK: Joe 'Schmuckatelli' Vick (vavalor) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=168;Y=128;Z=5'>JMP</a>)
+[17:12:58]ATTACK: Joe 'Schmuckatelli' Vick (vavalor) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=166;Y=128;Z=5'>JMP</a>)
+[17:13:04]EMOTE: Enrique Tyler/Good314 : <B>PFC Enrique Tyler</B> gasps!
+[17:13:20]ATTACK: Joe 'Schmuckatelli' Vick (vavalor) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=167;Y=128;Z=5'>JMP</a>)
+[17:13:34]ADMIN: HELP: Protos-Zerg/(Zachary Henry): А можно в вайтлист предаторов попасть? - heard by 1 non-AFK admins.
+[17:13:35]ATTACK: Justin Willey (jerman5) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=194;Y=127;Z=5'>JMP</a>)
+[17:13:36]ATTACK: Justin Willey (jerman5) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=195;Y=127;Z=5'>JMP</a>)
+[17:13:37]ATTACK: Justin Willey (jerman5) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=197;Y=126;Z=5'>JMP</a>)
+[17:13:38]ACCESS: Logout: *no key*/(Agecom3)
+[17:13:38]ACCESS: Login: Agecom3/(Sebastian Prill) from 79.193.154.160-1288623208 || BYOND v512
+[17:13:44]ATTACK: Justin Willey (jerman5) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=197;Y=126;Z=5'>JMP</a>)
+[17:13:45]ATTACK: Justin Willey (jerman5) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=199;Y=124;Z=5'>JMP</a>)
+[17:13:46]ADMIN: BlackCrystall/(Queen) used Dispatch Response Team.
+[17:13:48]ATTACK: Justin Willey (jerman5) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=199;Y=125;Z=5'>JMP</a>)
+[17:13:48]ATTACK: Justin Willey (jerman5) shot Queen (blackcrystall) with a the armor-piercing rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=199;Y=124;Z=5'>JMP</a>)
+[17:13:50]EMOTE: Enrique Tyler/Good314 : <B>PFC Enrique Tyler</B> gasps!
+[17:13:52]EMOTE: Zachary Henry/ : <B>CMDR Zachary Henry</B> coughs!
+[17:13:53]GAME: <a href='?priv_msg=[0x5000000]'>Good314</a>/(Enrique Tyler) has ghosted.
+[17:13:53]ACCESS: Logout: *no key*/(Enrique Tyler)
+[17:13:53]ACCESS: Login: Good314/(Enrique Tyler) from 85.140.1.133-4062190161 || BYOND v512
+[17:13:56]EMOTE: Enrique Tyler/ : <B>PFC Enrique Tyler</B> gasps!
+[17:14:04]EMOTE: Enrique Tyler/ : <B>PFC Enrique Tyler</B> gasps!
+[17:14:08]EMOTE: Sebastian Prill/Agecom3 : <B>CPL Sebastian Prill</B> gasps!
+[17:14:10]ATTACK: Justin Willey (jerman5) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=185;Y=125;Z=5'>JMP</a>)
+[17:14:12]ATTACK: Justin Willey (jerman5) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=185;Y=124;Z=5'>JMP</a>)
+[17:14:12]EMOTE: Zachary Henry/ : <B>CMDR Zachary Henry</B> coughs!
+[17:14:12]ATTACK: Justin Willey (jerman5) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=186;Y=124;Z=5'>JMP</a>)
+[17:14:12]EMOTE: Queen/BlackCrystall : <B>The Queen</B> hisses.
+[17:14:14]ATTACK: Justin Willey (jerman5) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=186;Y=124;Z=5'>JMP</a>)
+[17:14:15]ATTACK: Justin Willey (jerman5) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=186;Y=123;Z=5'>JMP</a>)
+[17:14:16]EMOTE: Enrique Tyler/ : <B>PFC Enrique Tyler</B> gasps!
+[17:14:22]EMOTE: Unknown (as Sebastian Prill)/Agecom3 : <B>CPL Unknown (as Sebastian Prill)</B> gasps!
+[17:14:30]ATTACK: Joe 'Schmuckatelli' Vick (vavalor) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=187;Y=118;Z=5'>JMP</a>)
+[17:14:30]EMOTE: Queen/BlackCrystall : <B>The Queen</B> roars!
+[17:14:34]ATTACK: Joe 'Schmuckatelli' Vick (vavalor) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=186;Y=120;Z=5'>JMP</a>)
+[17:14:36]ATTACK: Justin Willey (jerman5) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=182;Y=122;Z=5'>JMP</a>)
+[17:14:43]ATTACK: Justin Willey (jerman5) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=186;Y=120;Z=5'>JMP</a>)
+[17:14:46]EMOTE: Unknown (as Sebastian Prill)/Agecom3 : <B>CPL Unknown (as Sebastian Prill)</B> gasps!
+[17:14:46]ATTACK: Joe 'Schmuckatelli' Vick (vavalor) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=196;Y=128;Z=5'>JMP</a>)
+[17:14:47]ATTACK: Joe 'Schmuckatelli' Vick (vavalor) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=195;Y=128;Z=5'>JMP</a>)
+[17:14:49]ATTACK: Joe 'Schmuckatelli' Vick (vavalor) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=188;Y=128;Z=5'>JMP</a>)
+[17:14:50]ATTACK: Joe 'Schmuckatelli' Vick (vavalor) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=187;Y=128;Z=5'>JMP</a>)
+[17:14:51]ATTACK: Joe 'Schmuckatelli' Vick (vavalor) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=184;Y=128;Z=5'>JMP</a>)
+[17:14:51]ATTACK: Joe 'Schmuckatelli' Vick (vavalor) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=183;Y=128;Z=5'>JMP</a>)
+[17:14:51]ATTACK: Joe 'Schmuckatelli' Vick (vavalor) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=183;Y=128;Z=5'>JMP</a>)
+[17:14:53]ATTACK: Justin Willey (jerman5) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=187;Y=126;Z=5'>JMP</a>)
+[17:14:54]SAY: Joe 'Schmuckatelli' Vick/VaValor : Oh no.
+[17:14:54]ATTACK: Justin Willey (jerman5) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=186;Y=126;Z=5'>JMP</a>)
+[17:14:55]ATTACK: Justin Willey (jerman5) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=186;Y=126;Z=5'>JMP</a>)
+[17:14:59]OOC: (LOCAL) Zachary Henry/Protos-Zerg : Давайте. за себи за сшаку!!
+[17:15:01]ATTACK: Justin Willey (jerman5) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=189;Y=126;Z=5'>JMP</a>)
+[17:15:04]ATTACK: Justin Willey (jerman5) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=188;Y=126;Z=5'>JMP</a>)
+[17:15:06]EMOTE: Unknown (as Sebastian Prill)/Agecom3 : <B>CPL Unknown (as Sebastian Prill)</B> gasps!
+[17:15:06]ATTACK: Justin Willey (jerman5) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=183;Y=126;Z=5'>JMP</a>)
+[17:15:08]ATTACK: Justin Willey (jerman5) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=183;Y=126;Z=5'>JMP</a>)
+[17:15:13]ATTACK: Justin Willey (jerman5) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=175;Y=126;Z=5'>JMP</a>)
+[17:15:14]ATTACK: Justin Willey (jerman5) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=175;Y=126;Z=5'>JMP</a>)
+[17:15:15]ATTACK: Justin Willey (jerman5) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=175;Y=126;Z=5'>JMP</a>)
+[17:15:16]ATTACK: Justin Willey (jerman5) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=174;Y=126;Z=5'>JMP</a>)
+[17:15:16]EMOTE: Queen/BlackCrystall : <B>The Queen</B> hisses.
+[17:15:18]EMOTE: Zachary Henry/ : <B>CMDR Zachary Henry</B> coughs!
+[17:15:24]EMOTE: Enrique Tyler/ : <B>PFC Enrique Tyler</B> gasps!
+[17:15:28]EMOTE: Enrique Tyler/ : <B>PFC Enrique Tyler</B> gasps!
+[17:15:29]ATTACK: Unknown (as Joe 'Schmuckatelli' Vick) (vavalor) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=167;Y=129;Z=5'>JMP</a>)
+[17:15:29]ATTACK: Unknown (as Joe 'Schmuckatelli' Vick) (vavalor) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=167;Y=130;Z=5'>JMP</a>)
+[17:15:32]EMOTE: Unknown (as Sebastian Prill)/Agecom3 : <B>CPL Unknown (as Sebastian Prill)</B> gasps!
+[17:15:37]ATTACK: Justin Willey (jerman5) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=167;Y=130;Z=5'>JMP</a>)
+[17:15:38]ATTACK: Justin Willey (jerman5) shot Unknown (as Joe 'Schmuckatelli' Vick) (vavalor) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=167;Y=129;Z=5'>JMP</a>) (<a href='?priv_msg=[0x3000075]'>PM</a>)
+[17:15:39]ATTACK: VaValor/(Joe 'Schmuckatelli' Vick) punched VaValor/(Joe 'Schmuckatelli' Vick)
+[17:15:40]EMOTE: Enrique Tyler/ : <B>PFC Enrique Tyler</B> gasps!
+[17:15:41]ATTACK: Justin Willey (jerman5) shot Unknown (as Joe 'Schmuckatelli' Vick) (vavalor) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=167;Y=130;Z=5'>JMP</a>) (<a href='?priv_msg=[0x3000075]'>PM</a>)
+[17:15:43]ADMIN: BlackCrystall/(Queen) healed / Rrvived BlackCrystall/(Queen)
+[17:15:43]ATTACK: Justin Willey (jerman5) shot Queen (blackcrystall) with a the rifle bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=167;Y=132;Z=5'>JMP</a>)
+[17:15:46]EMOTE: Enrique Tyler/ : <B>PFC Enrique Tyler</B> gasps!
+[17:15:47]ATTACK: Jerman5/(Justin Willey) attacked BlackCrystall/(Queen) with M41A pulse rifle (Wielded) (INTENT: HELP) (DAMTYE: BRUTE)
+[17:15:50]EMOTE: Unknown (as Sebastian Prill)/Agecom3 : <B>CPL Unknown (as Sebastian Prill)</B> gasps!
+[17:16:03]DEBUG: Firing random event. #Engineer:0 #Medical:1 #AI:0 #Cyborg:0 ||| /datum/event/economic_event:300/datum/event/trivial_news:400/datum/event/mundane_news:300/datum/event/pda_spam:200/datum/event/money_lotto:50/datum/event/carp_migration:20/datum/event/brand_intelligence:20/datum/event/rogue_drone:5/datum/event/infestation:100/datum/event/communications_blackout:50/datum/event/ionstorm:1/datum/event/electrical_storm:1/datum/event/wallrot:1/datum/event/meteor_wave:1/datum/event/meteor_shower:1/datum/event/radiation_storm:10/datum/event/spontaneous_appendicitis:10/datum/event/viral_infection:10/datum/event/prison_break:1|||Picked:/datum/event/trivial_news
+[17:16:03]DEBUG: Next event in 25.804 minutes.
+[17:16:06]EMOTE: Enrique Tyler/ : <B>PFC Enrique Tyler</B> gasps!
+[17:16:06]EMOTE: Unknown (as Sebastian Prill)/Agecom3 : <B>CPL Unknown (as Sebastian Prill)</B> gasps!
+[17:16:09]ACCESS: Logout: *no key*/(Justin Willey)
+[17:16:09]ACCESS: Login: Jerman5/(Justin Willey) from 88.66.38.82-3467763257 || BYOND v512
+[17:16:10]EMOTE: Unknown (as Joe 'Schmuckatelli' Vick)/VaValor : <B>SSGT Unknown (as Joe 'Schmuckatelli' Vick)</B> gasps!
+[17:16:12]EMOTE: Enrique Tyler/ : <B>PFC Enrique Tyler</B> gasps!
+[17:16:12]EMOTE: Unknown (as Sebastian Prill)/Agecom3 : <B>CPL Unknown (as Sebastian Prill)</B> gasps!
+[17:16:14]ACCESS: Logout: *no key*/(Joe 'Schmuckatelli' Vick)
+[17:16:14]ACCESS: Login: VaValor/(Joe 'Schmuckatelli' Vick) from 120.29.100.69-1895305346 || BYOND v512
+[17:16:38]EMOTE: Unknown (as Sebastian Prill)/Agecom3 : <B>CPL Unknown (as Sebastian Prill)</B> gasps!
+[17:16:41]EMOTE: Unknown/Thomas.rus : <B>Unknown calls for a medic!</b>
+[17:16:53]ACCESS: Logout: *no key*/(Sebastian Prill)
+[17:16:53]ACCESS: Login: Agecom3/(Sebastian Prill) from 79.193.154.160-1288623208 || BYOND v512
+[17:17:06]GAME: <a href='?priv_msg=[0x5000001]'>Thomas.rus</a>/(<font color='#FFA500'>Vik Melloy</font>) has ghosted.
+[17:17:06]ACCESS: Logout: *no key*/(Vik Melloy)
+[17:17:06]ACCESS: Login: Thomas.rus/(Vik Melloy) from 134.17.137.57-476934342 || BYOND v512
+[17:17:07]GAME: Antagonists at round end were...
+[17:17:07]GAME: Survivors: Vik Melloy(Thomas.rus).
+[17:17:07]GAME: Aliens: Queen(BlackCrystall).
+[17:17:19]ACCESS: Logout: VaValor/(Joe 'Schmuckatelli' Vick)
+[17:17:25]OOC: Vik Melloy/Thomas.rus : Квина всех маринов поела???
+[17:17:30]OOC: Zachary Henry/Protos-Zerg : Типо того
+[17:17:38]OOC: Vik Melloy/Thomas.rus : Ахах
+[17:17:46]OOC: Sebastian Prill/Agecom3 : What kind of language is this?
+[17:17:49]OOC: Vik Melloy/Thomas.rus : Решил, блин, проверить, как там марины
+[17:17:51]OOC: Zachary Henry/Protos-Zerg : Russian
+[17:18:03]EMOTE: Zachary Henry/ : <B>CMDR Zachary Henry</B> screams!
+[17:18:05]OOC: Sebastian Prill/Agecom3 : Welp sorry to join you then
+[17:18:06]ACCESS: Logout: Jerman5/(Justin Willey)
+[17:18:08]OOC: Zachary Henry/Protos-Zerg : Ты не провер, ыт играй
+[17:18:08]ADMIN: BlackCrystall/(Queen) admin-called the emergency shuttle.
+[17:18:12]ACCESS: Logout: BlackCrystall/(Queen)
+[17:18:12]ACCESS: Logout: Good314/(Enrique Tyler)
+[17:18:12]ACCESS: Logout: Thomas.rus/(Vik Melloy)
+[17:18:12]ACCESS: Logout: Mollog/(Shiro Takagi)
+[17:18:12]ACCESS: Logout: Protos-Zerg/(Zachary Henry)
+[17:18:12]ACCESS: Logout: Agecom3/(Sebastian Prill)
+
+
+Starting up. 17:18.27
+---------------------
+[17:18:27]MISC: Adding game mode traitor (traitor) to configuration.
+[17:18:27]MISC: Adding game mode Colonial Marines (Colonial Marines) to configuration.
+[17:18:27]MISC: Adding game mode Hunter Games (Hunter Games) to configuration.
+[17:18:27]MISC: Adding game mode Ice Colony (Ice Colony) to configuration.
+[17:18:27]MISC: Adding game mode Whiskey Outpost (Whiskey Outpost) to configuration.
+[17:18:27]MISC: Adding game mode extended (extended) to configuration.
+[17:18:27]MISC: Unknown setting in configuration: 'assistant_limit'
+[17:18:27]MISC: Unknown setting in configuration: 'assistant_ratio'
+[17:18:27]MISC: Unknown setting in configuration: 'station_levels'
+[17:18:27]MISC: Unknown setting in configuration: 'admin_levels'
+[17:18:27]MISC: Unknown setting in configuration: 'contact_levels'
+[17:18:27]MISC: Unknown setting in configuration: 'player_levels'
+[17:18:27]MISC: Unknown setting in configuration: 'expected_round_length'
+[17:18:27]MISC: Unknown setting in configuration: 'event_delay_lower'
+[17:18:27]MISC: Unknown setting in configuration: 'event_delay_upper'
+[17:18:27]MISC: Unknown setting in configuration: 'event_custom_start_major'
+[17:18:27]MISC: Unknown setting in configuration: 'starlight'
+[17:18:27]MISC: Unknown setting in configuration: 'player_reroute_cap'
+[17:18:27]MISC: Unknown setting in configuration: 'disable_space_ruins'
+[17:18:27]MISC: Unknown setting in configuration: 'feedback_tableprefix'
+[17:18:27]MISC: Saved mode is 'Colonial Marines'
+[17:18:28]ADMIN: Loading jobban_rank
+[17:18:28]ADMIN: jobban_keylist was empty
+[17:18:28]ADMIN: Loading Banlist
+[17:18:28]DEBUG: Rebuilding Master Controller
+[17:19:14]ACCESS: Login: BlackCrystall/(BlackCrystall) from 127.0.0.1-2513525785 || BYOND v512
+[17:19:24]OOC: BlackCrystall/BlackCrystall : Avto reconect disable/нету авто реконекта!
+[17:19:45]ACCESS: Login: Protos-Zerg/(Protos-Zerg) from 5.164.133.148-3930154522 || BYOND v512
+[17:20:10]OOC: BlackCrystall/BlackCrystall : Avto reconect disable/нету авто реконекта!
+[17:20:10]VOTE: Gamemode vote started by the server.
+[17:20:10]DEBUG: The server has called a gamemode vote
+[17:20:11]OOC: Protos-Zerg/Protos-Zerg : Я снова возьму командера
+[17:20:11]ACCESS: Login: Thomas.rus/(Thomas.rus) from 134.17.137.57-476934342 || BYOND v512
+[17:20:46]DEBUG: The server has called a gamemode vote
+[17:20:47]DEBUG: The server has called a gamemode vote
+[17:20:47]DEBUG: The server has called a gamemode vote
+[17:20:48]DEBUG: The server has called a gamemode vote
+[17:20:49]DEBUG: The server has called a gamemode vote
+[17:20:50]ADMIN: BlackCrystall/(BlackCrystall) removed the delay.
+[17:21:06]ACCESS: Login: Good314/(Good314) from 85.140.1.133-4062190161 || BYOND v512
+[17:21:17]OOC: BlackCrystall/BlackCrystall : Avto reconect disable/нету авто реконекта!
+[17:21:51]OOC: Protos-Zerg/Protos-Zerg : Кстати
+[17:21:53]OOC: Protos-Zerg/Protos-Zerg : Где Дискорд
+[17:22:25]OOC: BlackCrystall/BlackCrystall : не, опь ксеносом мне быть?
+[17:22:37]OOC: Protos-Zerg/Protos-Zerg : Ага
+[17:22:51]OOC: Thomas.rus/Thomas.rus : Так, мне отойти надо,  не знаю, на долго ли, потому заранее всем пока
+[17:22:53]OOC: BlackCrystall/BlackCrystall : да ну это весело но блин , за марина очу!
+[17:22:59]OOC: Thomas.rus/Thomas.rus : Может быть скоро приду
+[17:23:01]OOC: Protos-Zerg/Protos-Zerg : Ну, го возьму
+[17:23:06]OOC: BlackCrystall/BlackCrystall : спс братан
+[17:23:08]ACCESS: Logout: Thomas.rus/(Thomas.rus)
+[17:23:13]DEBUG: The server has called a gamemode vote
+[17:23:50]ADMIN: BlackCrystall has started the game.
+[17:23:51]DEBUG: Protos-Zerg had xeno enabled, so we are drafting them.
+[17:23:51]ACCESS: Logout: *no key*/(BlackCrystall)
+[17:23:51]ACCESS: Login: BlackCrystall/(Goodwin Swabey) from 127.0.0.1-2513525785 || BYOND v512
+[17:23:51]ACCESS: Logout: *no key*/(Protos-Zerg)
+[17:23:51]ACCESS: Login: Protos-Zerg/(Zachary Henry) from 5.164.133.148-3930154522 || BYOND v512
+[17:23:51]ACCESS: Logout: *no key*/(Good314)
+[17:23:51]ACCESS: Login: Good314/(Enrique Tyler) from 85.140.1.133-4062190161 || BYOND v512
+[17:23:51]ACCESS: Logout: *no key*/(Zachary Henry)
+[17:23:51]ACCESS: Login: Protos-Zerg/(Alien Larva) from 5.164.133.148-3930154522 || BYOND v512
+[17:23:56]DEBUG: Next event in 32.904 minutes.
+[17:24:01]SAY: mouse (585)/ : Squeek?
+[17:24:07]OOC: Mature Larva (678)/Protos-Zerg : Черт
+[17:24:13]OOC: Mature Larva (678)/Protos-Zerg : Хоткеи
+[17:24:19]OOC: Mature Larva (678)/Protos-Zerg : У менбонд баганый D:
+[17:24:21]OOC: Goodwin Swabey/BlackCrystall : их убрал
+[17:24:28]OOC: Mature Larva (678)/Protos-Zerg : На таб же работают
+[17:24:31]OOC: Goodwin Swabey/BlackCrystall : чтоб багов не было
+[17:24:37]OOC: Mature Larva (678)/Protos-Zerg : Стоит просто перезайти и выставить енг
+[17:24:38]OOC: Mature Larva (678)/Protos-Zerg : Нет?
+[17:25:16]OOC: Mature Larva (678)/Protos-Zerg : Ты можешь убрать Макросы, но Хоткеи!! это кащунство!!
+[17:25:24]ACCESS: Logout: *no key*/(Young Bloody Larva (678))
+[17:25:24]ACCESS: Login: Protos-Zerg/(Alien Larva (678)) from 5.164.133.148-3930154522 || BYOND v512
+[17:26:23]SAY: Mister Wiggles/ : YAP
+[17:26:46]SAY: Enrique Tyler/Good314 : Да?
+[17:26:52]SAY: Goodwin Swabey/BlackCrystall : Угу
+[17:26:53]ACCESS: Logout: *no key*/(Young Drone (126))
+[17:26:53]ACCESS: Login: Protos-Zerg/(Queen) from 5.164.133.148-3930154522 || BYOND v512
+[17:26:56]SAY: Goodwin Swabey/BlackCrystall : Ты готов?
+[17:26:59]SAY: Enrique Tyler/Good314 : Ага
+[17:27:09]SAY: Goodwin Swabey/BlackCrystall : Пошли за атачментами
+[17:27:10]OOC: Queen/Protos-Zerg : Что за Gut?
+[17:27:34]SAY: Enrique Tyler/Good314 : Можно в карго зайти\
+[17:27:41]SAY: Goodwin Swabey/BlackCrystall : угу
+[17:27:59]SAY: mouse (585)/ : Squeek!
+[17:28:48]SAY: Enrique Tyler/Good314 : Зарник ствола
+[17:29:07]SAY: Enrique Tyler/Good314 : И БФА
+[17:30:18]SAY: Enrique Tyler/Good314 : Зарное устройство бы...
+[17:30:27]SAY: Enrique Tyler/Good314 : Зарное устройство бы...
+[17:30:47]SAY: Goodwin Swabey/BlackCrystall : Нету
+[17:30:48]SAY: Enrique Tyler/Good314 : Зарное
+[17:31:10]ADMIN: Queen (Protos-Zerg) launched a shuttle from Dropship Console
+[17:31:17]SAY: Goodwin Swabey/BlackCrystall : Давай защиту строить?
+[17:32:15]SAY: Enrique Tyler/Good314 : Турель бы...
+[17:32:23]SAY: Goodwin Swabey/BlackCrystall : Ставлю первую
+[17:32:33]SAY: Enrique Tyler/Good314 : Или Пьдес шестую
+[17:32:48]SAY: Enrique Tyler/Good314 : Хм...
+[17:32:51]SAY: Enrique Tyler/Good314 : Странно
+[17:33:30]SAY: Enrique Tyler/Good314 : Так...
+[17:33:40]SAY: Mister Wiggles/ : YAP
+[17:33:53]ATTACK: Queen (protoszerg) spat acid on Dropship Hatch.
+[17:33:55]ATTACK: Queen (protoszerg) spat acid on Dropship Hatch.
+[17:34:43]SAY: Enrique Tyler/Good314 : Хм...
+[17:35:55]ACCESS: Login: BoyNextDoor1/(BoyNextDoor1) from 76.236.249.100-2893072791 || BYOND v512
+[17:36:01]ATTACK: Queen (protoszerg) spat acid on Cockpit.
+[17:36:42]GAME: Explosion with size (-1, -1, 2) in area Dropship 1 
+[17:37:07]GAME: Explosion with size (-1, -1, 2) in area Dropship 1 
+[17:37:47]SAY: Goodwin Swabey/BlackCrystall : помги
+[17:37:52]SAY: Goodwin Swabey/BlackCrystall : ещё 1 тарет поставить
+[17:37:53]SAY: Enrique Tyler/Good314 : А?
+[17:37:59]SAY: Goodwin Swabey/BlackCrystall : и больше брони вот этой
+[17:38:42]ATTACK: Queen (protoszerg) spat acid on the propulsion.
+[17:38:51]ADMIN: BlackCrystall/(Goodwin Swabey) spawned /obj/item/weapon/storage/box/sentry at (146,118,5)
+[17:39:08]ATTACK: Queen (protoszerg) spat acid on the propulsion.
+[17:39:27]SAY: Goodwin Swabey/BlackCrystall : Давай
+[17:39:29]SAY: Goodwin Swabey/BlackCrystall : помогай
+[17:39:41]SAY: Enrique Tyler/Good314 : Так
+[17:39:44]SAY: Enrique Tyler/Good314 : Куда их?
+[17:39:52]ACCESS: Logout: *no key*/(BoyNextDoor1)
+[17:39:52]ACCESS: Login: BoyNextDoor1/(Johnathan Fiscina) from 76.236.249.100-2893072791 || BYOND v512
+[17:40:27]ADMIN: Queen (Protos-Zerg) launched a shuttle from Dropship Console
+[17:40:27]ADMIN: Queen (Protos-Zerg) launched a shuttle from Dropship Console
+[17:40:35]SAY: Enrique Tyler/Good314 : Сварка?
+[17:40:39]SAY: Goodwin Swabey/BlackCrystall : Неа
+[17:40:41]SAY: Goodwin Swabey/BlackCrystall : Провода
+[17:40:45]SAY: Goodwin Swabey/BlackCrystall : бль
+[17:40:48]SAY: Goodwin Swabey/BlackCrystall : кончились
+[17:40:49]SAY: Enrique Tyler/Good314 : Они идут
+[17:41:57]SAY: Enrique Tyler/Good314 : Сварку
+[17:42:33]SAY: Enrique Tyler/Good314 : Шатл
+[17:42:42]SAY: Enrique Tyler/Good314 : Сварку!
+[17:43:27]SAY: Goodwin Swabey/BlackCrystall : строй
+[17:43:30]SAY: Goodwin Swabey/BlackCrystall : куда отступать будем
+[17:43:40]SAY: Goodwin Swabey/BlackCrystall : неа
+[17:43:54]ATTACK: Queen (protoszerg) spat acid on the emergency closet.
+[17:44:01]ATTACK: Queen (protoszerg) spat acid on the emergency closet.
+[17:44:38]GAME: Explosion with size (-1, -1, 2) in area Dropship 1 
+[17:44:44]SAY: Goodwin Swabey/BlackCrystall : с верху дыру оставил
+[17:45:16]ADMIN: BlackCrystall/(Goodwin Swabey) jumped to 142,120,5 in the Briefing Room
+[17:45:32]ATTACK: The UA 571-C sentry gun shot Queen (protoszerg) with a the autocannon bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=143;Y=116;Z=5'>JMP</a>)
+[17:45:32]EMOTE: Queen/Protos-Zerg : <B>The Queen</B> hisses.
+[17:45:38]ADMIN: BlackCrystall/(Goodwin Swabey) jumped to 142,120,5 in the Briefing Room
+[17:45:43]ADMIN: BlackCrystall/(Goodwin Swabey) jumped to 143,120,5 in the Briefing Room
+[17:45:54]SAY: Goodwin Swabey/BlackCrystall : ебобо поворот
+[17:47:17]SAY: Enrique Tyler/Good314 : Да...
+[17:47:20]SAY: Enrique Tyler/Good314 : Давай
+[17:47:32]SAY: PsychicWhisper: Protos-Zerg/(Queen)->Good314 : Я не преченю вреда, отключи оборону
+[17:47:38]SAY: Enrique Tyler/Good314 : Неа
+[17:47:43]SAY: PsychicWhisper: Protos-Zerg/(Queen)->Good314 : Я награжу тебблаженством
+[17:47:47]SAY: PsychicWhisper: Protos-Zerg/(Queen)->Good314 : Отключи ее
+[17:47:48]SAY: Enrique Tyler/Good314 : Хм...
+[17:48:01]SAY: Enrique Tyler/Good314 : Какие гарантии?
+[17:48:14]SAY: Goodwin Swabey/BlackCrystall : Если что отступаем в карго
+[17:48:19]SAY: PsychicWhisper: Protos-Zerg/(Queen)->Good314 : Подумай о сказачном блаженстве которое могу дать, отключи туррели
+[17:48:36]SAY: Enrique Tyler/Good314 : Хм...
+[17:48:38]SAY: PsychicWhisper: Protos-Zerg/(Queen)->Good314 : ну же, сделай это
+[17:48:45]SAY: Enrique Tyler/Good314 : Открой шлюз и подумаю
+[17:48:56]SAY: Enrique Tyler/Good314 : Я подумаю...
+[17:48:57]SAY: Enrique Tyler/Good314 : Кхм
+[17:49:07]SAY: PsychicWhisper: Protos-Zerg/(Queen)->Good314 : От вашей королевы вы нечего не получите, но если ты моможешь мне, ты сможешь
+[17:49:24]SAY: Enrique Tyler/Good314 : Капитан!!
+[17:49:40]ADMIN: HELP: BoyNextDoor1/(Johnathan Fiscina): Is it okay if I am an english speaker on this server? Will I be banned for only knowing english?  - heard by 1 non-AFK admins.
+[17:49:52]SAY: Enrique Tyler/Good314 : Сука
+[17:49:56]SAY: Enrique Tyler/Good314 : Нет!
+[17:50:05]EMOTE: Enrique Tyler/Good314 : <B>CPL Enrique Tyler</B> gasps!
+[17:50:07]ADMIN: PM: BlackCrystall/(Goodwin Swabey)->BoyNextDoor1/(Johnathan Fiscina): No, server ru + eng
+[17:50:10]EMOTE: Enrique Tyler/Good314 : <B>CPL Enrique Tyler</B> gasps!
+[17:50:26]GAME: Explosion with size (0, 0, 0) in area Bravo Marine Prep 
+[17:50:35]ATTACK: UA-577 Gauss Turret shot Queen (protoszerg) with a the autocannon bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=128;Y=119;Z=5'>JMP</a>)
+[17:50:35]ATTACK: UA-577 Gauss Turret shot Queen (protoszerg) with a the autocannon bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=128;Y=119;Z=5'>JMP</a>)
+[17:50:49]ATTACK: Protos-Zerg/(Queen) attacked Good314/(Enrique Tyler) with alien (INTENT: HELP) (DAMTYE: BRUTE)
+[17:50:51]ACCESS: Logout: *no key*/(Enrique Tyler)
+[17:50:51]ACCESS: Login: Good314/(Enrique Tyler) from 85.140.1.133-4062190161 || BYOND v512
+[17:50:51]ADMIN: PM: BoyNextDoor1/(Johnathan Fiscina)->BlackCrystall/(Goodwin Swabey): Okay, wasn&#39;t sure. Thanks for the info 
+[17:50:53]ATTACK: Protos-Zerg/(Queen) attacked *no key*/(Enrique Tyler) with alien (INTENT: HELP) (DAMTYE: BRUTE)
+[17:51:21]GAME: Explosion with size (-1, -1, 2) in area Dropship 1 
+[17:51:24]SAY: Goodwin Swabey/BlackCrystall : Назад ко мне в сапле!
+[17:51:50]OOC: Queen/Protos-Zerg : Сделай где то Таймер, скорько до релоада скретча
+[17:52:12]ADMIN: BlackCrystall/(Goodwin Swabey) spawned /obj/item/weapon/storage/box/sentry at (186,135,5)
+[17:52:16]ADMIN: BlackCrystall/(Goodwin Swabey) spawned /obj/item/weapon/storage/box/sentry at (186,135,5)
+[17:52:39]GAME: Explosion with size (-1, -1, 2) in area Briefing Room 
+[17:52:46]GAME: Explosion with size (-1, -1, 2) in area Briefing Room 
+[17:53:00]GAME: Explosion with size (-1, -1, 2) in area Briefing Room 
+[17:53:11]GAME: Explosion with size (-1, -1, 2) in area Briefing Room 
+[17:53:17]GAME: Explosion with size (-1, -1, 2) in area Briefing Room 
+[17:53:24]SAY: Mister Wiggles/ : Bark!
+[17:53:30]ADMIN: BlackCrystall/(Goodwin Swabey) spawned /obj/item/weapon/storage/box/m56_system at (192,131,5)
+[17:55:34]ADMIN: BlackCrystall/(Goodwin Swabey) spawned /obj/item/weapon/storage/toolbox at (188,133,5)
+[17:55:45]OOC: Queen/Protos-Zerg : Кто то тулбокс заспавнил?
+[17:56:13]ADMIN: BlackCrystall/(Goodwin Swabey) spawned /obj/item/weapon/storage/belt at (188,133,5)
+[17:56:24]ADMIN: BlackCrystall/(Goodwin Swabey) deleted the belt at (188,133,5) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000074]'>JMP</A>)
+[17:56:51]DEBUG: Firing random event. #Engineer:0 #Medical:0 #AI:0 #Cyborg:0 ||| /datum/event/economic_event:300/datum/event/trivial_news:400/datum/event/mundane_news:300/datum/event/pda_spam:200/datum/event/money_lotto:50/datum/event/carp_migration:20/datum/event/brand_intelligence:20/datum/event/rogue_drone:5/datum/event/infestation:100/datum/event/communications_blackout:50/datum/event/ionstorm:1/datum/event/electrical_storm:1/datum/event/wallrot:1/datum/event/meteor_wave:1/datum/event/meteor_shower:1/datum/event/prison_break:1|||Picked:/datum/event/mundane_news
+[17:56:51]DEBUG: Next event in 25.794 minutes.
+[17:57:07]ADMIN: BlackCrystall/(Goodwin Swabey) spawned /obj/item/weapon/storage/toolbox/mechanical at (189,131,5)
+[17:59:01]ADMIN: BlackCrystall/(Goodwin Swabey) spawned /obj/item/weapon/wire at (188,132,5)
+[17:59:05]ADMIN: BlackCrystall/(Goodwin Swabey) deleted the wire at (188,132,5) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000074]'>JMP</A>)
+[17:59:44]ADMIN: BlackCrystall/(Goodwin Swabey) spawned /obj/item/weapon/handcuffs/cable/red at (188,132,5)
+[17:59:50]ADMIN: BlackCrystall/(Goodwin Swabey) deleted the cable restraints at (188,132,5) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000074]'>JMP</A>)
+[17:59:53]SAY: Mister Wiggles/ : Bark!
+[17:59:59]ADMIN: BlackCrystall/(Goodwin Swabey) spawned /obj/item/stack/cable_coil/orange at (188,132,5)
+[18:00:35]SAY: Goodwin Swabey/BlackCrystall : Кто жив?
+[18:00:54]OOC: Queen/Protos-Zerg : Где Люди D:
+[18:02:13]OOC: Queen/Protos-Zerg : Марины проиграли короче
+[18:02:15]OOC: Queen/Protos-Zerg : Я пошел
+[18:02:19]OOC: Goodwin Swabey/BlackCrystall : неа
+[18:02:23]OOC: Goodwin Swabey/BlackCrystall : ща выиграем
+[18:02:24]OOC: Queen/Protos-Zerg : Да
+[18:02:26]OOC: Goodwin Swabey/BlackCrystall : смотри
+[18:02:32]OOC: Goodwin Swabey/BlackCrystall : зуб даю
+[18:02:33]OOC: Queen/Protos-Zerg : БСА? :D
+[18:02:47]OOC: Queen/Protos-Zerg : Я бы посмотрел, но мне правда пора
+[18:02:56]OOC: Goodwin Swabey/BlackCrystall : ну лады
+[18:02:59]OOC: Queen/Protos-Zerg : Когда снова запустишь?
+[18:03:53]ADMIN: BlackCrystall/(Goodwin Swabey) jumped to 189,130,5 in the Cargo Office
+[18:04:01]ATTACK: The UA 571-C sentry gun shot Queen (protoszerg) with a the autocannon bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=190;Y=132;Z=5'>JMP</a>)
+[18:04:01]ADMIN: BlackCrystall/(Goodwin Swabey) jumped to 190,131,5 in the Cargo Office
+[18:04:44]SAY: PsychicWhisper: Protos-Zerg/(Queen)->BlackCrystall : Выходи, не преченю вреда
+[18:04:46]ADMIN: BlackCrystall/(Goodwin Swabey) healed / Rrvived BlackCrystall/(Goodwin Swabey)
+[18:04:51]GAME: Explosion with size (0, 0, 0) in area Cargo Office 
+[18:05:01]OOC: Queen/Protos-Zerg : Это типо телапушка
+[18:05:06]GAME: Explosion with size (0, 0, 0) in area Cargo Office 
+[18:05:07]OOC: Queen/Protos-Zerg : ТЯжола
+[18:05:11]OOC: Queen/Protos-Zerg : ТЯжолаЯ
+[18:05:40]ADMIN: BlackCrystall/(Goodwin Swabey) jumped to 190,130,5 in the Cargo Office
+[18:06:01]ADMIN: BlackCrystall/(Goodwin Swabey) deleted the table at (195,130,5) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000074]'>JMP</A>)
+[18:06:05]ATTACK: The UA 571-C sentry gun shot Queen (protoszerg) with a the autocannon bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=189;Y=132;Z=5'>JMP</a>)
+[18:06:05]EMOTE: Queen/Protos-Zerg : <B>The Queen</B> hisses.
+[18:06:15]ATTACK: The UA 571-C sentry gun shot Queen (protoszerg) with a the autocannon bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=190;Y=132;Z=5'>JMP</a>)
+[18:06:28]ATTACK: Queen (protoszerg) spat acid on RO Lobby.
+[18:06:43]ADMIN: BlackCrystall/(Goodwin Swabey) deleted the table at (193,130,5) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000074]'>JMP</A>)
+[18:06:47]ADMIN: BlackCrystall/(Goodwin Swabey) deleted the table at (194,130,5) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000074]'>JMP</A>)
+[18:06:52]SAY: Mister Wiggles/ : Woof!
+[18:07:17]ATTACK: Queen (protoszerg) spat acid on the metal barricade.
+[18:07:37]ATTACK: The UA 571-C sentry gun shot Queen (protoszerg) with a the autocannon bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=190;Y=132;Z=5'>JMP</a>)
+[18:07:37]EMOTE: Queen/Protos-Zerg : <B>The Queen</B> roars!
+[18:08:04]ATTACK: Goodwin Swabey (blackcrystall) shot Queen (protoszerg) with a SHARP Harpoon (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=186;Y=134;Z=5'>JMP</a>)
+[18:08:04]GAME: Explosion with size (0, 0, 0) in area Cargo Office 
+[18:08:33]ATTACK: Queen (protoszerg) spat acid on the P9 S.H.A.R.P. Rifle.
+[18:08:43]OOC: Queen/Protos-Zerg : Ну
+[18:08:45]OOC: Queen/Protos-Zerg : Кажетс
+[18:08:49]OOC: Queen/Protos-Zerg : Я победитель
+[18:08:49]GAME: Antagonists at round end were...
+[18:08:49]GAME: Aliens: Queen(Protos-Zerg).
+[18:08:50]OOC: Goodwin Swabey/BlackCrystall : просто лоханулс
+[18:08:54]OOC: Goodwin Swabey/BlackCrystall : Я
+[18:09:00]OOC: Queen/Protos-Zerg : Когда
+[18:09:01]OOC: Queen/Protos-Zerg : Снова
+[18:09:02]OOC: Goodwin Swabey/BlackCrystall : Реконект не пашет!
+[18:09:02]OOC: Queen/Protos-Zerg : ЗАпуск
+[18:09:11]OOC: Goodwin Swabey/BlackCrystall : Сегоднещё работаем
+[18:09:14]OOC: Queen/Protos-Zerg : А завтра
+[18:09:15]OOC: Goodwin Swabey/BlackCrystall : и завтро
+[18:09:19]ACCESS: Logout: Good314/(Enrique Tyler)
+[18:09:21]OOC: Queen/Protos-Zerg : Я завтра зайду или поздно ночью сегодн
+[18:09:27]OOC: Goodwin Swabey/BlackCrystall : avto conect disable
+[18:09:33]OOC: Queen/Protos-Zerg : Auto*
+[18:09:33]OOC: Goodwin Swabey/BlackCrystall : мы работаем по выходным
+[18:09:36]ACCESS: Logout: BoyNextDoor1/(Johnathan Fiscina)
+[18:09:54]ACCESS: Login: BoyNextDoor1/(Johnathan Fiscina) from 76.236.249.100-2893072791 || BYOND v512
+[18:09:54]ACCESS: Logout: BlackCrystall/(Goodwin Swabey)
+[18:09:54]ACCESS: Logout: BoyNextDoor1/(Johnathan Fiscina)
+[18:09:54]ACCESS: Logout: Protos-Zerg/(Queen)
+
+
+Starting up. 18:10.10
+---------------------
+[18:10:10]MISC: Adding game mode traitor (traitor) to configuration.
+[18:10:10]MISC: Adding game mode Colonial Marines (Colonial Marines) to configuration.
+[18:10:10]MISC: Adding game mode Hunter Games (Hunter Games) to configuration.
+[18:10:10]MISC: Adding game mode Ice Colony (Ice Colony) to configuration.
+[18:10:10]MISC: Adding game mode Whiskey Outpost (Whiskey Outpost) to configuration.
+[18:10:10]MISC: Adding game mode extended (extended) to configuration.
+[18:10:10]MISC: Unknown setting in configuration: 'assistant_limit'
+[18:10:10]MISC: Unknown setting in configuration: 'assistant_ratio'
+[18:10:10]MISC: Unknown setting in configuration: 'station_levels'
+[18:10:10]MISC: Unknown setting in configuration: 'admin_levels'
+[18:10:10]MISC: Unknown setting in configuration: 'contact_levels'
+[18:10:10]MISC: Unknown setting in configuration: 'player_levels'
+[18:10:10]MISC: Unknown setting in configuration: 'expected_round_length'
+[18:10:10]MISC: Unknown setting in configuration: 'event_delay_lower'
+[18:10:10]MISC: Unknown setting in configuration: 'event_delay_upper'
+[18:10:10]MISC: Unknown setting in configuration: 'event_custom_start_major'
+[18:10:10]MISC: Unknown setting in configuration: 'starlight'
+[18:10:10]MISC: Unknown setting in configuration: 'player_reroute_cap'
+[18:10:10]MISC: Unknown setting in configuration: 'disable_space_ruins'
+[18:10:10]MISC: Unknown setting in configuration: 'feedback_tableprefix'
+[18:10:10]MISC: Saved mode is 'Colonial Marines'
+[18:10:11]ADMIN: Loading jobban_rank
+[18:10:11]ADMIN: jobban_keylist was empty
+[18:10:11]ADMIN: Loading Banlist
+[18:10:11]DEBUG: Rebuilding Master Controller
+[18:10:25]ACCESS: Login: BlackCrystall/(BlackCrystall) from 127.0.0.1-2513525785 || BYOND v512
+[18:11:43]VOTE: Gamemode vote started by the server.
+[18:11:43]DEBUG: The server has called a gamemode vote
+[18:12:43]DEBUG: The server has called a gamemode vote
+[18:12:43]VOTE: <b>Vote Result: Ice Colony</b>
+[18:15:07]DEBUG: The server has called a gamemode vote
+[18:17:31]DEBUG: The server has called a gamemode vote
+[18:19:55]DEBUG: The server has called a gamemode vote
+[18:22:19]DEBUG: The server has called a gamemode vote
+[18:24:43]DEBUG: The server has called a gamemode vote
+[18:27:07]DEBUG: The server has called a gamemode vote
+[18:29:31]DEBUG: The server has called a gamemode vote
+[18:31:55]DEBUG: The server has called a gamemode vote
+[18:34:19]DEBUG: The server has called a gamemode vote
+[18:36:43]DEBUG: The server has called a gamemode vote
+[18:39:07]DEBUG: The server has called a gamemode vote
+[18:41:31]DEBUG: The server has called a gamemode vote
+[18:43:55]VOTE: Gamemode vote started by the server.
+[18:43:55]DEBUG: The server has called a gamemode vote
+[18:44:55]DEBUG: The server has called a gamemode vote
+[18:44:55]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[18:47:19]DEBUG: The server has called a gamemode vote
+[18:49:43]DEBUG: The server has called a gamemode vote
+[18:52:07]DEBUG: The server has called a gamemode vote
+[18:54:31]DEBUG: The server has called a gamemode vote
+[18:56:13]ACCESS: Login: Re1Taz/(Re1Taz) from 77.213.64.41-770749600 || BYOND v512
+[18:56:55]DEBUG: The server has called a gamemode vote
+[18:56:58]OOC: Re1Taz/Re1Taz : is this a take on CM?
+[18:57:11]OOC: BlackCrystall/BlackCrystall : ?
+[18:57:42]OOC: BlackCrystall/BlackCrystall : Yes
+[18:57:59]OOC: Re1Taz/Re1Taz : Like a straight copy or a remake?
+[18:58:19]OOC: BlackCrystall/BlackCrystall : Remake
+[18:59:07]OOC: Re1Taz/Re1Taz : what codebase?
+[18:59:19]DEBUG: The server has called a gamemode vote
+[18:59:21]OOC: BlackCrystall/BlackCrystall : wg
+[18:59:46]OOC: BlackCrystall/BlackCrystall : Bay....
+[18:59:58]OOC: BlackCrystall/BlackCrystall : SS/Bay
+[18:59:58]OOC: Re1Taz/Re1Taz : Oh okay
+[19:00:48]ADMIN: BlackCrystall has started the game.
+[19:00:48]DEBUG: BlackCrystall had xeno enabled, so we are drafting them.
+[19:00:48]ACCESS: Logout: *no key*/(BlackCrystall)
+[19:00:48]ACCESS: Login: BlackCrystall/(Goodwin Swabey) from 127.0.0.1-2513525785 || BYOND v512
+[19:00:48]ACCESS: Logout: *no key*/(Re1Taz)
+[19:00:48]ACCESS: Login: Re1Taz/(Kendall Pycroft) from 77.213.64.41-770749600 || BYOND v512
+[19:00:50]ACCESS: Logout: *no key*/(Goodwin Swabey)
+[19:00:50]ACCESS: Login: BlackCrystall/(Alien Larva) from 127.0.0.1-2513525785 || BYOND v512
+[19:01:01]DEBUG: Next event in 40.048 minutes.
+[19:01:20]OOC: Kendall Pycroft/Re1Taz : damn you even got all the sprites
+[19:02:17]ACCESS: Logout: *no key*/(Young Bloody Larva (108))
+[19:02:17]ACCESS: Login: BlackCrystall/(Alien Larva (108)) from 127.0.0.1-2513525785 || BYOND v512
+[19:02:47]OOC: Kendall Pycroft/Re1Taz : in need for staff members?
+[19:03:35]OOC: Young Drone (629)/BlackCrystall : Yes
+[19:03:51]OOC: Kendall Pycroft/Re1Taz : how do i apply? ;P
+[19:04:50]SAY: Mister Wiggles/ : AUUUUUU
+[19:05:37]SAY: Mister Wiggles/ : Bark!
+[19:05:55]SAY: Mister Wiggles/ : YAP
+[19:06:46]ADMIN: Kendall Pycroft (Re1Taz) launched a shuttle from Dropship Console
+[19:10:18]ATTACK: Re1Taz/(Kendall Pycroft) attacked Re1Taz/(Kendall Pycroft) with M4A3 service pistol (INTENT: HELP) (DAMTYE: BRUTE)
+[19:10:22]GAME: Antagonists at round end were...
+[19:10:22]GAME: Aliens: Young Drone (629)(BlackCrystall).
+[19:11:27]ACCESS: Logout: BlackCrystall/(Young Drone (629))
+[19:11:27]ACCESS: Logout: Re1Taz/(Kendall Pycroft)
+
+
+Starting up. 19:11.57
+---------------------
+[19:11:57]MISC: Adding game mode traitor (traitor) to configuration.
+[19:11:57]MISC: Adding game mode Colonial Marines (Colonial Marines) to configuration.
+[19:11:57]MISC: Adding game mode Hunter Games (Hunter Games) to configuration.
+[19:11:57]MISC: Adding game mode Ice Colony (Ice Colony) to configuration.
+[19:11:57]MISC: Adding game mode Whiskey Outpost (Whiskey Outpost) to configuration.
+[19:11:57]MISC: Adding game mode extended (extended) to configuration.
+[19:11:57]MISC: Unknown setting in configuration: 'assistant_limit'
+[19:11:57]MISC: Unknown setting in configuration: 'assistant_ratio'
+[19:11:57]MISC: Unknown setting in configuration: 'station_levels'
+[19:11:57]MISC: Unknown setting in configuration: 'admin_levels'
+[19:11:57]MISC: Unknown setting in configuration: 'contact_levels'
+[19:11:57]MISC: Unknown setting in configuration: 'player_levels'
+[19:11:57]MISC: Unknown setting in configuration: 'expected_round_length'
+[19:11:57]MISC: Unknown setting in configuration: 'event_delay_lower'
+[19:11:57]MISC: Unknown setting in configuration: 'event_delay_upper'
+[19:11:57]MISC: Unknown setting in configuration: 'event_custom_start_major'
+[19:11:57]MISC: Unknown setting in configuration: 'starlight'
+[19:11:57]MISC: Unknown setting in configuration: 'player_reroute_cap'
+[19:11:57]MISC: Unknown setting in configuration: 'disable_space_ruins'
+[19:11:57]MISC: Unknown setting in configuration: 'feedback_tableprefix'
+[19:11:57]MISC: Saved mode is 'Ice Colony'
+[19:11:59]ADMIN: Loading jobban_rank
+[19:11:59]ADMIN: jobban_keylist was empty
+[19:11:59]ADMIN: Loading Banlist
+[19:12:00]DEBUG: Rebuilding Master Controller
+[22:36:31]ACCESS: Login: RomanZC/(RomanZC) from 79.169.137.225-3395949721 || BYOND v512
+[22:37:03]VOTE: Gamemode vote started by the server.
+[22:37:03]DEBUG: The server has called a gamemode vote
+[22:38:03]DEBUG: The server has called a gamemode vote
+[22:38:03]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[22:39:38]ACCESS: Logout: RomanZC/(RomanZC)
+[22:56:44]ACCESS: Login: BlackCrystall/(BlackCrystall) from 127.0.0.1-2513525785 || BYOND v512
+[22:57:38]DEBUG: The server has called a gamemode vote
+[22:59:23]ACCESS: Login: Madmannobrain/(Madmannobrain) from 176.36.231.44-3006816150 || BYOND v512
+[22:59:31]ADMIN: BlackCrystall/(BlackCrystall) set the mode as extended.
+[22:59:57]ACCESS: Logout: *no key*/(Madmannobrain)
+[23:00:00]ACCESS: Login: Madmannobrain/(Dominic Thomas) from 176.36.231.44-3006816150 || BYOND v512
+[23:00:13]DEBUG: The server has called a gamemode vote
+[23:01:16]ACCESS: Login: Boltersam/(Boltersam) from 109.255.99.202-238279378 || BYOND v512
+[23:02:29]ACCESS: Logout: Boltersam/(Boltersam)
+[23:02:36]ADMIN: BlackCrystall/(BlackCrystall) set the mode as extended.
+[23:02:44]ADMIN: BlackCrystall has started the game.
+[23:03:05]DEBUG: Next event in 45.906 minutes.
+[23:03:18]ACCESS: Logout: BlackCrystall/(BlackCrystall)
+[23:03:18]ACCESS: Login: BlackCrystall/(BlackCrystall) from 127.0.0.1-2513525785 || BYOND v512
+[23:03:49]ACCESS: Logout: BlackCrystall/(BlackCrystall)
+[23:04:31]SAY: Mister Wiggles/ : Bark!
+[23:05:02]ACCESS: Login: BlackCrystall/(BlackCrystall) from 127.0.0.1-2513525785 || BYOND v512
+[23:06:32]ADMIN: BlackCrystall/(BlackCrystall) initiated a reboot.
+[23:06:37]ACCESS: Logout: BlackCrystall/(BlackCrystall)
+[23:06:37]ACCESS: Logout: Madmannobrain/(Dominic Thomas)
+
+
+Starting up. 23:06.53
+---------------------
+[23:06:53]MISC: Adding game mode traitor (traitor) to configuration.
+[23:06:53]MISC: Adding game mode Colonial Marines (Colonial Marines) to configuration.
+[23:06:53]MISC: Adding game mode Hunter Games (Hunter Games) to configuration.
+[23:06:53]MISC: Adding game mode Ice Colony (Ice Colony) to configuration.
+[23:06:53]MISC: Adding game mode Whiskey Outpost (Whiskey Outpost) to configuration.
+[23:06:53]MISC: Adding game mode extended (extended) to configuration.
+[23:06:53]MISC: Unknown setting in configuration: 'assistant_limit'
+[23:06:53]MISC: Unknown setting in configuration: 'assistant_ratio'
+[23:06:53]MISC: Unknown setting in configuration: 'station_levels'
+[23:06:53]MISC: Unknown setting in configuration: 'admin_levels'
+[23:06:53]MISC: Unknown setting in configuration: 'contact_levels'
+[23:06:53]MISC: Unknown setting in configuration: 'player_levels'
+[23:06:53]MISC: Unknown setting in configuration: 'expected_round_length'
+[23:06:53]MISC: Unknown setting in configuration: 'event_delay_lower'
+[23:06:53]MISC: Unknown setting in configuration: 'event_delay_upper'
+[23:06:53]MISC: Unknown setting in configuration: 'event_custom_start_major'
+[23:06:53]MISC: Unknown setting in configuration: 'starlight'
+[23:06:53]MISC: Unknown setting in configuration: 'player_reroute_cap'
+[23:06:53]MISC: Unknown setting in configuration: 'disable_space_ruins'
+[23:06:53]MISC: Unknown setting in configuration: 'feedback_tableprefix'
+[23:06:53]MISC: Saved mode is 'extended'
+[23:06:54]ADMIN: Loading jobban_rank
+[23:06:54]ADMIN: jobban_keylist was empty
+[23:06:54]ADMIN: Loading Banlist
+[23:06:54]DEBUG: Rebuilding Master Controller
+[23:08:25]ACCESS: Login: BlackCrystall/(BlackCrystall) from 127.0.0.1-2513525785 || BYOND v512
+[23:08:53]ADMIN: BlackCrystall/(BlackCrystall) set the mode as Ice Colony.
+[23:09:51]VOTE: Gamemode vote started by the server.
+[23:09:51]DEBUG: The server has called a gamemode vote
+[23:10:39]DEBUG: The server has called a gamemode vote
+[23:10:39]DEBUG: The server has called a gamemode vote
+[23:10:40]DEBUG: The server has called a gamemode vote
+[23:10:41]DEBUG: The server has called a gamemode vote
+[23:10:42]DEBUG: The server has called a gamemode vote
+[23:10:43]DEBUG: The server has called a gamemode vote
+[23:10:43]DEBUG: The server has called a gamemode vote
+[23:10:44]DEBUG: The server has called a gamemode vote
+[23:10:45]DEBUG: The server has called a gamemode vote
+[23:10:46]DEBUG: The server has called a gamemode vote
+[23:10:47]DEBUG: The server has called a gamemode vote
+[23:10:47]DEBUG: The server has called a gamemode vote
+[23:10:48]DEBUG: The server has called a gamemode vote
+[23:10:49]DEBUG: The server has called a gamemode vote
+[23:10:50]DEBUG: The server has called a gamemode vote
+[23:10:51]DEBUG: The server has called a gamemode vote
+[23:10:51]DEBUG: The server has called a gamemode vote
+[23:10:52]DEBUG: The server has called a gamemode vote
+[23:10:53]DEBUG: The server has called a gamemode vote
+[23:10:54]DEBUG: The server has called a gamemode vote
+[23:10:55]DEBUG: The server has called a gamemode vote
+[23:10:55]DEBUG: The server has called a gamemode vote
+[23:10:56]DEBUG: The server has called a gamemode vote
+[23:10:57]DEBUG: The server has called a gamemode vote
+[23:10:58]DEBUG: The server has called a gamemode vote
+[23:10:59]DEBUG: The server has called a gamemode vote
+[23:10:59]DEBUG: The server has called a gamemode vote
+[23:11:00]DEBUG: The server has called a gamemode vote
+[23:11:01]DEBUG: The server has called a gamemode vote
+[23:11:01]ADMIN: BlackCrystall/(BlackCrystall) removed the delay.
+[23:13:25]DEBUG: The server has called a gamemode vote
+[23:15:49]DEBUG: The server has called a gamemode vote
+[23:18:13]DEBUG: The server has called a gamemode vote
+[23:20:37]DEBUG: The server has called a gamemode vote
+[23:23:01]DEBUG: The server has called a gamemode vote
+[23:25:25]DEBUG: The server has called a gamemode vote
+[23:27:49]DEBUG: The server has called a gamemode vote
+[23:30:13]DEBUG: The server has called a gamemode vote
+[23:32:37]DEBUG: The server has called a gamemode vote
+[23:35:02]DEBUG: The server has called a gamemode vote
+[23:37:26]DEBUG: The server has called a gamemode vote
+[23:39:50]DEBUG: The server has called a gamemode vote
+[23:42:14]VOTE: Gamemode vote started by the server.
+[23:42:14]DEBUG: The server has called a gamemode vote
+[23:43:14]DEBUG: The server has called a gamemode vote
+[23:43:14]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[23:45:38]DEBUG: The server has called a gamemode vote
+[23:48:02]DEBUG: The server has called a gamemode vote
+[23:50:26]DEBUG: The server has called a gamemode vote
+[23:52:50]DEBUG: The server has called a gamemode vote
+[23:55:14]DEBUG: The server has called a gamemode vote
+[23:57:38]DEBUG: The server has called a gamemode vote
+[23:58:37]ACCESS: Login: GabrielDoomBR/(GabrielDoomBR) from 191.44.54.133-2320254580 || BYOND v512
+[00:00:03]DEBUG: The server has called a gamemode vote
+[00:02:27]DEBUG: The server has called a gamemode vote
+[00:04:49]OOC: GabrielDoomBR/GabrielDoomBR : chose to be a xenomorph in setup
+[00:04:51]DEBUG: The server has called a gamemode vote
+[00:07:15]DEBUG: The server has called a gamemode vote
+[00:09:39]DEBUG: The server has called a gamemode vote
+[00:10:01]ACCESS: Logout: GabrielDoomBR/(GabrielDoomBR)
+[00:11:21]ACCESS: Logout: BlackCrystall/(BlackCrystall)

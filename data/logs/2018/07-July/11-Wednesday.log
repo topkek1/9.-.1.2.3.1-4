@@ -2654,3 +2654,923 @@ Starting up. 19:24.28
 [19:36:30]DEBUG: The server has called a gamemode vote
 [19:38:54]DEBUG: The server has called a gamemode vote
 [19:41:16]ACCESS: Logout: Artik12344/(Artik12344)
+
+
+Starting up. 21:59.14
+---------------------
+[21:59:14]MISC: Adding game mode traitor (traitor) to configuration.
+[21:59:14]MISC: Adding game mode Colonial Marines (Colonial Marines) to configuration.
+[21:59:14]MISC: Adding game mode Hunter Games (Hunter Games) to configuration.
+[21:59:14]MISC: Adding game mode Ice Colony (Ice Colony) to configuration.
+[21:59:14]MISC: Adding game mode Whiskey Outpost (Whiskey Outpost) to configuration.
+[21:59:14]MISC: Adding game mode extended (extended) to configuration.
+[21:59:14]MISC: Unknown setting in configuration: 'assistant_limit'
+[21:59:14]MISC: Unknown setting in configuration: 'assistant_ratio'
+[21:59:14]MISC: Unknown setting in configuration: 'station_levels'
+[21:59:14]MISC: Unknown setting in configuration: 'admin_levels'
+[21:59:14]MISC: Unknown setting in configuration: 'contact_levels'
+[21:59:14]MISC: Unknown setting in configuration: 'player_levels'
+[21:59:14]MISC: Unknown setting in configuration: 'expected_round_length'
+[21:59:14]MISC: Unknown setting in configuration: 'event_delay_lower'
+[21:59:14]MISC: Unknown setting in configuration: 'event_delay_upper'
+[21:59:14]MISC: Unknown setting in configuration: 'event_custom_start_major'
+[21:59:14]MISC: Unknown setting in configuration: 'starlight'
+[21:59:14]MISC: Unknown setting in configuration: 'player_reroute_cap'
+[21:59:14]MISC: Unknown setting in configuration: 'disable_space_ruins'
+[21:59:14]MISC: Unknown setting in configuration: 'feedback_tableprefix'
+[21:59:14]MISC: Saved mode is 'traitor'
+[21:59:16]ADMIN: Loading jobban_rank
+[21:59:16]ADMIN: jobban_keylist was empty
+[21:59:16]ADMIN: Loading Banlist
+[21:59:16]DEBUG: Rebuilding Master Controller
+[22:08:11]ACCESS: Login: Artik12344/(Artik12344) from 84.39.245.176-1405323571 || BYOND v512
+[22:08:31]VOTE: Gamemode vote started by the server.
+[22:08:31]DEBUG: The server has called a gamemode vote
+[22:09:31]DEBUG: The server has called a gamemode vote
+[22:09:32]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[22:10:51]DEBUG: Artik12344 was force-drafted as traitor, because there aren't enough candidates.
+[22:10:51]GAME: Number of traitors: 0
+[22:10:52]ACCESS: Logout: *no key*/(Artik12344)
+[22:10:52]ACCESS: Login: Artik12344/(Damian Ivanov) from 84.39.245.176-1405323571 || BYOND v512
+[22:11:02]DEBUG: Next event in 39.714 minutes.
+[22:11:34]ACCESS: Login: Victor77705/(Victor77705) from 5.139.51.129-2976244093 || BYOND v511
+[22:11:52]ACCESS: Logout: *no key*/(Victor77705)
+[22:11:52]ACCESS: Login: Victor77705/(Carson Walker) from 5.139.51.129-2976244093 || BYOND v511
+[22:12:32]ACCESS: Logout: Artik12344/(Damian Ivanov)
+[22:13:56]EMOTE: Damian Ivanov/Artik12344 : <B>2LT Damian Ivanov</B> snores.
+[22:15:01]ACCESS: Login: Artik12344/(Damian Ivanov) from 84.39.245.176-1405323571 || BYOND v512
+[22:16:06]ATTACK: Victor77705/(Carson Walker) attacked Victor77705/(Carson Walker) with logistics rubber stamp (INTENT: HELP) (DAMTYE: BRUTE)
+[22:16:13]ATTACK: Victor77705/(Carson Walker) attacked Victor77705/(Carson Walker) with logistics rubber stamp (INTENT: HELP) (DAMTYE: BRUTE)
+[22:16:15]ATTACK: Victor77705/(Carson Walker) attacked Victor77705/(Carson Walker) with logistics rubber stamp (INTENT: HELP) (DAMTYE: BRUTE)
+[22:16:15]ATTACK: Victor77705/(Carson Walker) attacked Victor77705/(Carson Walker) with logistics rubber stamp (INTENT: HELP) (DAMTYE: BRUTE)
+[22:17:44]ADMIN: Victor77705/(Carson Walker) created a /obj/item/weapon/throwing_knife
+[22:18:30]ADMIN: Victor77705/(Carson Walker) created a /obj/item/weapon/gun/pistol/chimp
+[22:19:00]ADMIN: Victor77705/(Carson Walker) deleted the CHIMP70 pistol at (0,0,0) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000074]'>JMP</A>)
+[22:19:30]ADMIN: Victor77705/(Carson Walker) created a /obj/item/weapon/gun/pistol/m4a3/custom
+[22:19:44]ADMIN: Victor77705/(Carson Walker) created a /obj/item/weapon/gun/pistol/heavy
+[22:24:19]OOC: Carson Walker/Victor77705 : Чё ПВП?
+[22:24:30]OOC: Damian Ivanov/Artik12344 : Так ты себе Эмку выдал
+[22:24:41]OOC: Carson Walker/Victor77705 : Какую
+[22:24:42]OOC: Damian Ivanov/Artik12344 : Щас буду в тебс пистолета а ты по мне с эмки
+[22:24:49]OOC: Damian Ivanov/Artik12344 : Я логи читал
+[22:24:56]OOC: Carson Walker/Victor77705 : Хахахаха
+[22:25:01]OOC: Damian Ivanov/Artik12344 : ХЫХЫХЫХ
+[22:25:05]OOC: Carson Walker/Victor77705 : Ты про эту эмку?
+[22:25:14]OOC: Damian Ivanov/Artik12344 : Да
+[22:25:22]OOC: Damian Ivanov/Artik12344 : Он другого цвета
+[22:25:26]OOC: Damian Ivanov/Artik12344 : Он имбовый
+[22:25:28]OOC: Carson Walker/Victor77705 : И
+[22:25:42]OOC: Carson Walker/Victor77705 : Я буду с обычного
+[22:25:46]OOC: Damian Ivanov/Artik12344 : Это кастом а у менсервис
+[22:25:54]OOC: Damian Ivanov/Artik12344 : Да начнётс ебл
+[22:25:57]OOC: Damian Ivanov/Artik12344 : ЕблЯ
+[22:26:13]OOC: Damian Ivanov/Artik12344 : когда начало
+[22:26:21]OOC: Carson Walker/Victor77705 : сейчас
+[22:26:22]ATTACK: Damian Ivanov (artik12344) was hit by a the throwing knife, thrown by Carson Walker (victor77705) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=101;Y=120;Z=5'>JMP</a>)
+[22:26:23]ATTACK: Damian Ivanov (artik12344) shot Carson Walker (victor77705) with a the pistol bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=101;Y=120;Z=5'>JMP</a>) (<a href='?priv_msg=[0x3000073]'>PM</a>)
+[22:26:30]ATTACK: Damian Ivanov (artik12344) shot Carson Walker (victor77705) with a the pistol bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=100;Y=120;Z=5'>JMP</a>) (<a href='?priv_msg=[0x3000073]'>PM</a>)
+[22:26:44]ATTACK: Carson Walker (victor77705) shot Damian Ivanov (artik12344) with a the pistol bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=106;Y=121;Z=5'>JMP</a>) (<a href='?priv_msg=[0x3000074]'>PM</a>)
+[22:26:46]ATTACK: Carson Walker (victor77705) shot Damian Ivanov (artik12344) with a the pistol bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=106;Y=121;Z=5'>JMP</a>) (<a href='?priv_msg=[0x3000074]'>PM</a>)
+[22:26:46]EMOTE: Damian Ivanov/Artik12344 : <B>2LT Damian Ivanov</B> screams!
+[22:26:49]ATTACK: Carson Walker (victor77705) shot Damian Ivanov (artik12344) with a the pistol bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=106;Y=121;Z=5'>JMP</a>) (<a href='?priv_msg=[0x3000074]'>PM</a>)
+[22:27:42]ATTACK: Carson Walker (victor77705) was hit by a the throwing knife, thrown by Damian Ivanov (artik12344) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=81;Y=119;Z=5'>JMP</a>)
+[22:28:07]EMOTE: Damian Ivanov/Artik12344 : <B>2LT Damian Ivanov</B> 's body becomes limp.
+[22:28:24]ATTACK: Damian Ivanov (artik12344) shot Unknown (as Carson Walker) (victor77705) with a the pistol bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=73;Y=120;Z=5'>JMP</a>) (<a href='?priv_msg=[0x3000073]'>PM</a>)
+[22:28:27]ATTACK: Damian Ivanov (artik12344) shot Unknown (as Carson Walker) (victor77705) with a the pistol bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=73;Y=120;Z=5'>JMP</a>) (<a href='?priv_msg=[0x3000073]'>PM</a>)
+[22:28:28]SAY: Unknown (as Carson Walker)/Victor77705 : агх
+[22:28:39]SAY: Damian Ivanov/Artik12344 : В п-п-патроннике в-всегда есть 1-1 патрон
+[22:28:44]SAY: Damian Ivanov/Artik12344 : Н-Н-На с-случай
+[22:28:49]SAY: Damian Ivanov/Artik12344 : е-если
+[22:28:52]SAY: Damian Ivanov/Artik12344 : к-кончитс
+[22:28:56]ATTACK: Damian Ivanov (artik12344) was hit by a the throwing knife, thrown by Unknown (as Carson Walker) (victor77705) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=74;Y=120;Z=5'>JMP</a>)
+[22:29:05]SAY: Unknown (as Carson Walker)/Victor77705 : Х-Х-Хе-хе
+[22:29:15]ADMIN: Victor77705/(Carson Walker) healed / Rrvived Artik12344/(Damian Ivanov)
+[22:29:20]ADMIN: Victor77705/(Carson Walker) healed / Rrvived Victor77705/(Carson Walker)
+[22:29:25]ATTACK: Carson Walker (victor77705) was hit by a the throwing knife, thrown by Damian Ivanov (artik12344) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=69;Y=119;Z=5'>JMP</a>)
+[22:29:42]OOC: Carson Walker/Victor77705 : Щ
+[22:29:47]OOC: Carson Walker/Victor77705 : Пистоль заресаю
+[22:29:59]OOC: Damian Ivanov/Artik12344 : патроны ресай
+[22:30:05]ADMIN: Victor77705/(Carson Walker) created a /obj/item/weapon/gun/flare
+[22:30:08]OOC: Damian Ivanov/Artik12344 : У мен+SPAWN Нету
+[22:30:29]OOC: Carson Walker/Victor77705 : О
+[22:30:35]ATTACK: Carson Walker (victor77705) was hit by a the M4A3 magazine (9mm), thrown by Damian Ivanov (artik12344) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=69;Y=120;Z=5'>JMP</a>)
+[22:30:36]OOC: Carson Walker/Victor77705 : Го на флаер ганах?
+[22:30:40]OOC: Damian Ivanov/Artik12344 : Давай
+[22:30:41]ADMIN: Victor77705/(Carson Walker) healed / Rrvived Victor77705/(Carson Walker)
+[22:30:58]OOC: Damian Ivanov/Artik12344 : а так и будешь с ножом в лице ходить
+[22:31:06]OOC: Damian Ivanov/Artik12344 : в голове
+[22:31:06]ADMIN: Victor77705/(Carson Walker) created a /obj/item/weapon/gun/flare
+[22:31:13]ADMIN: Victor77705/(Carson Walker) created a /obj/item/weapon/storage/flarebox
+[22:31:14]ADMIN: Victor77705/(Carson Walker) created a /obj/item/weapon/storage/flarebox
+[22:31:16]ADMIN: Victor77705/(Carson Walker) created a /obj/item/weapon/storage/flarebox
+[22:31:17]ADMIN: Victor77705/(Carson Walker) created a /obj/item/weapon/storage/flarebox
+[22:31:42]ATTACK: Carson Walker (victor77705) shot Damian Ivanov (artik12344) with a the flare (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=69;Y=118;Z=5'>JMP</a>) (<a href='?priv_msg=[0x3000074]'>PM</a>)
+[22:31:42]EMOTE: Damian Ivanov/Artik12344 : <B>2LT Damian Ivanov</B> screams!
+[22:31:58]ATTACK: Carson Walker (victor77705) shot Damian Ivanov (artik12344) with a the flare (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=71;Y=118;Z=5'>JMP</a>) (<a href='?priv_msg=[0x3000074]'>PM</a>)
+[22:31:58]EMOTE: Damian Ivanov/Artik12344 : <B>2LT Damian Ivanov</B> screams!
+[22:32:16]ATTACK: Carson Walker (victor77705) shot Damian Ivanov (artik12344) with a the flare (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=67;Y=120;Z=5'>JMP</a>) (<a href='?priv_msg=[0x3000074]'>PM</a>)
+[22:32:19]ATTACK: Damian Ivanov (artik12344) shot Carson Walker (victor77705) with a the flare (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=73;Y=119;Z=5'>JMP</a>) (<a href='?priv_msg=[0x3000073]'>PM</a>)
+[22:32:19]EMOTE: Carson Walker/Victor77705 : <B>2LT Carson Walker</B> screams!
+[22:32:38]ATTACK: Carson Walker (victor77705) shot Damian Ivanov (artik12344) with a the flare (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=71;Y=119;Z=5'>JMP</a>) (<a href='?priv_msg=[0x3000074]'>PM</a>)
+[22:32:38]EMOTE: Damian Ivanov/Artik12344 : <B>2LT Damian Ivanov</B> screams!
+[22:32:43]EMOTE: Damian Ivanov/Artik12344 : <B>2LT Damian Ivanov</B> is having trouble keeping their eyes open.
+[22:32:43]ATTACK: Carson Walker (victor77705) shot Damian Ivanov (artik12344) with a the flare (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=68;Y=118;Z=5'>JMP</a>) (<a href='?priv_msg=[0x3000074]'>PM</a>)
+[22:32:43]EMOTE: Damian Ivanov/Artik12344 : <B>2LT Damian Ivanov</B> screams!
+[22:32:58]ATTACK: Damian Ivanov (artik12344) shot Carson Walker (victor77705) with a the flare (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=72;Y=120;Z=5'>JMP</a>) (<a href='?priv_msg=[0x3000073]'>PM</a>)
+[22:32:58]EMOTE: Carson Walker/Victor77705 : <B>2LT Carson Walker</B> screams!
+[22:33:06]SAY: Damian Ivanov/Artik12344 : к-кон
+[22:33:08]SAY: Damian Ivanov/Artik12344 : ч-чились
+[22:33:17]SAY: Carson Walker/Victor77705 : у мендигл
+[22:33:21]SAY: Carson Walker/Victor77705 : есть
+[22:33:31]ATTACK: Carson Walker (victor77705) shot Damian Ivanov (artik12344) with a the heavy pistol bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=71;Y=119;Z=5'>JMP</a>) (<a href='?priv_msg=[0x3000074]'>PM</a>)
+[22:33:31]EMOTE: Damian Ivanov/Artik12344 : <B>2LT Damian Ivanov</B> gasps!
+[22:33:39]ATTACK: Victor77705/(Carson Walker) attacked Artik12344/(Damian Ivanov) with throwing knife (INTENT: HELP) (DAMTYE: BRUTE)
+[22:33:40]ATTACK: Victor77705/(Carson Walker) attacked Artik12344/(Damian Ivanov) with throwing knife (INTENT: HELP) (DAMTYE: BRUTE)
+[22:33:40]ADMIN: Artik12344/(Damian Ivanov) healed / revived Victor77705/(Carson Walker)
+[22:33:41]ATTACK: Victor77705/(Carson Walker) attacked Artik12344/(Damian Ivanov) with throwing knife (INTENT: HELP) (DAMTYE: BRUTE)
+[22:33:41]EMOTE: Damian Ivanov/Artik12344 : <B>2LT Damian Ivanov</B> gasps!
+[22:33:42]ATTACK: Victor77705/(Carson Walker) attacked Artik12344/(Damian Ivanov) with throwing knife (INTENT: HELP) (DAMTYE: BRUTE)
+[22:33:45]ATTACK: Victor77705/(Carson Walker) attacked Artik12344/(Damian Ivanov) with throwing knife (INTENT: HELP) (DAMTYE: BRUTE)
+[22:33:52]ATTACK: Victor77705/(Carson Walker) attacked Artik12344/(Damian Ivanov) with throwing knife (INTENT: HURT) (DAMTYE: BRUTE)
+[22:33:58]ADMIN: Artik12344/(Damian Ivanov) healed / revived Artik12344/(Damian Ivanov)
+[22:34:14]ACCESS: Login: NoManSky/(NoManSky) from 187.181.157.98-793534923 || BYOND v512
+[22:34:21]OOC: NoManSky/NoManSky : Hey
+[22:34:23]ATTACK: Damian Ivanov (artik12344) was hit by a the vintage Desert Eagle, thrown by Carson Walker (victor77705) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=65;Y=116;Z=5'>JMP</a>)
+[22:34:27]ATTACK: Damian Ivanov (artik12344) shot Carson Walker (victor77705) with a the heavy pistol bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=65;Y=116;Z=5'>JMP</a>) (<a href='?priv_msg=[0x3000073]'>PM</a>)
+[22:34:27]EMOTE: Carson Walker/Victor77705 : <B>2LT Carson Walker</B> screams!
+[22:34:32]ATTACK: Victor77705/(Carson Walker) attacked Artik12344/(Damian Ivanov) with throwing knife (INTENT: HELP) (DAMTYE: BRUTE)
+[22:34:33]ATTACK: Victor77705/(Carson Walker) attacked Artik12344/(Damian Ivanov) with throwing knife (INTENT: HELP) (DAMTYE: BRUTE)
+[22:34:38]OOC: Damian Ivanov/Artik12344 : Hi
+[22:34:46]ADMIN: HELP: NoManSky/(NoManSky): Where you got the code? - heard by 2 non-AFK admins.
+[22:34:48]OOC: Carson Walker/Victor77705 : Ага
+[22:34:57]OOC: (LOCAL) Damian Ivanov/Artik12344 : Что за Код
+[22:35:03]OOC: (LOCAL) Damian Ivanov/Artik12344 : он выпрашивает
+[22:35:10]OOC: (LOCAL) Carson Walker/Victor77705 : Хм
+[22:35:18]OOC: (LOCAL) Carson Walker/Victor77705 : Щ позову Кристала
+[22:35:21]ACCESS: Logout: *no key*/(NoManSky)
+[22:35:21]ACCESS: Login: NoManSky/(David Laurenzi) from 187.181.157.98-793534923 || BYOND v512
+[22:35:27]ADMIN: PM: Victor77705/(Carson Walker)->NoManSky/(David Laurenzi): Цфшештп
+[22:35:32]ADMIN: PM: Victor77705/(Carson Walker)->NoManSky/(David Laurenzi): waiting
+[22:35:49]ADMIN: PM: NoManSky/(David Laurenzi)->Victor77705/(Carson Walker): Huh?
+[22:35:54]OOC: (LOCAL) Damian Ivanov/Artik12344 : Где вы получили код
+[22:35:54]ACCESS: Login: BlackCrystall/(BlackCrystall) from 127.0.0.1-2513525785 || BYOND v511
+[22:36:09]ADMIN: PM: Victor77705/(Carson Walker)->NoManSky/(David Laurenzi): waiting 1 minets please
+[22:36:11]ADMIN: PM: Artik12344/(Damian Ivanov)->NoManSky/(David Laurenzi): What code
+[22:36:18]ADMIN: PM: NoManSky/(David Laurenzi)->Artik12344/(Damian Ivanov): The CM code
+[22:36:26]ATTACK: Victor77705/(Carson Walker) attacked Artik12344/(Damian Ivanov) with throwing knife (INTENT: HELP) (DAMTYE: BRUTE)
+[22:36:29]OOC: (LOCAL) Damian Ivanov/Artik12344 : Код Сборки или тип того
+[22:36:35]ATTACK: Damian Ivanov (artik12344) was hit by a the throwing knife, thrown by Carson Walker (victor77705) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=62;Y=115;Z=5'>JMP</a>)
+[22:36:35]ADMIN: PM: BlackCrystall/(BlackCrystall)->NoManSky/(David Laurenzi): I not give you code CM.
+[22:36:59]ADMIN: PM: NoManSky/(David Laurenzi)->BlackCrystall/(BlackCrystall): You cant give me the link?
+[22:37:05]ATTACK: Victor77705/(Carson Walker) attacked Artik12344/(Damian Ivanov) with throwing knife (INTENT: HELP) (DAMTYE: BRUTE)
+[22:37:39]ATTACK: Victor77705/(Carson Walker) disarmed Unknown (as Damian Ivanov) (artik12344)
+[22:37:40]ATTACK: Victor77705/(Carson Walker) disarmed Unknown (as Damian Ivanov) (artik12344)
+[22:37:41]ATTACK: Artik12344/(Damian Ivanov) punched Victor77705/(Carson Walker)
+[22:37:42]ATTACK: Victor77705/(Carson Walker) disarmed Unknown (as Damian Ivanov) (artik12344)
+[22:37:42]ADMIN: PM: BlackCrystall/(BlackCrystall)->NoManSky/(David Laurenzi): I not give you infirmation.... (My code)
+[22:37:45]EMOTE: Carson Walker/Victor77705 : <B>2LT Carson Walker</B> is having trouble keeping their eyes open.
+[22:37:53]EMOTE: Unknown (as Damian Ivanov)/Artik12344 : <B>2LT Unknown (as Damian Ivanov)</B> 's body becomes limp.
+[22:37:56]ADMIN: PM: NoManSky/(David Laurenzi)->BlackCrystall/(BlackCrystall): You made it?
+[22:38:09]ATTACK: Victor77705/(Carson Walker) disarmed Unknown (as Damian Ivanov) (artik12344)
+[22:38:20]ADMIN: Victor77705/(Carson Walker) healed / Rrvived Artik12344/(Damian Ivanov)
+[22:38:20]ADMIN: PM: NoManSky/(David Laurenzi)->BlackCrystall/(BlackCrystall): I mean this code was open if i remember
+[22:38:24]ADMIN: Victor77705/(Carson Walker) healed / Rrvived Victor77705/(Carson Walker)
+[22:38:28]ATTACK: Artik12344/(Damian Ivanov) attacked Victor77705/(Carson Walker) with throwing knife (INTENT: HURT) (DAMTYE: BRUTE)
+[22:38:29]ATTACK: Artik12344/(Damian Ivanov) attacked Victor77705/(Carson Walker) with throwing knife (INTENT: HURT) (DAMTYE: BRUTE)
+[22:38:30]ATTACK: Artik12344/(Damian Ivanov) attacked Victor77705/(Carson Walker) with throwing knife (INTENT: HURT) (DAMTYE: BRUTE)
+[22:38:31]ATTACK: Artik12344/(Damian Ivanov) attacked Victor77705/(Carson Walker) with throwing knife (INTENT: HURT) (DAMTYE: BRUTE)
+[22:38:32]ATTACK: Artik12344/(Damian Ivanov) attacked Victor77705/(Carson Walker) with throwing knife (INTENT: HURT) (DAMTYE: BRUTE)
+[22:38:34]ATTACK: Artik12344/(Damian Ivanov) attacked Victor77705/(Carson Walker) with throwing knife (INTENT: HURT) (DAMTYE: BRUTE)
+[22:38:36]ADMIN: Victor77705/(Carson Walker) has used rudimentary transformation on Artik12344/(Damian Ivanov). Transforming to human; deletemob=1
+[22:38:36]ACCESS: Logout: *no key*/(Damian Ivanov)
+[22:38:36]ACCESS: Login: Artik12344/(Damian Ivanov) from 84.39.245.176-1405323571 || BYOND v512
+[22:38:48]SAY: Damian Ivanov/Artik12344 : Б
+[22:38:53]SAY: Damian Ivanov/Artik12344 : БЛЯ
+[22:38:58]SAY: Unknown (as Carson Walker)/Victor77705 : Ящюрка
+[22:38:59]ATTACK: Damian Ivanov (artik12344) was hit by a the vintage Desert Eagle, thrown by Damian Ivanov (artik12344) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=60;Y=114;Z=5'>JMP</a>)
+[22:39:05]SAY: Unknown (as Carson Walker)/Victor77705 : Не кусай мен
+[22:39:09]SAY: Unknown (as Carson Walker)/Victor77705 : Пожалуйста
+[22:39:32]SAY: Damian Ivanov/Artik12344 : E
+[22:39:33]ADMIN: HELP: NoManSky/(David Laurenzi): Where is the specialist coin? - heard by 3 non-AFK admins.
+[22:39:36]SAY: Damian Ivanov/Artik12344 : У МЕНЯ ПОДГУЗНИК
+[22:39:41]SAY: Unknown (as Carson Walker)/Victor77705 : Да
+[22:39:49]SAY: Unknown (as Carson Walker)/Victor77705 : Ты же момаленькаерка
+[22:39:51]SAY: Mister Wiggles/ : Bark!
+[22:39:58]SAY: Damian Ivanov/Artik12344 : круче
+[22:40:00]SAY: Damian Ivanov/Artik12344 : теб
+[22:40:07]SAY: Unknown (as Carson Walker)/Victor77705 : а маленькие юрки должны быть в подгузниках
+[22:40:11]SAY: Mister Wiggles/ : YAP
+[22:40:32]ADMIN: PM: BlackCrystall/(BlackCrystall)->NoManSky/(David Laurenzi): Alpha prep and delta charli bravo
+[22:40:45]ADMIN: PM: NoManSky/(David Laurenzi)->BlackCrystall/(BlackCrystall): I am a Specialist but i dont have the coin
+[22:40:48]ADMIN: Victor77705/(Carson Walker) healed / Rrvived Victor77705/(Carson Walker)
+[22:40:58]SAY: Damian Ivanov/Artik12344 : а
+[22:41:22]ADMIN: PM: Artik12344/(Damian Ivanov)->Victor77705/(Carson Walker): У МенПМКА Чинит обычно чат..
+[22:41:37]ADMIN: PM: Artik12344/(Damian Ivanov)->Victor77705/(Carson Walker): Всё,починилс
+[22:41:56]ADMIN: Victor77705/(Carson Walker) created a /obj/item/weapon/soap/deluxe
+[22:42:01]SAY: Carson Walker/Victor77705 : эй
+[22:42:05]SAY: Carson Walker/Victor77705 : Ящюрка
+[22:42:13]SAY: Damian Ivanov/Artik12344 : Шо тебе надо ебаный смертный
+[22:42:22]SAY: Carson Walker/Victor77705 : Ты уронил мыло, подними
+[22:42:32]ATTACK: Carson Walker (victor77705) was hit by a the soap, thrown by Damian Ivanov (artik12344) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=63;Y=115;Z=5'>JMP</a>)
+[22:42:34]SAY: Damian Ivanov/Artik12344 : на
+[22:42:38]SAY: Damian Ivanov/Artik12344 : Я не кушаю мыло
+[22:42:43]ATTACK: Victor77705/(Carson Walker) attacked Artik12344/(Damian Ivanov) with soap (INTENT: HELP) (DAMTYE: BRUTE)
+[22:42:44]ATTACK: Victor77705/(Carson Walker) attacked Artik12344/(Damian Ivanov) with soap (INTENT: HELP) (DAMTYE: BRUTE)
+[22:42:46]ATTACK: Victor77705/(Carson Walker) attacked Artik12344/(Damian Ivanov) with soap (INTENT: HELP) (DAMTYE: BRUTE)
+[22:42:48]ATTACK: Victor77705/(Carson Walker) attacked Artik12344/(Damian Ivanov) with soap (INTENT: HELP) (DAMTYE: BRUTE)
+[22:42:51]SAY: Carson Walker/Victor77705 : тихо
+[22:42:56]SAY: Carson Walker/Victor77705 : Щ мы тебе зубки почистим
+[22:42:58]ATTACK: Victor77705/(Carson Walker) attacked Artik12344/(Damian Ivanov) with soap (INTENT: HELP) (DAMTYE: BRUTE)
+[22:43:00]ATTACK: Victor77705/(Carson Walker) attacked Artik12344/(Damian Ivanov) with soap (INTENT: HELP) (DAMTYE: BRUTE)
+[22:43:12]SAY: Damian Ivanov/Artik12344 : двойно удар
+[22:43:23]ATTACK: Carson Walker (victor77705) was hit by a the soap, thrown by Damian Ivanov (artik12344) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=61;Y=114;Z=5'>JMP</a>)
+[22:43:25]SAY: Mister Wiggles/ : Woof!
+[22:43:29]ATTACK: Artik12344/(Damian Ivanov) scratched Artik12344/(Damian Ivanov)
+[22:43:35]ATTACK: Victor77705/(Carson Walker) attacked Artik12344/(Damian Ivanov) with soap (INTENT: HELP) (DAMTYE: BRUTE)
+[22:43:36]ATTACK: Victor77705/(Carson Walker) attacked Artik12344/(Damian Ivanov) with soap (INTENT: HELP) (DAMTYE: BRUTE)
+[22:43:37]ATTACK: Victor77705/(Carson Walker) attacked Artik12344/(Damian Ivanov) with soap (INTENT: HELP) (DAMTYE: BRUTE)
+[22:43:37]ATTACK: Artik12344/(Damian Ivanov) scratched Victor77705/(Carson Walker)
+[22:43:47]ATTACK: Artik12344/(Damian Ivanov) scratched Victor77705/(Carson Walker)
+[22:43:48]ATTACK: Artik12344/(Damian Ivanov) scratched Victor77705/(Carson Walker)
+[22:43:49]ATTACK: Artik12344/(Damian Ivanov) scratched Victor77705/(Carson Walker)
+[22:43:50]ATTACK: Artik12344/(Damian Ivanov) scratched Victor77705/(Carson Walker)
+[22:43:51]ATTACK: Artik12344/(Damian Ivanov) clawed Victor77705/(Carson Walker)
+[22:43:52]ATTACK: Artik12344/(Damian Ivanov) scratched Victor77705/(Carson Walker)
+[22:43:53]ATTACK: Artik12344/(Damian Ivanov) clawed Victor77705/(Carson Walker)
+[22:43:57]ADMIN: Victor77705/(Carson Walker) created a /obj/item/weapon/lighter/zippo/fluff/ghost
+[22:44:06]ADMIN: Victor77705/(Carson Walker) created a /obj/item/weapon/restraints
+[22:44:07]ATTACK: Carson Walker (victor77705) was hit by a the soap, thrown by Damian Ivanov (artik12344) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=56;Y=115;Z=5'>JMP</a>)
+[22:44:18]ADMIN: Victor77705/(Carson Walker) created a /obj/item/weapon/gun/rocketlauncher
+[22:44:30]ATTACK: Carson Walker (victor77705) was hit by a Gold zippo lighter, thrown by Damian Ivanov (artik12344) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=63;Y=116;Z=5'>JMP</a>)
+[22:44:35]ATTACK: Carson Walker (victor77705) was hit by a the soap, thrown by Damian Ivanov (artik12344) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=59;Y=116;Z=5'>JMP</a>)
+[22:44:40]GAME: Explosion with size (-1, 1, 3) in area Bridge 
+[22:44:46]SAY: Damian Ivanov/Artik12344 : БЛЯЯЯТЬ
+[22:44:48]ADMIN: Victor77705/(Carson Walker) healed / Rrvived Victor77705/(Carson Walker)
+[22:44:56]SAY: Damian Ivanov/Artik12344 : ер
+[22:44:57]EMOTE: Carson Walker/Victor77705 : <B>2LT Carson Walker</B> gasps!
+[22:44:57]SAY: Damian Ivanov/Artik12344 : ЯЩЕР
+[22:45:01]EMOTE: Damian Ivanov/Artik12344 : <B>Damian Ivanov</B> gasps!
+[22:45:01]SAY: Damian Ivanov/Artik12344 : ПЕРЕБОРЩИЛ
+[22:45:02]ADMIN: Victor77705/(Carson Walker) created a /turf/simulated/floor/plating
+[22:45:03]EMOTE: Damian Ivanov/Artik12344 : <B>Damian Ivanov</B> gasps!
+[22:45:05]EMOTE: Damian Ivanov/Artik12344 : <B>Damian Ivanov</B> gasps!
+[22:45:15]ADMIN: Artik12344/(Damian Ivanov) healed / revived Artik12344/(Damian Ivanov)
+[22:45:17]ADMIN: Victor77705/(Carson Walker) healed / Rrvived Victor77705/(Carson Walker)
+[22:45:23]ADMIN: Artik12344/(Damian Ivanov) deleted the Emergency Shutter at (65,117,5) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000076]'>JMP</A>)
+[22:45:23]EMOTE: Carson Walker/Victor77705 : <B>2LT Carson Walker</B> gasps!
+[22:45:23]EMOTE: Damian Ivanov/Artik12344 : <B>Damian Ivanov</B> gasps!
+[22:45:23]ADMIN: Victor77705/(Carson Walker) healed / Rrvived Artik12344/(Damian Ivanov)
+[22:45:27]EMOTE: Damian Ivanov/Artik12344 : <B>Damian Ivanov</B> gasps!
+[22:45:27]ADMIN: Artik12344/(Damian Ivanov) deleted Bridge at (65,117,5) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000076]'>JMP</A>)
+[22:45:39]EMOTE: Damian Ivanov/Artik12344 : <B>Damian Ivanov</B> gasps!
+[22:46:00]SAY: Carson Walker/Victor77705 : ух
+[22:46:05]SAY: Damian Ivanov/Artik12344 : Ящер стрель
+[22:46:19]SAY: Carson Walker/Victor77705 : Щ ера в очко долбать буду
+[22:46:22]SAY: Damian Ivanov/Artik12344 : Ящер СтрелЯть
+[22:46:31]SAY: Carson Walker/Victor77705 : Человек ера ебать
+[22:46:50]SAY: Damian Ivanov/Artik12344 : не летим
+[22:46:55]EMOTE: Carson Walker/Victor77705 : <B>2LT Carson Walker</B> gasps!
+[22:46:57]EMOTE: Damian Ivanov/Artik12344 : <B>Damian Ivanov</B> gasps!
+[22:46:57]SAY: Damian Ivanov/Artik12344 : аа
+[22:47:00]SAY: Damian Ivanov/Artik12344 : ДАВЛИНИИ
+[22:47:09]EMOTE: Damian Ivanov/Artik12344 : <B>Damian Ivanov</B> gasps!
+[22:47:11]EMOTE: Damian Ivanov/Artik12344 : <B>Damian Ivanov</B> gasps!
+[22:47:11]SAY: Damian Ivanov/Artik12344 : ты сам
+[22:47:13]SAY: Damian Ivanov/Artik12344 : потер
+[22:47:13]EMOTE: Carson Walker/Victor77705 : <B>2LT Carson Walker</B> gasps!
+[22:47:14]ADMIN: Victor77705/(Carson Walker) created a /obj/machinery/atmospherics/pipe/tank/oxygen
+[22:47:15]EMOTE: Damian Ivanov/Artik12344 : <B>Damian Ivanov</B> gasps!
+[22:47:15]ADMIN: Victor77705/(Carson Walker) created a /obj/machinery/atmospherics/pipe/tank/oxygen
+[22:47:17]EMOTE: Damian Ivanov/Artik12344 : <B>Damian Ivanov</B> gasps!
+[22:47:18]SAY: Damian Ivanov/Artik12344 : ПотерЯл оружие
+[22:47:19]EMOTE: Damian Ivanov/Artik12344 : <B>Damian Ivanov</B> gasps!
+[22:47:24]ADMIN: Victor77705/(Carson Walker) created a /obj/machinery/atmospherics/unary/oxygen_generator
+[22:47:25]EMOTE: Damian Ivanov/Artik12344 : <B>Damian Ivanov</B> gasps!
+[22:47:33]EMOTE: Carson Walker/Victor77705 : <B>2LT Carson Walker</B> gasps!
+[22:47:33]ADMIN: Victor77705/(Carson Walker) created a /obj/machinery/portable_atmospherics/canister/oxygen
+[22:47:37]ADMIN: Carson Walker (victor77705) opened 'Canister: [O2]' containing oxygen.
+[22:47:48]SAY: Carson Walker/Victor77705 : Ух
+[22:48:00]ADMIN: HELP: NoManSky/(David Laurenzi): Can send the discord? - heard by 2 non-AFK admins.
+[22:48:01]SAY: Damian Ivanov/Artik12344 : у нас кончилскислород
+[22:48:08]ADMIN: PM: BlackCrystall/(BlackCrystall)->NoManSky/(David Laurenzi): Okey
+[22:48:11]SAY: Carson Walker/Victor77705 : От бль
+[22:48:22]SAY: Carson Walker/Victor77705 : Ящюрка не прикладывай свои коготки к балону
+[22:48:24]ADMIN: PM: Artik12344/(Damian Ivanov)->NoManSky/(David Laurenzi): https://discord.gg/GPmsrbp
+[22:48:24]ADMIN: PM: BlackCrystall/(BlackCrystall)->NoManSky/(David Laurenzi): https://discordapp.com/invite/s5ZXAhm
+[22:48:31]ADMIN: PM: NoManSky/(David Laurenzi)->BlackCrystall/(BlackCrystall): Thx
+[22:48:39]ADMIN: Victor77705/(Carson Walker) deleted Canister: [Toxin (Bio)] at (68,115,5) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000074]'>JMP</A>)
+[22:48:47]SAY: Damian Ivanov/Artik12344 : Пащему
+[22:48:57]ADMIN: Victor77705/(Carson Walker) created a /obj/machinery/portable_atmospherics/canister/oxygen
+[22:49:01]ADMIN: Carson Walker (victor77705) opened 'Canister: [O2]' containing oxygen.
+[22:49:07]OOC: (LOCAL) Damian Ivanov/Artik12344 : Бл
+[22:49:12]OOC: (LOCAL) Damian Ivanov/Artik12344 : Попал случайно
+[22:49:17]OOC: (LOCAL) Damian Ivanov/Artik12344 : по Марку
+[22:49:33]ACCESS: Logout: NoManSky/(David Laurenzi)
+[22:49:47]OOC: (LOCAL) Carson Walker/Victor77705 : Бывает
+[22:49:53]OOC: (LOCAL) Damian Ivanov/Artik12344 : а че он делает
+[22:50:01]OOC: (LOCAL) Carson Walker/Victor77705 : Кто?
+[22:50:05]OOC: (LOCAL) Damian Ivanov/Artik12344 : марк
+[22:50:15]OOC: (LOCAL) Carson Walker/Victor77705 : Хуи пинает
+[22:50:25]SAY: Carson Walker/Victor77705 : юрка
+[22:50:29]SAY: Carson Walker/Victor77705 : Пострадала
+[22:50:30]SAY: Damian Ivanov/Artik12344 : Ай
+[22:50:33]SAY: Damian Ivanov/Artik12344 : Болина
+[22:50:45]DEBUG: Firing random event. #Engineer:0 #Medical:0 #AI:0 #Cyborg:0 ||| /datum/event/economic_event:300/datum/event/trivial_news:400/datum/event/mundane_news:300/datum/event/pda_spam:200/datum/event/money_lotto:50/datum/event/carp_migration:20/datum/event/brand_intelligence:20/datum/event/rogue_drone:5/datum/event/infestation:100/datum/event/communications_blackout:50/datum/event/ionstorm:1/datum/event/electrical_storm:1/datum/event/wallrot:1/datum/event/meteor_wave:1/datum/event/meteor_shower:1/datum/event/prison_break:1|||Picked:/datum/event/pda_spam
+[22:50:45]DEBUG: Next event in 40.506 minutes.
+[22:51:15]ACCESS: Login: NoManSky/(David Laurenzi) from 187.181.157.98-793534923 || BYOND v512
+[22:51:46]SAY: Damian Ivanov/Artik12344 : Тоби пизда
+[22:51:46]ADMIN: HELP: NoManSky/(David Laurenzi): Send the Discord again i got a connection failed - heard by 3 non-AFK admins.
+[22:51:56]ADMIN: Victor77705/(Carson Walker) created a /obj/item/weapon/gun/pistol/heavy
+[22:52:01]ADMIN: PM: Artik12344/(Damian Ivanov)->NoManSky/(David Laurenzi): https://discord.gg/GPmsrbp
+[22:52:03]SAY: Carson Walker/Victor77705 : Нет это тебе
+[22:52:08]SAY: Damian Ivanov/Artik12344 : Уже не пизда
+[22:52:11]ADMIN: PM: BlackCrystall/(BlackCrystall)->NoManSky/(David Laurenzi): https://discord.gg/s5ZXAhm 
+[22:52:18]ADMIN: PM: NoManSky/(David Laurenzi)->BlackCrystall/(BlackCrystall): Good
+[22:52:21]SAY: Carson Walker/Victor77705 : А ну лапки верх
+[22:52:25]SAY: Carson Walker/Victor77705 : И раком становись
+[22:52:29]EMOTE: Damian Ivanov/Artik12344 : <B>Damian Ivanov</B> Подн лапки вверх
+[22:52:31]ATTACK: Carson Walker (victor77705) shot Damian Ivanov (artik12344) with a the heavy pistol bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=70;Y=115;Z=5'>JMP</a>) (<a href='?priv_msg=[0x3000074]'>PM</a>)
+[22:52:31]EMOTE: Damian Ivanov/Artik12344 : <B>Damian Ivanov</B> screams!
+[22:52:34]SAY: Damian Ivanov/Artik12344 : АЙ БЛЯТЬ
+[22:52:37]SAY: Damian Ivanov/Artik12344 : Я ЖЕ ПОДНЯЛ
+[22:52:38]SAY: Damian Ivanov/Artik12344 : ААА
+[22:52:42]SAY: Damian Ivanov/Artik12344 : НЕ СМОГУ РАКОМ ВСТАТЬ
+[22:52:45]SAY: Carson Walker/Victor77705 : Раком не встал
+[22:52:48]SAY: Damian Ivanov/Artik12344 : АА
+[22:52:50]SAY: Damian Ivanov/Artik12344 : Я ХОТЕЛ
+[22:52:52]SAY: Damian Ivanov/Artik12344 : ВСТАТЬ
+[22:52:56]SAY: Damian Ivanov/Artik12344 : ТЕЕПЕРЬЬ НЕ СМОГУ
+[22:53:00]ATTACK: Artik12344/(Damian Ivanov) scratched Artik12344/(Damian Ivanov)
+[22:53:00]ATTACK: Carson Walker (victor77705) shot Damian Ivanov (artik12344) with a the heavy pistol bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=70;Y=115;Z=5'>JMP</a>) (<a href='?priv_msg=[0x3000074]'>PM</a>)
+[22:53:02]SAY: Carson Walker/Victor77705 : почему
+[22:53:10]ADMIN: Victor77705/(Carson Walker) healed / Rrvived Artik12344/(Damian Ivanov)
+[22:53:17]ATTACK: Carson Walker (victor77705) shot Damian Ivanov (artik12344) with a the heavy pistol bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=70;Y=115;Z=5'>JMP</a>) (<a href='?priv_msg=[0x3000074]'>PM</a>)
+[22:53:19]SAY: Damian Ivanov/Artik12344 : А-А-АЙ
+[22:53:20]SAY: Damian Ivanov/Artik12344 : О-ОПЯТЬ
+[22:53:46]SAY: Carson Walker/Victor77705 : Ты хули с лапками ко мне подходишь?
+[22:53:47]EMOTE: Damian Ivanov/Artik12344 : <B>Damian Ivanov</B> Встал раком
+[22:53:57]SAY: Damian Ivanov/Artik12344 : а-а-ааа
+[22:53:59]SAY: Damian Ivanov/Artik12344 : А-А-АААА
+[22:54:02]SAY: Damian Ivanov/Artik12344 : А-АААААААААААА
+[22:54:04]SAY: Damian Ivanov/Artik12344 : В-В-ВСТАЛ
+[22:54:07]SAY: Damian Ivanov/Artik12344 : К-К-КАК
+[22:54:08]SAY: Damian Ivanov/Artik12344 : Т-Т-ТЫ
+[22:54:09]SAY: Damian Ivanov/Artik12344 : С-С-СКАЗАЛ
+[22:54:10]SAY: Carson Walker/Victor77705 : молодец
+[22:54:14]SAY: Damian Ivanov/Artik12344 : Т-Т-Т-Т-Т--Т-Т-Т-Т-Т-Т-
+[22:54:21]SAY: Damian Ivanov/Artik12344 : Т-ТТТТТТ
+[22:54:27]SAY: Carson Walker/Victor77705 : Так значит
+[22:54:30]SAY: Damian Ivanov/Artik12344 : Б-Б-БЯЛЯЛЛЛЯЛТЬ
+[22:54:35]GAME: NoManSky/(David Laurenzi) planted plastic explosives on spaceship hull at (155,122,5) with 10 second fuse
+[22:54:37]SAY: Carson Walker/Victor77705 : Тебе пропехнуть через очко дигл
+[22:54:45]GAME: Explosion with size (-1, -1, 2) in area Briefing Room 
+[22:54:52]SAY: Damian Ivanov/Artik12344 : С-С-Стоп
+[22:54:52]ATTACK: David Laurenzi (nomansky) primed a frag grenade (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=158;Y=123;Z=5'>JMP</a>)
+[22:54:56]GAME: Explosion with size (-1, -1, 2) in area Central Hallway 
+[22:54:58]ACCESS: Logout: *no key*/(Damian Ivanov)
+[22:54:58]ACCESS: Login: Artik12344/(Damian Ivanov) from 84.39.245.176-1405323571 || BYOND v512
+[22:55:08]SAY: Carson Walker/Victor77705 : Ты слышал?
+[22:55:46]ADMIN: PM: Artik12344/(Damian Ivanov)->NoManSky/(David Laurenzi): What are you doing
+[22:55:55]ADMIN: PM: NoManSky/(David Laurenzi)->Artik12344/(Damian Ivanov): Testing the class
+[22:55:58]ACCESS: Logout: *no key*/(Damian Ivanov)
+[22:55:58]ACCESS: Login: Artik12344/(Damian Ivanov) from 84.39.245.176-1405323571 || BYOND v512
+[22:56:04]SAY: Damian Ivanov/Artik12344 : А-А
+[22:56:07]SAY: Damian Ivanov/Artik12344 : в-взрывы слышал
+[22:56:12]SAY: Carson Walker/Victor77705 : и
+[22:56:14]EMOTE: Damian Ivanov/Artik12344 : <B>Damian Ivanov</B> can no longer stand, collapsing!
+[22:56:15]SAY: Carson Walker/Victor77705 : и
+[22:56:18]SAY: Carson Walker/Victor77705 : тоже
+[22:56:32]ADMIN: PM: Artik12344/(Damian Ivanov)->NoManSky/(David Laurenzi): You made 2 explosions
+[22:56:39]ADMIN: Artik12344/(Damian Ivanov) healed / revived Artik12344/(Damian Ivanov)
+[22:56:44]SAY: Mister Wiggles/ : YAP
+[22:56:48]ATTACK: Artik12344/(Damian Ivanov) attacked Artik12344/(Damian Ivanov) with flare gun (INTENT: HURT) (DAMTYE: BRUTE)
+[22:56:50]ADMIN: PM: NoManSky/(David Laurenzi)->Artik12344/(Damian Ivanov): There are aliens online
+[22:56:53]SAY: Damian Ivanov/Artik12344 : Как застрелитс
+[22:57:01]SAY: Carson Walker/Victor77705 : у тебнет патронов
+[22:57:07]SAY: Carson Walker/Victor77705 : Можешь мои взь
+[22:57:19]ADMIN: PM: Artik12344/(Damian Ivanov)->NoManSky/(David Laurenzi): No
+[22:57:28]GAME: <a href='?priv_msg=[0x5000004]'>NoManSky</a>/(David Laurenzi) used an underslung grenade launcher.
+[22:57:30]GAME: Explosion with size (-1, -1, 2) in area Central Hallway 
+[22:57:40]ADMIN: PM: NoManSky/(David Laurenzi)->Artik12344/(Damian Ivanov): So what i do
+[22:57:44]GAME: <a href='?priv_msg=[0x5000004]'>NoManSky</a>/(David Laurenzi) used an underslung grenade launcher.
+[22:57:46]GAME: Explosion with size (-1, -1, 2) in area Central Hallway 
+[22:58:01]ADMIN: PM: Victor77705/(Carson Walker)->NoManSky/(David Laurenzi): What are you doing?
+[22:58:09]ADMIN: PM: NoManSky/(David Laurenzi)->Victor77705/(Carson Walker): Testing the weapons
+[22:58:26]ADMIN: PM: Artik12344/(Damian Ivanov)->Victor77705/(Carson Walker): Починка чата*
+[22:58:31]ADMIN: PM: Artik12344/(Damian Ivanov)->Victor77705/(Carson Walker): Всё
+[22:58:37]SAY: Damian Ivanov/Artik12344 : Дай пистолет
+[22:58:58]SAY: Damian Ivanov/Artik12344 : ты плохой человек
+[22:59:03]ACCESS: Logout: NoManSky/(David Laurenzi)
+[22:59:04]SAY: Damian Ivanov/Artik12344 : Я нашёл пистолет
+[22:59:06]SAY: Damian Ivanov/Artik12344 : вставай
+[22:59:09]SAY: Damian Ivanov/Artik12344 : С сидень
+[22:59:09]ATTACK: Damian Ivanov (artik12344) shot Carson Walker (victor77705) with a the heavy pistol bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=69;Y=113;Z=5'>JMP</a>) (<a href='?priv_msg=[0x3000076]'>PM</a>)
+[22:59:11]SAY: Damian Ivanov/Artik12344 : и
+[22:59:12]SAY: Damian Ivanov/Artik12344 : бл
+[22:59:13]SAY: Unknown (as Carson Walker)/Victor77705 : ай!
+[22:59:14]SAY: Damian Ivanov/Artik12344 : БлЯ
+[22:59:19]SAY: Damian Ivanov/Artik12344 : как мог
+[22:59:21]SAY: Damian Ivanov/Artik12344 : пожалуй
+[22:59:48]ACCESS: Logout: *no key*/(Damian Ivanov)
+[22:59:48]ACCESS: Login: Artik12344/(Damian Ivanov) from 84.39.245.176-1405323571 || BYOND v512
+[23:00:08]EMOTE: Unknown (as Carson Walker)/Victor77705 : <B>2LT Unknown (as Carson Walker)</B> is having trouble keeping their eyes open.
+[23:00:15]ACCESS: Logout: *no key*/(Carson Walker)
+[23:00:15]ACCESS: Login: Victor77705/(Carson Walker) from 5.139.51.129-2976244093 || BYOND v511
+[23:00:35]SAY: Ghost/Victor77705 : Этот пример заставит задуматслюдей
+[23:00:52]SAY: Ghost/Victor77705 : И вспомнить историю о двух товарищ о юрке и чюловеке
+[23:00:59]SAY: Ghost/Artik12344 : ибо
+[23:01:06]SAY: Ghost/Artik12344 : НельзЯ издеватс
+[23:01:11]SAY: Ghost/Artik12344 : над Ящерами
+[23:01:16]SAY: Ghost/Artik12344 : ведь перед смертю
+[23:01:24]SAY: Ghost/Artik12344 : они застав тебумереть
+[23:01:29]SAY: Ghost/Victor77705 : А так же заниматспорно с юрками
+[23:02:02]SAY: Mister Wiggles/ : AUUUUUU
+[23:02:07]SAY: Ghost/Victor77705 : Ведь юрки очень сексуальные
+[23:02:40]EMOTE: David Laurenzi/NoManSky : <B>CPL David Laurenzi</B> snores.
+[23:02:42]EMOTE: David Laurenzi/NoManSky : <B>CPL David Laurenzi</B> snores.
+[23:02:48]SAY: Ghost/Victor77705 : И да станцитоже застрелилась
+[23:02:51]SAY: Ghost/Artik12344 : за +SPAWN Могу... Ха-ха-ха пошутииил
+[23:03:00]ADMIN: Victor77705/(Carson Walker) has used rudimentary transformation on Victor77705/(Carson Walker). Transforming to human; deletemob=1
+[23:03:00]ACCESS: Logout: *no key*/(Carson Walker)
+[23:03:00]ACCESS: Login: Victor77705/(Carson Walker) from 5.139.51.129-2976244093 || BYOND v511
+[23:03:03]ACCESS: Logout: *no key*/(Carson Walker)
+[23:03:03]ACCESS: Login: Victor77705/(Carson Walker) from 5.139.51.129-2976244093 || BYOND v511
+[23:03:20]EMOTE: David Laurenzi/NoManSky : <B>CPL David Laurenzi</B> snores.
+[23:03:38]EMOTE: David Laurenzi/NoManSky : <B>CPL David Laurenzi</B> snores.
+[23:03:49]GAME: <a href='?priv_msg=[0x5000001]'>Victor77705</a>/(Carson Walker) has ghosted.
+[23:03:49]ACCESS: Logout: *no key*/(Carson Walker)
+[23:03:49]ACCESS: Login: Victor77705/(Carson Walker) from 5.139.51.129-2976244093 || BYOND v511
+[23:03:52]SAY: Ghost/Artik12344 : А тот чувак вышел
+[23:03:53]SAY: Ghost/Artik12344 : Шоли
+[23:03:58]EMOTE: David Laurenzi/NoManSky : <B>CPL David Laurenzi</B> snores.
+[23:04:04]SAY: Ghost/Victor77705 : Да...
+[23:04:17]SAY: Ghost/Artik12344 : Откуда они сервак наход
+[23:04:18]EMOTE: David Laurenzi/NoManSky : <B>CPL David Laurenzi</B> snores.
+[23:04:23]SAY: Ghost/Artik12344 : он чё в списке есть
+[23:04:23]SAY: Ghost/Victor77705 : Я бы не прочь занссексом с унатхом :P
+[23:04:31]SAY: Ghost/Victor77705 : Нету
+[23:05:42]EMOTE: David Laurenzi/NoManSky : <B>CPL David Laurenzi</B> snores.
+[23:05:54]SAY: Ghost/Artik12344 : Хочешь шутку
+[23:06:03]SAY: Ghost/Artik12344 : УНАТХ ПОВЕСИЛСЯ
+[23:06:07]SAY: Ghost/Artik12344 : ПХПХХПХПХПХПХ
+[23:06:15]SAY: Ghost/Victor77705 : Братан
+[23:06:24]SAY: Ghost/Artik12344 : Что
+[23:06:25]SAY: Ghost/Victor77705 : А почему ты нарушал мой устав?
+[23:06:28]SAY: Ghost/Artik12344 : А
+[23:06:30]SAY: Ghost/Artik12344 : всмысле
+[23:06:35]SAY: Ghost/Artik12344 : какой
+[23:06:41]SAY: Ghost/Victor77705 : Ну помнишь тебопрашивал
+[23:06:49]SAY: Ghost/Artik12344 : Что
+[23:06:56]SAY: Ghost/Victor77705 : мол что ты сделаешь если увидишь хуй на стене
+[23:07:02]SAY: Ghost/Artik12344 : А
+[23:07:06]SAY: Ghost/Artik12344 : сделал АГОСТ
+[23:07:08]SAY: Ghost/Victor77705 : И ты отвечал чт насадишьсна него
+[23:07:09]SAY: Ghost/Artik12344 : и не заметил видимо
+[23:07:43]SAY: Ghost/Artik12344 : хммхмхмххм
+[23:07:46]SAY: Ghost/Victor77705 : Это не слишком сильное нарушение
+[23:07:52]SAY: Ghost/Artik12344 : Когда это делал
+[23:07:57]SAY: Ghost/Victor77705 : Это вообще и нарушением не назвать
+[23:08:14]SAY: Ghost/Victor77705 : Просто знай мол не надо так делать
+[23:08:20]SAY: Ghost/Victor77705 : И не про это бизумие
+[23:08:26]SAY: Ghost/Artik12344 : Я этого не говорил ведь
+[23:08:36]SAY: Ghost/Victor77705 : Я про то что ты видел что администратор злоупотреблт
+[23:08:43]SAY: Ghost/Artik12344 : Ты про
+[23:08:44]EMOTE: David Laurenzi/NoManSky : <B>CPL David Laurenzi</B> snores.
+[23:08:52]SAY: Ghost/Artik12344 : То что Кристалл
+[23:08:52]SAY: Ghost/Victor77705 : Согласен ты этого не говорил
+[23:08:59]SAY: Ghost/Victor77705 : Ты насадилссразу на него
+[23:09:00]SAY: Ghost/Victor77705 : )
+[23:09:01]SAY: Ghost/Artik12344 : Это делал
+[23:09:11]SAY: Ghost/Artik12344 : Я пиши с большой буквы
+[23:09:17]SAY: Ghost/Victor77705 : Вооооот
+[23:09:20]SAY: Ghost/Victor77705 : Молодец
+[23:09:21]SAY: Ghost/Artik12344 : Ломает
+[23:09:24]SAY: Ghost/Artik12344 : Сообщение
+[23:09:25]SAY: Ghost/Victor77705 : Кристал злой
+[23:09:31]ACCESS: Logout: BlackCrystall/(BlackCrystall)
+[23:09:35]SAY: Ghost/Artik12344 : Бл
+[23:09:41]SAY: Ghost/Artik12344 : Он АбидилсЯ
+[23:09:43]SAY: Ghost/Artik12344 : сук
+[23:09:47]SAY: Ghost/Artik12344 : Мы его спугнули
+[23:09:55]SAY: Ghost/Victor77705 : Да...
+[23:10:01]SAY: Ghost/Victor77705 : Но он мой лучший дру
+[23:10:08]SAY: Ghost/Victor77705 : Мы с ним 10 лет знакомы
+[23:10:18]SAY: Ghost/Victor77705 : Служили вместе
+[23:10:25]SAY: Ghost/Victor77705 : ( нет )
+[23:10:34]SAY: Ghost/Victor77705 : Он наверное вспомнил Вьетнам
+[23:10:35]SAY: Ghost/Artik12344 : Во въетнаме
+[23:10:41]SAY: Ghost/Victor77705 : Да-да
+[23:10:41]SAY: Ghost/Artik12344 : ХАХАХАХАХ
+[23:10:46]SAY: Ghost/Victor77705 : Ты видимо тоже там был
+[23:10:47]EMOTE: David Laurenzi/NoManSky : <B>CPL David Laurenzi</B> snores.
+[23:10:51]SAY: Ghost/Artik12344 : Да..
+[23:10:56]SAY: Ghost/Artik12344 : у нас одинаковые мысли
+[23:11:05]SAY: Ghost/Artik12344 : Ебаный Телепат
+[23:11:05]SAY: Ghost/Artik12344 : гыг
+[23:11:16]SAY: Ghost/Artik12344 : Кстати
+[23:11:16]SAY: Ghost/Victor77705 : Хм...
+[23:11:18]SAY: Ghost/Artik12344 : на станции
+[23:11:23]SAY: Ghost/Artik12344 : Нет ссссссвета
+[23:11:32]SAY: Ghost/Victor77705 : Яж турбину сломал
+[23:11:39]SAY: Ghost/Victor77705 : Станцискоро взорвётс
+[23:11:46]SAY: Ghost/Artik12344 : Разве не ёбнул с гранатомёта
+[23:11:51]SAY: Ghost/Artik12344 : ГДЕ 
+[23:11:53]SAY: Ghost/Artik12344 : СЛОМАЛ
+[23:11:56]SAY: Ghost/Artik12344 : ТУРБИНУ
+[23:12:00]SAY: Ghost/Artik12344 : и
+[23:12:01]ADMIN: Victor77705/(Carson Walker) deleted Carson Walker at (226,119,5) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000079]'>JMP</A>)
+[23:12:03]SAY: Ghost/Artik12344 : не вижу поломок
+[23:12:11]ADMIN: Victor77705/(Carson Walker) has used rudimentary transformation on Victor77705/(Carson Walker). Transforming to human; deletemob=1
+[23:12:11]ACCESS: Logout: *no key*/(Carson Walker)
+[23:12:11]ACCESS: Login: Victor77705/(Carson Walker) from 5.139.51.129-2976244093 || BYOND v511
+[23:12:16]ACCESS: Logout: *no key*/(Carson Walker)
+[23:12:16]ACCESS: Login: Victor77705/(Carson Walker) from 5.139.51.129-2976244093 || BYOND v511
+[23:12:23]ADMIN: Artik12344/(Damian Ivanov) teleported Victor77705/(Carson Walker)
+[23:12:29]ADMIN: Artik12344/(Damian Ivanov) teleported Victor77705/(Carson Walker)
+[23:12:33]SAY: Ghost/Artik12344 : БлЯ
+[23:12:36]SAY: Ghost/Artik12344 : вот чё это делает
+[23:12:45]SAY: Ghost/Artik12344 : А чё если
+[23:12:46]GAME: <a href='?priv_msg=[0x5000001]'>Victor77705</a>/(Carson Walker) has ghosted.
+[23:12:46]ACCESS: Logout: *no key*/(Carson Walker)
+[23:12:46]ACCESS: Login: Victor77705/(Carson Walker) from 5.139.51.129-2976244093 || BYOND v511
+[23:12:49]SAY: Ghost/Victor77705 : пизда
+[23:12:53]ADMIN: Artik12344/(Damian Ivanov) teleported Victor77705/(Carson Walker)
+[23:12:59]SAY: Ghost/Artik12344 : БлЯ
+[23:13:03]SAY: Ghost/Artik12344 : тело не тпехнуть
+[23:13:11]ADMIN: Victor77705/(Carson Walker) teleported *no key*/(Carson Walker)
+[23:13:16]SAY: Ghost/Artik12344 : как войти внутрь тела
+[23:13:18]GAME: Explosion with size (8, 12, 18) in area Engine Chamber 
+[23:13:25]GAME: Emitter deleted at (219,130,5)
+[23:13:25]SAY: Ghost/Victor77705 : Эм
+[23:13:25]GAME: Explosion with size (1, 2, 3) in area Engine Chamber 
+[23:13:25]GAME: Explosion with size (1, 2, 3) in area Engine Chamber 
+[23:13:25]GAME: Explosion with size (1, 2, 3) in area Engine Chamber 
+[23:13:25]GAME: Explosion with size (1, 2, 3) in area Engine Chamber 
+[23:13:25]GAME: Explosion with size (1, 2, 3) in area Engine Chamber 
+[23:13:25]GAME: Explosion with size (1, 2, 3) in area Engine Chamber 
+[23:13:25]GAME: Explosion with size (1, 2, 3) in area Engine Chamber 
+[23:13:25]GAME: Explosion with size (1, 2, 3) in area Engine Chamber 
+[23:13:25]GAME: Explosion with size (1, 2, 3) in area Engine Chamber 
+[23:13:25]GAME: Explosion with size (1, 2, 3) in area Engine Chamber 
+[23:13:25]GAME: Explosion with size (1, 2, 3) in area Engine Chamber 
+[23:13:25]GAME: Explosion with size (1, 2, 3) in area Engine Chamber 
+[23:13:25]GAME: Explosion with size (1, 2, 3) in area Engine Chamber 
+[23:13:25]GAME: Explosion with size (1, 2, 3) in area Engine Chamber 
+[23:13:25]GAME: Explosion with size (1, 2, 3) in area Engine Chamber 
+[23:13:25]GAME: Explosion with size (1, 2, 3) in area Engine Chamber 
+[23:13:25]GAME: Explosion with size (1, 2, 3) in area Engine Chamber 
+[23:13:25]GAME: Explosion with size (1, 2, 3) in area Engine Chamber 
+[23:13:25]GAME: Explosion with size (1, 2, 3) in area Engine Chamber 
+[23:13:25]GAME: Explosion with size (1, 2, 3) in area Engine Chamber 
+[23:13:25]GAME: Explosion with size (1, 2, 3) in area Engine Chamber 
+[23:13:25]GAME: Explosion with size (1, 2, 3) in area Engine Chamber 
+[23:13:25]GAME: Explosion with size (1, 2, 3) in area Engine Chamber 
+[23:13:25]GAME: Explosion with size (1, 2, 3) in area Engine Chamber 
+[23:13:25]GAME: Explosion with size (1, 2, 3) in area Engine Chamber 
+[23:13:25]GAME: Explosion with size (1, 2, 3) in area Engine Chamber 
+[23:13:25]GAME: Explosion with size (0, 0, 3) in area Engine Chamber 
+[23:13:26]GAME: Explosion with size (0, 0, 3) in area Engine Chamber 
+[23:13:27]SAY: Ghost/Victor77705 : Не как
+[23:13:29]SAY: Ghost/Artik12344 : ТЫ БЛЯ
+[23:13:32]SAY: Ghost/Artik12344 : ТЫ МНЕ
+[23:13:37]SAY: Ghost/Artik12344 : ИГРУ ЧУТЬ НЕ КРАШНУЛ
+[23:13:38]SAY: Ghost/Artik12344 : ЕСУКА
+[23:13:40]SAY: Ghost/Artik12344 : ААА
+[23:13:41]SAY: Ghost/Artik12344 : БЛЯ
+[23:13:43]SAY: Ghost/Artik12344 : ААА
+[23:13:48]EMOTE: David Laurenzi/NoManSky : <B>CPL David Laurenzi</B> snores.
+[23:13:50]SAY: Ghost/Artik12344 : Хутут кишка
+[23:13:55]SAY: Ghost/Artik12344 : разлетелась
+[23:13:58]SAY: Ghost/Victor77705 : так
+[23:13:59]SAY: Ghost/Artik12344 : Так
+[23:14:01]SAY: Ghost/Victor77705 : Я иду спать
+[23:14:04]SAY: Ghost/Artik12344 : инженерка то
+[23:14:05]ADMIN: Victor77705/(Carson Walker) initiated a reboot.
+[23:14:08]SAY: Ghost/Victor77705 : Щ
+[23:14:09]SAY: Ghost/Artik12344 : Нормально сохранилась
+[23:14:10]ACCESS: Logout: Artik12344/(Damian Ivanov)
+[23:14:10]ACCESS: Logout: Victor77705/(Carson Walker)
+
+
+Starting up. 23:14.31
+---------------------
+[23:14:31]MISC: Adding game mode traitor (traitor) to configuration.
+[23:14:31]MISC: Adding game mode Colonial Marines (Colonial Marines) to configuration.
+[23:14:31]MISC: Adding game mode Hunter Games (Hunter Games) to configuration.
+[23:14:31]MISC: Adding game mode Ice Colony (Ice Colony) to configuration.
+[23:14:31]MISC: Adding game mode Whiskey Outpost (Whiskey Outpost) to configuration.
+[23:14:31]MISC: Adding game mode extended (extended) to configuration.
+[23:14:32]MISC: Unknown setting in configuration: 'assistant_limit'
+[23:14:32]MISC: Unknown setting in configuration: 'assistant_ratio'
+[23:14:32]MISC: Unknown setting in configuration: 'station_levels'
+[23:14:32]MISC: Unknown setting in configuration: 'admin_levels'
+[23:14:32]MISC: Unknown setting in configuration: 'contact_levels'
+[23:14:32]MISC: Unknown setting in configuration: 'player_levels'
+[23:14:32]MISC: Unknown setting in configuration: 'expected_round_length'
+[23:14:32]MISC: Unknown setting in configuration: 'event_delay_lower'
+[23:14:32]MISC: Unknown setting in configuration: 'event_delay_upper'
+[23:14:32]MISC: Unknown setting in configuration: 'event_custom_start_major'
+[23:14:32]MISC: Unknown setting in configuration: 'starlight'
+[23:14:32]MISC: Unknown setting in configuration: 'player_reroute_cap'
+[23:14:32]MISC: Unknown setting in configuration: 'disable_space_ruins'
+[23:14:32]MISC: Unknown setting in configuration: 'feedback_tableprefix'
+[23:14:32]MISC: Saved mode is 'traitor'
+[23:14:33]ADMIN: Loading jobban_rank
+[23:14:33]ADMIN: jobban_keylist was empty
+[23:14:33]ADMIN: Loading Banlist
+[23:14:33]DEBUG: Rebuilding Master Controller
+[23:15:23]ACCESS: Login: Victor77705/(Victor77705) from 5.139.51.129-2976244093 || BYOND v511
+[23:15:46]ACCESS: Login: Artik12344/(Artik12344) from 84.39.245.176-1405323571 || BYOND v512
+[23:15:59]VOTE: Gamemode vote started by the server.
+[23:15:59]DEBUG: The server has called a gamemode vote
+[23:16:02]ADMIN: Victor77705/(Victor77705) toggled the +FUN permission of artik12344
+[23:16:09]ADMIN: Victor77705/(Victor77705) toggled the +BUILDMODE permission of artik12344
+[23:16:12]ADMIN: Victor77705/(Victor77705) toggled the +SPAWN permission of artik12344
+[23:16:18]ADMIN: Victor77705/(Victor77705) toggled the +ADMIN permission of artik12344
+[23:16:21]ADMIN: Victor77705/(Victor77705) toggled the +ADMIN permission of artik12344
+[23:16:28]ADMIN: Victor77705/(Victor77705) toggled the +SOUND permission of artik12344
+[23:16:34]ADMIN: Victor77705/(Victor77705) toggled the +SOUND permission of artik12344
+[23:16:52]OOC: Artik12344/Artik12344 : Где всё должнл поитс
+[23:16:57]ACCESS: Login: CaptinPicard1166/(CaptinPicard1166) from 76.85.33.94-494874225 || BYOND v512
+[23:16:59]DEBUG: The server has called a gamemode vote
+[23:16:59]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[23:17:09]ACCESS: Logout: CaptinPicard1166/(CaptinPicard1166)
+[23:18:01]ACCESS: Logout: Victor77705/(Victor77705)
+[23:18:38]VOTE: Restart vote started by Artik12344.
+[23:19:38]VOTE: <b>Vote Result: Restart Round</b>
+[23:19:43]GAME: Rebooting due to restart vote
+[23:19:43]ACCESS: Logout: Artik12344/(Artik12344)
+
+
+Starting up. 23:20.05
+---------------------
+[23:20:05]MISC: Adding game mode traitor (traitor) to configuration.
+[23:20:05]MISC: Adding game mode Colonial Marines (Colonial Marines) to configuration.
+[23:20:05]MISC: Adding game mode Hunter Games (Hunter Games) to configuration.
+[23:20:05]MISC: Adding game mode Ice Colony (Ice Colony) to configuration.
+[23:20:05]MISC: Adding game mode Whiskey Outpost (Whiskey Outpost) to configuration.
+[23:20:05]MISC: Adding game mode extended (extended) to configuration.
+[23:20:05]MISC: Unknown setting in configuration: 'assistant_limit'
+[23:20:05]MISC: Unknown setting in configuration: 'assistant_ratio'
+[23:20:05]MISC: Unknown setting in configuration: 'station_levels'
+[23:20:05]MISC: Unknown setting in configuration: 'admin_levels'
+[23:20:05]MISC: Unknown setting in configuration: 'contact_levels'
+[23:20:05]MISC: Unknown setting in configuration: 'player_levels'
+[23:20:05]MISC: Unknown setting in configuration: 'expected_round_length'
+[23:20:05]MISC: Unknown setting in configuration: 'event_delay_lower'
+[23:20:05]MISC: Unknown setting in configuration: 'event_delay_upper'
+[23:20:05]MISC: Unknown setting in configuration: 'event_custom_start_major'
+[23:20:05]MISC: Unknown setting in configuration: 'starlight'
+[23:20:05]MISC: Unknown setting in configuration: 'player_reroute_cap'
+[23:20:05]MISC: Unknown setting in configuration: 'disable_space_ruins'
+[23:20:05]MISC: Unknown setting in configuration: 'feedback_tableprefix'
+[23:20:05]MISC: Saved mode is 'traitor'
+[23:20:06]ADMIN: Loading jobban_rank
+[23:20:06]ADMIN: jobban_keylist was empty
+[23:20:06]ADMIN: Loading Banlist
+[23:20:06]DEBUG: Rebuilding Master Controller
+[23:20:13]ACCESS: Login: Artik12344/(Artik12344) from 84.39.245.176-1405323571 || BYOND v512
+[23:21:26]VOTE: Gamemode vote started by the server.
+[23:21:26]DEBUG: The server has called a gamemode vote
+[23:21:49]DEBUG: The server has called a gamemode vote
+[23:21:50]DEBUG: The server has called a gamemode vote
+[23:21:51]DEBUG: The server has called a gamemode vote
+[23:21:52]DEBUG: The server has called a gamemode vote
+[23:21:53]DEBUG: The server has called a gamemode vote
+[23:21:53]DEBUG: The server has called a gamemode vote
+[23:21:54]DEBUG: The server has called a gamemode vote
+[23:21:55]DEBUG: The server has called a gamemode vote
+[23:21:56]DEBUG: The server has called a gamemode vote
+[23:21:57]DEBUG: The server has called a gamemode vote
+[23:21:57]DEBUG: The server has called a gamemode vote
+[23:21:58]DEBUG: The server has called a gamemode vote
+[23:21:59]DEBUG: The server has called a gamemode vote
+[23:22:00]DEBUG: The server has called a gamemode vote
+[23:22:01]DEBUG: The server has called a gamemode vote
+[23:22:01]DEBUG: The server has called a gamemode vote
+[23:22:02]VOTE: Gamemode vote started by Artik12344.
+[23:23:01]DEBUG: The server has called a gamemode vote
+[23:23:01]DEBUG: The server has called a gamemode vote
+[23:23:02]VOTE: <b>Vote Result: secret</b>
+[23:24:32]VOTE: Gamemode vote started by Artik12344.
+[23:25:32]VOTE: <b>Vote Result: extended</b>
+[23:26:25]DEBUG: The server has called a gamemode vote
+[23:27:45]ACCESS: Logout: *no key*/(Artik12344)
+[23:27:45]ACCESS: Login: Artik12344/(Damian Ivanov) from 84.39.245.176-1405323571 || BYOND v512
+[23:27:50]DEBUG: Next event in 39.23 minutes.
+[23:28:16]SAY: Mister Wiggles/ : AUUUUUU
+[23:32:56]ADMIN: Artik12344/(Damian Ivanov) deleted Armory Shutters at (190,111,5) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000073]'>JMP</A>)
+[23:33:23]ADMIN: Artik12344/(Damian Ivanov) deleted Engineering Hallway at (200,120,5) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000073]'>JMP</A>)
+[23:33:33]ADMIN: Artik12344/(Damian Ivanov) deleted Engine Monitoring Room at (214,118,5) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000073]'>JMP</A>)
+[23:33:39]ADMIN: Artik12344/(Damian Ivanov) deleted Airlock at (220,116,5) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000073]'>JMP</A>)
+[23:34:22]GAME: Artik12344/(Damian Ivanov) shot fueltank at Engine Chamber (223,111,5).
+[23:34:22]GAME: Explosion with size (0, 0, 3) in area Engine Chamber 
+[23:34:23]GAME: Explosion with size (0, 0, 3) in area Engine Chamber 
+[23:35:11]ADMIN: Artik12344/(Damian Ivanov) teleported *no key*/(Corporate Stooge) to the abandoned  Centcom Control
+[23:36:00]ADMIN: Artik12344/(Damian Ivanov) deleted the Emergency Shutter at (220,116,5) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000073]'>JMP</A>)
+[23:36:04]GAME: Explosion with size (0, 0, 1) in area Engine Chamber 
+[23:36:29]ADMIN: Artik12344/(Damian Ivanov) healed / revived Artik12344/(Damian Ivanov)
+[23:37:01]GAME: <a href='?priv_msg=[0x5000000]'>Artik12344</a>/(Damian Ivanov) used a grenade (M92 grenade launcher (Wielded)).
+[23:37:02]GAME: Explosion with size (-1, -1, 2) in area Engineering 
+[23:37:13]ADMIN: Artik12344/(Damian Ivanov) deleted the Emergency Shutter at (200,120,5) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000073]'>JMP</A>)
+[23:37:19]ADMIN: Artik12344/(Damian Ivanov) healed / revived Artik12344/(Damian Ivanov)
+[23:37:34]ADMIN: Artik12344/(Damian Ivanov) healed / revived Artik12344/(Damian Ivanov)
+[23:37:54]ADMIN: Artik12344/(Damian Ivanov) healed / revived Artik12344/(Damian Ivanov)
+[23:37:58]ADMIN: Artik12344/(Damian Ivanov) deleted the Emergency Shutter at (214,118,5) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000073]'>JMP</A>)
+[23:38:06]ADMIN: Artik12344/(Damian Ivanov) healed / revived Artik12344/(Damian Ivanov)
+[23:38:11]ADMIN: Artik12344/(Damian Ivanov) healed / revived Artik12344/(Damian Ivanov)
+[23:38:15]GAME: <a href='?priv_msg=[0x5000000]'>Artik12344</a>/(Damian Ivanov) used a grenade (M92 grenade launcher (Wielded)).
+[23:38:16]GAME: Explosion with size (-1, -1, 2) in area Engineering 
+[23:38:21]GAME: <a href='?priv_msg=[0x5000000]'>Artik12344</a>/(Damian Ivanov) used a grenade (M92 grenade launcher (Wielded)).
+[23:38:38]ACCESS: Logout: *no key*/(Damian Ivanov)
+[23:38:38]ACCESS: Login: Artik12344/(Damian Ivanov) from 84.39.245.176-1405323571 || BYOND v512
+[23:38:47]ACCESS: Logout: *no key*/(Damian Ivanov)
+[23:38:47]ACCESS: Login: Artik12344/(Damian Ivanov) from 84.39.245.176-1405323571 || BYOND v512
+[23:38:47]EMOTE: Damian Ivanov/Artik12344 : <B>2LT Damian Ivanov</B> gasps!
+[23:38:51]EMOTE: Damian Ivanov/Artik12344 : <B>2LT Damian Ivanov</B> gasps!
+[23:38:52]ADMIN: Artik12344/(Damian Ivanov) healed / revived Artik12344/(Damian Ivanov)
+[23:39:00]GAME: <a href='?priv_msg=[0x5000000]'>Artik12344</a>/(Damian Ivanov) used a grenade (M92 grenade launcher (Wielded)).
+[23:39:01]GAME: Explosion with size (-1, -1, 2) in area Engineering 
+[23:39:07]EMOTE: Damian Ivanov/Artik12344 : <B>2LT Damian Ivanov</B> 's body becomes limp.
+[23:39:08]GAME: <a href='?priv_msg=[0x5000000]'>Artik12344</a>/(Damian Ivanov) used a grenade (M92 grenade launcher (Wielded)).
+[23:39:09]GAME: Explosion with size (-1, -1, 2) in area Engine Chamber 
+[23:39:12]GAME: <a href='?priv_msg=[0x5000000]'>Artik12344</a>/(Damian Ivanov) used a grenade (M92 grenade launcher (Wielded)).
+[23:39:13]GAME: Explosion with size (-1, -1, 2) in area Engine Chamber 
+[23:39:22]ADMIN: Artik12344/(Damian Ivanov) healed / revived Artik12344/(Damian Ivanov)
+[23:39:47]ADMIN: Artik12344/(Damian Ivanov) healed / revived Artik12344/(Damian Ivanov)
+[23:40:04]ADMIN: Artik12344/(Damian Ivanov) healed / revived Artik12344/(Damian Ivanov)
+[23:40:12]ADMIN: Artik12344/(Damian Ivanov) deleted the Emergency Shutter at (190,111,5) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000073]'>JMP</A>)
+[23:40:17]ADMIN: Artik12344/(Damian Ivanov) deleted the Emergency Shutter at (187,112,5) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000073]'>JMP</A>)
+[23:40:20]EMOTE: Damian Ivanov/Artik12344 : <B>2LT Damian Ivanov</B> 's body becomes limp.
+[23:40:23]ADMIN: Artik12344/(Damian Ivanov) healed / revived Artik12344/(Damian Ivanov)
+[23:40:32]ADMIN: Artik12344/(Damian Ivanov) healed / revived Artik12344/(Damian Ivanov)
+[23:40:40]ACCESS: Logout: *no key*/(Damian Ivanov)
+[23:40:40]ACCESS: Login: Artik12344/(Damian Ivanov) from 84.39.245.176-1405323571 || BYOND v512
+[23:40:49]ACCESS: Logout: *no key*/(Damian Ivanov)
+[23:40:49]ACCESS: Login: Artik12344/(Damian Ivanov) from 84.39.245.176-1405323571 || BYOND v512
+[23:40:58]ADMIN: Artik12344/(Damian Ivanov) healed / revived Artik12344/(Damian Ivanov)
+[23:41:14]ADMIN: Artik12344/(Damian Ivanov) healed / revived Artik12344/(Damian Ivanov)
+[23:41:22]ADMIN: Artik12344/(Damian Ivanov) healed / revived Artik12344/(Damian Ivanov)
+[23:41:43]ADMIN: Artik12344/(Damian Ivanov) healed / revived Artik12344/(Damian Ivanov)
+[23:42:03]EMOTE: Damian Ivanov/Artik12344 : <B>2LT Damian Ivanov</B> gasps!
+[23:42:04]ADMIN: Artik12344/(Damian Ivanov) healed / revived Artik12344/(Damian Ivanov)
+[23:42:20]ADMIN: Artik12344/(Damian Ivanov) healed / revived Artik12344/(Damian Ivanov)
+[23:42:35]GAME: <a href='?priv_msg=[0x5000000]'>Artik12344</a>/(Damian Ivanov) used a grenade (M92 grenade launcher (Wielded)).
+[23:42:36]GAME: Explosion with size (-1, -1, 2) in area Engineering 
+[23:42:38]ADMIN: Artik12344/(Damian Ivanov) healed / revived Artik12344/(Damian Ivanov)
+[23:42:38]GAME: <a href='?priv_msg=[0x5000000]'>Artik12344</a>/(Damian Ivanov) used a grenade (M92 grenade launcher (Wielded)).
+[23:42:39]GAME: Explosion with size (-1, -1, 2) in area Engineering 
+[23:42:42]GAME: <a href='?priv_msg=[0x5000000]'>Artik12344</a>/(Damian Ivanov) used a grenade (M92 grenade launcher (Wielded)).
+[23:42:43]GAME: Explosion with size (-1, -1, 2) in area Engineering 
+[23:42:47]GAME: <a href='?priv_msg=[0x5000000]'>Artik12344</a>/(Damian Ivanov) used a grenade (M92 grenade launcher (Wielded)).
+[23:42:48]GAME: Explosion with size (-1, -1, 2) in area Engine Chamber 
+[23:43:08]EMOTE: Damian Ivanov/Artik12344 : <B>2LT Damian Ivanov</B> gasps!
+[23:43:08]ADMIN: Artik12344/(Damian Ivanov) deleted Airlock at (225,116,5) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000073]'>JMP</A>)
+[23:43:12]ADMIN: Artik12344/(Damian Ivanov) healed / revived Artik12344/(Damian Ivanov)
+[23:43:21]ADMIN: Artik12344/(Damian Ivanov) deleted the antimatter reactor section at (229,120,5) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000073]'>JMP</A>)
+[23:43:27]ADMIN: Artik12344/(Damian Ivanov) healed / revived Artik12344/(Damian Ivanov)
+[23:43:37]ADMIN: Artik12344/(Damian Ivanov) healed / revived Artik12344/(Damian Ivanov)
+[23:43:54]ADMIN: Artik12344/(Damian Ivanov) healed / revived Artik12344/(Damian Ivanov)
+[23:44:30]ADMIN: Artik12344/(Damian Ivanov) healed / revived Artik12344/(Damian Ivanov)
+[23:44:58]ADMIN: Artik12344/(Damian Ivanov) jumped to 229,120,5 in the Engine Chamber
+[23:45:02]ADMIN: Artik12344/(Damian Ivanov) healed / revived Artik12344/(Damian Ivanov)
+[23:45:25]ADMIN: Artik12344/(Damian Ivanov) jumped to 229,119,5 in the Engine Chamber
+[23:45:33]ADMIN: Artik12344/(Damian Ivanov) healed / revived Artik12344/(Damian Ivanov)
+[23:45:41]ADMIN: Artik12344/(Damian Ivanov) jumped to 229,119,5 in the Engine Chamber
+[23:45:49]ADMIN: Artik12344/(Damian Ivanov) jumped to 232,121,5 in the Engine Chamber
+[23:46:07]ADMIN: Artik12344/(Damian Ivanov) jumped to 233,121,5 in the Engine Chamber
+[23:46:16]ADMIN: Artik12344/(Damian Ivanov) jumped to 232,122,5 in the Engine Chamber
+[23:46:27]ADMIN: Artik12344/(Damian Ivanov) jumped to 231,123,5 in the Engine Chamber
+[23:46:31]ADMIN: Artik12344/(Damian Ivanov) jumped to 232,124,5 in the Engine Chamber
+[23:46:35]ADMIN: Artik12344/(Damian Ivanov) jumped to 233,126,5 in the Engine Chamber
+[23:46:46]ADMIN: Artik12344/(Damian Ivanov) healed / revived Artik12344/(Damian Ivanov)
+[23:46:52]ADMIN: Artik12344/(Damian Ivanov) healed / revived Artik12344/(Damian Ivanov)
+[23:47:16]ADMIN: Artik12344/(Damian Ivanov) jumped to 234,122,5 in the Engine Chamber
+[23:47:21]ADMIN: Artik12344/(Damian Ivanov) jumped to 234,123,5 in the Engine Chamber
+[23:47:31]ADMIN: Artik12344/(Damian Ivanov) admin-forced a predator round.
+[23:48:01]ADMIN: Artik12344/(Damian Ivanov) used Dispatch Response Team.
+[23:48:15]ADMIN: Artik12344/(Damian Ivanov) changed the security level to code delta.
+[23:49:25]SAY: Mister Wiggles/ : Bark!
+[23:50:58]ADMIN: Artik12344/(Damian Ivanov) jumped to the abandoned  Administration Shuttle Centcom
+[23:51:15]SAY: Mister Wiggles/ : Bark!
+[23:51:18]ADMIN: Artik12344/(Damian Ivanov) jumped to the abandoned  Holodeck - Boxing Court
+[23:51:21]SAY: Mister Wiggles/ : Woof!
+[23:51:45]ADMIN: Artik12344/(Damian Ivanov) jumped to the Dropship 2
+[23:52:10]ADMIN: Artik12344/(Damian Ivanov) jumped to the Head of Personnel's Office
+[23:52:35]ADMIN: Artik12344/(Damian Ivanov) jumped to the abandoned  Centcom Supply Shuttle
+[23:52:40]ADMIN: Artik12344/(Damian Ivanov) jumped to the abandoned  Centcom Supply Shuttle
+[23:52:46]ADMIN: Artik12344/(Damian Ivanov) jumped to the abandoned  Centcom Living Quarters
+[23:52:53]ADMIN: Artik12344/(Damian Ivanov) jumped to 102,244,4 in the abandoned  Centcom Living Quarters
+[23:53:13]ADMIN: Artik12344/(Damian Ivanov) teleported *no key*/(Corporate Stooge) to the abandoned  Centcom Control
+[23:53:22]ADMIN: Artik12344/(Damian Ivanov) jumped to 103,247,4 in Solitary Confinement
+[23:53:27]ADMIN: Artik12344/(Damian Ivanov) jumped to 105,249,4 in Solitary Confinement
+[23:53:30]ADMIN: Artik12344/(Damian Ivanov) jumped to 104,250,4 in Solitary Confinement
+[23:53:34]ADMIN: Artik12344/(Damian Ivanov) jumped to 104,253,4 in Solitary Confinement
+[23:53:39]ADMIN: Artik12344/(Damian Ivanov) jumped to 102,251,4 in Solitary Confinement
+[23:53:43]ADMIN: Artik12344/(Damian Ivanov) jumped to 99,251,4 in Solitary Confinement
+[23:53:48]ADMIN: Artik12344/(Damian Ivanov) jumped to 99,250,4 in Solitary Confinement
+[23:53:51]ADMIN: Artik12344/(Damian Ivanov) jumped to 99,249,4 in Solitary Confinement
+[23:53:56]ADMIN: Artik12344/(Damian Ivanov) jumped to 98,247,4 in Solitary Confinement
+[23:54:00]ADMIN: Artik12344/(Damian Ivanov) jumped to 96,248,4 in Solitary Confinement
+[23:54:05]ADMIN: Artik12344/(Damian Ivanov) jumped to 93,250,4 in Solitary Confinement
+[23:54:09]ADMIN: Artik12344/(Damian Ivanov) jumped to 93,251,4 in Solitary Confinement
+[23:54:14]ADMIN: Artik12344/(Damian Ivanov) deleted the wall at (94,253,4) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000073]'>JMP</A>)
+[23:54:19]ADMIN: Artik12344/(Damian Ivanov) jumped to 90,250,4 in Solitary Confinement
+[23:54:23]ADMIN: Artik12344/(Damian Ivanov) jumped to 90,249,4 in Solitary Confinement
+[23:54:26]ADMIN: Artik12344/(Damian Ivanov) jumped to 90,250,4 in Solitary Confinement
+[23:54:30]ADMIN: Artik12344/(Damian Ivanov) deleted the wall at (90,249,4) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000073]'>JMP</A>)
+[23:54:37]ADMIN: Artik12344/(Damian Ivanov) deleted the wall at (91,250,4) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000073]'>JMP</A>)
+[23:54:41]ADMIN: Artik12344/(Damian Ivanov) jumped to 90,251,4 in Solitary Confinement
+[23:54:47]ADMIN: Artik12344/(Damian Ivanov) deleted the wall at (89,250,4) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000073]'>JMP</A>)
+[23:54:55]ADMIN: Artik12344/(Damian Ivanov) jumped to 87,251,4 in Solitary Confinement
+[23:55:01]ADMIN: Artik12344/(Damian Ivanov) jumped to 84,250,4 in Solitary Confinement
+[23:55:06]ADMIN: Artik12344/(Damian Ivanov) jumped to 82,250,4 in the abandoned  Administration Shuttle Centcom
+[23:55:22]ADMIN: Artik12344/(Damian Ivanov) healed / revived Artik12344/(Damian Ivanov)
+[23:55:27]ADMIN: Artik12344/(Damian Ivanov) jumped to 80,248,4 in the abandoned  Administration Shuttle Centcom
+[23:55:31]ADMIN: Artik12344/(Damian Ivanov) jumped to 78,244,4 in the abandoned  Administration Shuttle Centcom
+[23:55:36]ADMIN: Artik12344/(Damian Ivanov) jumped to 78,243,4 in the abandoned  Administration Shuttle Centcom
+[23:55:42]ADMIN: Artik12344/(Damian Ivanov) jumped to 77,239,4 in the abandoned  Administration Shuttle Centcom
+[23:55:47]ADMIN: Artik12344/(Damian Ivanov) jumped to 75,236,4 in the abandoned  Thunderdome
+[23:58:52]ADMIN: Artik12344/(Damian Ivanov) jumped to 74,217,4 in the abandoned  Thunderdome
+[23:58:56]ADMIN: Artik12344/(Damian Ivanov) jumped to 74,216,4 in the abandoned  Thunderdome
+[23:59:03]ADMIN: Artik12344/(Damian Ivanov) jumped to 70,215,4 in the abandoned  Thunderdome
+[23:59:07]ADMIN: Artik12344/(Damian Ivanov) jumped to 63,215,4 in the abandoned  Thunderdome
+[23:59:11]ADMIN: Artik12344/(Damian Ivanov) jumped to 63,221,4 in the abandoned  Thunderdome
+[23:59:15]ADMIN: Artik12344/(Damian Ivanov) jumped to 62,223,4 in the abandoned  Thunderdome
+[23:59:20]ADMIN: Artik12344/(Damian Ivanov) jumped to 62,230,4 in the abandoned  Thunderdome
+[23:59:26]SAY: Mister Wiggles/ : AUUUUUU
+[23:59:30]ADMIN: Artik12344/(Damian Ivanov) jumped to 65,237,4 in the abandoned  Thunderdome
+[23:59:40]ADMIN: Artik12344/(Damian Ivanov) jumped to 62,237,4 in the abandoned  Thunderdome
+[23:59:51]ADMIN: Artik12344/(Damian Ivanov) jumped to 46,237,4 in the start area
+[23:59:55]ADMIN: Artik12344/(Damian Ivanov) jumped to 46,237,4 in the start area
+[23:59:59]ADMIN: Artik12344/(Damian Ivanov) jumped to 47,235,4 in the Space
+[00:00:02]ADMIN: Artik12344/(Damian Ivanov) jumped to 54,235,4 in the Space
+[00:00:05]ADMIN: Artik12344/(Damian Ivanov) jumped to 59,235,4 in the Space
+[00:00:09]ADMIN: Artik12344/(Damian Ivanov) jumped to 62,235,4 in the abandoned  Thunderdome
+[00:00:16]ADMIN: Artik12344/(Damian Ivanov) healed / revived Artik12344/(Damian Ivanov)
+[00:00:23]ADMIN: Artik12344/(Damian Ivanov) jumped to 68,237,4 in the abandoned  Thunderdome
+[00:00:27]ADMIN: Artik12344/(Damian Ivanov) jumped to 68,240,4 in the abandoned  Administration Shuttle Centcom
+[00:00:32]ADMIN: Artik12344/(Damian Ivanov) jumped to 66,246,4 in the abandoned  Administration Shuttle Centcom
+[00:00:38]ADMIN: Artik12344/(Damian Ivanov) jumped to 65,247,4 in the abandoned  Administration Shuttle Centcom
+[00:00:47]ADMIN: Artik12344/(Damian Ivanov) deleted the flash at (0,0,0) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000073]'>JMP</A>)
+[00:00:55]ADMIN: Artik12344/(Damian Ivanov) deleted the propulsion at (65,248,4) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000073]'>JMP</A>)
+[00:00:59]ADMIN: Artik12344/(Damian Ivanov) deleted space at (65,248,4) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000073]'>JMP</A>)
+[00:01:03]ADMIN: Artik12344/(Damian Ivanov) deleted space at (65,248,4) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000073]'>JMP</A>)
+[00:01:08]ADMIN: Artik12344/(Damian Ivanov) deleted the heater at (66,249,4) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000073]'>JMP</A>)
+[00:01:11]ADMIN: Artik12344/(Damian Ivanov) jumped to 66,249,4 in the abandoned  Administration Shuttle Centcom
+[00:01:15]ADMIN: Artik12344/(Damian Ivanov) jumped to 66,250,4 in the abandoned  Administration Shuttle Centcom
+[00:01:19]ADMIN: Artik12344/(Damian Ivanov) jumped to 66,251,4 in the abandoned  Administration Shuttle Centcom
+[00:01:23]ADMIN: Artik12344/(Damian Ivanov) jumped to 68,253,4 in the abandoned  Administration Shuttle Centcom
+[00:01:29]ADMIN: Artik12344/(Damian Ivanov) jumped to 69,253,4 in the abandoned  Administration Shuttle Centcom
+[00:01:34]ADMIN: Artik12344/(Damian Ivanov) jumped to 72,252,4 in the abandoned  Administration Shuttle Centcom
+[00:01:38]ADMIN: Artik12344/(Damian Ivanov) jumped to 75,253,4 in the abandoned  Administration Shuttle Centcom
+[00:01:48]ADMIN: Artik12344/(Damian Ivanov) deleted the wall at (76,253,4) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000073]'>JMP</A>)
+[00:02:21]ADMIN: Artik12344/(Damian Ivanov) jumped to the abandoned  Centcom Transport Shuttle
+[00:02:25]ADMIN: Artik12344/(Damian Ivanov) jumped to 123,246,4 in the abandoned  Transport Shuttle Centcom
+[00:02:48]ADMIN: Artik12344/(Damian Ivanov) jumped to 136,243,4 in the abandoned  Emergency Shuttle Centcom
+[00:03:14]ADMIN: Artik12344/(Damian Ivanov) healed / revived Artik12344/(Damian Ivanov)
+[00:03:29]ADMIN: Artik12344/(Damian Ivanov) teleported *no key*/(Clown)
+[00:03:38]ADMIN: Artik12344/(Damian Ivanov) healed / revived *no key*/(Clown)
+[00:03:44]ATTACK: John Doe (artik12344) shot Clown () with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=139;Y=240;Z=4'>JMP</a>)
+[00:03:50]ATTACK: John Doe (artik12344) shot Clown () with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=139;Y=240;Z=4'>JMP</a>)
+[00:03:50]EMOTE: Clown/ : <B>Clown</B> screams!
+[00:03:54]ATTACK: John Doe (artik12344) shot Clown () with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=139;Y=240;Z=4'>JMP</a>)
+[00:03:55]ATTACK: John Doe (artik12344) shot Clown () with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=139;Y=240;Z=4'>JMP</a>)
+[00:03:56]ATTACK: John Doe (artik12344) shot Clown () with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=139;Y=240;Z=4'>JMP</a>)
+[00:03:57]EMOTE: Clown/ : <B>Clown</B> gasps!
+[00:03:57]ATTACK: John Doe (artik12344) shot Clown () with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=139;Y=240;Z=4'>JMP</a>)
+[00:03:58]ATTACK: John Doe (artik12344) shot Clown () with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=139;Y=240;Z=4'>JMP</a>)
+[00:04:13]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[00:04:19]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[00:04:53]ADMIN: Artik12344/(Damian Ivanov) healed / revived *no key*/(Clown)
+[00:04:58]ATTACK: John Doe (artik12344) shot Clown () with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=138;Y=244;Z=4'>JMP</a>)
+[00:04:58]EMOTE: Clown/ : <B>Clown</B> screams!
+[00:04:59]ATTACK: John Doe (artik12344) shot Clown () with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=138;Y=246;Z=4'>JMP</a>)
+[00:04:59]ATTACK: John Doe (artik12344) shot Clown () with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=138;Y=247;Z=4'>JMP</a>)
+[00:04:59]ATTACK: John Doe (artik12344) shot Clown () with a the submachinegun bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=138;Y=248;Z=4'>JMP</a>)
+[00:05:02]ATTACK: Artik12344/(Damian Ivanov) attacked *no key*/(Clown) with M39 submachinegun (INTENT: HELP) (DAMTYE: BRUTE)
+[00:05:03]EMOTE: Clown/ : <B>Clown</B> gasps!
+[00:05:03]ATTACK: Artik12344/(Damian Ivanov) attacked *no key*/(Clown) with M39 submachinegun (INTENT: HELP) (DAMTYE: BRUTE)
+[00:05:04]ATTACK: Artik12344/(Damian Ivanov) attacked *no key*/(Clown) with M39 submachinegun (INTENT: HELP) (DAMTYE: BRUTE)
+[00:05:23]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[00:05:27]EMOTE: John Doe/Artik12344 : <B>John Doe</B> gasps!
+[00:05:29]EMOTE: John Doe/Artik12344 : <B>John Doe</B> gasps!
+[00:05:31]EMOTE: John Doe/Artik12344 : <B>John Doe</B> gasps!
+[00:05:33]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[00:05:35]ADMIN: Artik12344/(Damian Ivanov) jumped to 136,249,4 in the abandoned  Emergency Shuttle Centcom
+[00:05:39]ADMIN: Artik12344/(Damian Ivanov) jumped to 132,250,4 in the abandoned  Special Ops Shuttle
+[00:05:41]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[00:05:43]ADMIN: Artik12344/(Damian Ivanov) jumped to 131,250,4 in the abandoned  Special Ops Shuttle
+[00:05:53]ADMIN: Artik12344/(Damian Ivanov) jumped to 128,253,4 in the abandoned  Special Ops Shuttle
+[00:06:05]ADMIN: Artik12344/(Damian Ivanov) jumped to 127,254,4 in the abandoned  Special Ops Shuttle
+[00:06:17]SAY: Mister Wiggles/ : Woof!
+[00:06:50]ADMIN: Artik12344/(Damian Ivanov) jumped to 127,250,4 in the abandoned  Special Ops Shuttle
+[00:06:53]ADMIN: Artik12344/(Damian Ivanov) jumped to 127,249,4 in the abandoned  Transport Shuttle Centcom
+[00:07:02]ADMIN: Artik12344/(Damian Ivanov) used Dispatch Response Team.
+[00:07:06]DEBUG: Firing random event. #Engineer:0 #Medical:0 #AI:0 #Cyborg:0 ||| /datum/event/economic_event:300/datum/event/trivial_news:400/datum/event/mundane_news:300/datum/event/pda_spam:200/datum/event/money_lotto:50/datum/event/carp_migration:20/datum/event/brand_intelligence:20/datum/event/rogue_drone:5/datum/event/infestation:100/datum/event/communications_blackout:50/datum/event/ionstorm:1/datum/event/electrical_storm:1/datum/event/wallrot:1/datum/event/meteor_wave:1/datum/event/meteor_shower:1/datum/event/prison_break:1|||Picked:/datum/event/trivial_news
+[00:07:06]DEBUG: Next event in 27.814 minutes.
+[00:07:09]GAME: <a href='?priv_msg=[0x5000000]'>Artik12344</a>/(Damian Ivanov) has ghosted.
+[00:07:09]ACCESS: Logout: *no key*/(Damian Ivanov)
+[00:07:09]ACCESS: Login: Artik12344/(Damian Ivanov) from 84.39.245.176-1405323571 || BYOND v512
+[00:08:41]ADMIN: Artik12344/(Damian Ivanov) has created a command report: Мы прислали вам срочный ЕРТ
+[00:09:33]ACCESS: Logout: Artik12344/(Damian Ivanov)

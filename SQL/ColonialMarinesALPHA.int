@@ -1,0 +1,11 @@
+// BEGIN_INTERNALS
+/*
+MAP_ZOOM: 1.000
+DIR: code code\modules code\modules\cm_aliens code\modules\cm_aliens\Castes icons icons\effects icons\Marine\SEASONS icons\misc icons\obj\clothing maps 
+AUTO_FILE_DIR: OFF
+MAP_ICON_TYPE: 0
+LAST_COMPILE_VERSION: 510.1345
+WINDOW: code\world.dm
+FILE: code\world.dm
+*/
+// END_INTERNALS
