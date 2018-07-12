@@ -203,3 +203,63 @@ Starting up. 12:31.07
 [12:40:48]DEBUG: The server has called a gamemode vote
 [12:43:12]DEBUG: The server has called a gamemode vote
 [12:44:36]ACCESS: Logout: BlackCrystall/(BlackCrystall)
+
+
+Starting up. 12:51.25
+---------------------
+[12:51:25]MISC: Adding game mode traitor (traitor) to configuration.
+[12:51:25]MISC: Adding game mode Colonial Marines (Colonial Marines) to configuration.
+[12:51:25]MISC: Adding game mode Hunter Games (Hunter Games) to configuration.
+[12:51:25]MISC: Adding game mode Ice Colony (Ice Colony) to configuration.
+[12:51:25]MISC: Adding game mode Whiskey Outpost (Whiskey Outpost) to configuration.
+[12:51:25]MISC: Adding game mode extended (extended) to configuration.
+[12:51:25]MISC: Unknown setting in configuration: 'assistant_limit'
+[12:51:25]MISC: Unknown setting in configuration: 'assistant_ratio'
+[12:51:25]MISC: Unknown setting in configuration: 'station_levels'
+[12:51:25]MISC: Unknown setting in configuration: 'admin_levels'
+[12:51:25]MISC: Unknown setting in configuration: 'contact_levels'
+[12:51:25]MISC: Unknown setting in configuration: 'player_levels'
+[12:51:25]MISC: Unknown setting in configuration: 'expected_round_length'
+[12:51:25]MISC: Unknown setting in configuration: 'event_delay_lower'
+[12:51:25]MISC: Unknown setting in configuration: 'event_delay_upper'
+[12:51:25]MISC: Unknown setting in configuration: 'event_custom_start_major'
+[12:51:25]MISC: Unknown setting in configuration: 'starlight'
+[12:51:25]MISC: Unknown setting in configuration: 'player_reroute_cap'
+[12:51:25]MISC: Unknown setting in configuration: 'disable_space_ruins'
+[12:51:25]MISC: Unknown setting in configuration: 'feedback_tableprefix'
+[12:51:25]MISC: Saved mode is 'Colonial Marines'
+[12:51:26]ADMIN: Loading jobban_rank
+[12:51:26]ADMIN: jobban_keylist was empty
+[12:51:26]ADMIN: Loading Banlist
+[12:51:26]DEBUG: Rebuilding Master Controller
+
+
+Starting up. 12:52.37
+---------------------
+[12:52:37]MISC: Adding game mode traitor (traitor) to configuration.
+[12:52:37]MISC: Adding game mode Colonial Marines (Colonial Marines) to configuration.
+[12:52:37]MISC: Adding game mode Hunter Games (Hunter Games) to configuration.
+[12:52:37]MISC: Adding game mode Ice Colony (Ice Colony) to configuration.
+[12:52:37]MISC: Adding game mode Whiskey Outpost (Whiskey Outpost) to configuration.
+[12:52:37]MISC: Adding game mode extended (extended) to configuration.
+[12:52:37]MISC: Unknown setting in configuration: 'assistant_limit'
+[12:52:37]MISC: Unknown setting in configuration: 'assistant_ratio'
+[12:52:37]MISC: Unknown setting in configuration: 'station_levels'
+[12:52:37]MISC: Unknown setting in configuration: 'admin_levels'
+[12:52:37]MISC: Unknown setting in configuration: 'contact_levels'
+[12:52:37]MISC: Unknown setting in configuration: 'player_levels'
+[12:52:37]MISC: Unknown setting in configuration: 'expected_round_length'
+[12:52:37]MISC: Unknown setting in configuration: 'event_delay_lower'
+[12:52:37]MISC: Unknown setting in configuration: 'event_delay_upper'
+[12:52:37]MISC: Unknown setting in configuration: 'event_custom_start_major'
+[12:52:37]MISC: Unknown setting in configuration: 'starlight'
+[12:52:37]MISC: Unknown setting in configuration: 'player_reroute_cap'
+[12:52:37]MISC: Unknown setting in configuration: 'disable_space_ruins'
+[12:52:37]MISC: Unknown setting in configuration: 'feedback_tableprefix'
+[12:52:37]MISC: Saved mode is 'Colonial Marines'
+[12:52:39]ADMIN: Loading jobban_rank
+[12:52:39]ADMIN: jobban_keylist was empty
+[12:52:39]ADMIN: Loading Banlist
+[12:52:39]DEBUG: Rebuilding Master Controller
+[12:55:39]ACCESS: Login: BlackCrystall/(BlackCrystall) from 127.0.0.1-2513525785 || BYOND v511
+[12:55:56]ACCESS: Logout: BlackCrystall/(BlackCrystall)
