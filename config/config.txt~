@@ -1,5 +1,5 @@
 ## Server name: This appears at the top of the screen in-game. In this case it will read "spacestation13: station_name" where station_name is the randomly generated name of the station for the round. Remove the # infront of SERVERNAME and replace 'spacestation13' with the name of your choice
-SERVERNAME Colonial Memes: BETA
+SERVERNAME Colonial Marines:Emergency Acces
 
 ## Add a # infront of this if you want to use the SQL based admin system, the legacy system uses admins.txt. You need to set up your database to use the SQL based system.
 ADMIN_LEGACY_SYSTEM
@@ -135,28 +135,45 @@ GUEST_BAN
 #USEWHITELIST
 
 ## set a server location for world reboot. Don't include the byond://, just give the address and port.
-SERVER s1.dojodetroit.com:6666
+# Don't set this to the same server, BYOND will automatically restart players to the server when it has restarted.
+# SERVER play.ss13.pw:11000
+
+## set a server URL for the IRC bot to use; like SERVER, don't include the byond://
+## Unlike SERVER, this one shouldn't break auto-reconnect
+#SERVERURL ColonialMarines.org:33333
 
 ## Forum address
-FORUMURL http://dankassmemes.com/forums/
+FORUMURL http://
 
 ## Wiki address
-# WIKIURL http://example.org
+# WIKIURL http://
 
 ## Rules address
-RULESURL http://dankassmemes.com/rules/
+RULESURL http://
 
 ## Donations address
-# DONATIONSURL http://example.org
+# DONATIONSURL http://
 
 ## Repository address
-# REPOSITORYURL http://example.org
+# REPOSITORYURL http://
 
 ## Ban appeals URL - usually for a forum or wherever people should go to contact your admins
-BANAPPEALS http://dankassmemes.com/forums/
+BANAPPEALS http://
+
+## Round specific stats address
+## Link to round specific parsed logs; IE statbus. It is appended with the RoundID automatically by ticker/Reboot()
+## This will take priority over the game logs address during reboot.
+## Example: https://atlantaned.space/statbus/round.php?round=
+# ROUNDSTATSURL https://
+
+## Game Logs address
+## Incase you don't have a fancy parsing system, but still want players to be able to find where you keep your server's logs.
+## Example: https://tgstation13.org/parsed-logs/basil/data/logs/
+# GAMELOGURL https://
+
 
 ## Media base URL - determines where to pull the jukebox playlist from.
-# MEDIA_BASE_URL http://example.org
+# MEDIA_BASE_URL http://
 
 ## In-game features
 ## spawns a spellbook which gives object-type spells instead of verb-type spells for the wizard
@@ -272,7 +289,7 @@ STARLIGHT 0
 PLAYER_REROUTE_CAP 0
 
 ## Server to reroute to
-#OVERFLOW_SERVER_URL byond://example.org:1111
+#OVERFLOW_SERVER_URL byond://ColonialMarines.org:33333
 
 ## Disable the loading of away missions
 #DISABLE_AWAY_MISSIONS
@@ -297,3 +314,4 @@ DISABLE_SPACE_RUINS
 
 ## How many loadout points players may spend in character setup
 #MAX_LOADOUT_POINTS 5
+

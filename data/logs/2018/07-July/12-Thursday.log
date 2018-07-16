@@ -1,0 +1,265 @@
+
+
+Starting up. 11:46.51
+---------------------
+[11:46:51]MISC: Adding game mode traitor (traitor) to configuration.
+[11:46:51]MISC: Adding game mode Colonial Marines (Colonial Marines) to configuration.
+[11:46:51]MISC: Adding game mode Hunter Games (Hunter Games) to configuration.
+[11:46:51]MISC: Adding game mode Ice Colony (Ice Colony) to configuration.
+[11:46:51]MISC: Adding game mode Whiskey Outpost (Whiskey Outpost) to configuration.
+[11:46:51]MISC: Adding game mode extended (extended) to configuration.
+[11:46:52]MISC: Unknown setting in configuration: 'assistant_limit'
+[11:46:52]MISC: Unknown setting in configuration: 'assistant_ratio'
+[11:46:52]MISC: Unknown setting in configuration: 'station_levels'
+[11:46:52]MISC: Unknown setting in configuration: 'admin_levels'
+[11:46:52]MISC: Unknown setting in configuration: 'contact_levels'
+[11:46:52]MISC: Unknown setting in configuration: 'player_levels'
+[11:46:52]MISC: Unknown setting in configuration: 'expected_round_length'
+[11:46:52]MISC: Unknown setting in configuration: 'event_delay_lower'
+[11:46:52]MISC: Unknown setting in configuration: 'event_delay_upper'
+[11:46:52]MISC: Unknown setting in configuration: 'event_custom_start_major'
+[11:46:52]MISC: Unknown setting in configuration: 'starlight'
+[11:46:52]MISC: Unknown setting in configuration: 'player_reroute_cap'
+[11:46:52]MISC: Unknown setting in configuration: 'disable_space_ruins'
+[11:46:52]MISC: Unknown setting in configuration: 'feedback_tableprefix'
+[11:46:52]MISC: Saved mode is 'extended'
+[11:46:53]ADMIN: Loading jobban_rank
+[11:46:53]ADMIN: jobban_keylist was empty
+[11:46:53]ADMIN: Loading Banlist
+[11:46:53]DEBUG: Rebuilding Master Controller
+[11:01:11]ACCESS: Login: Fox2408/(Fox2408) from 145.255.170.182-1711785598 || BYOND v512
+[11:01:50]VOTE: Gamemode vote started by the server.
+[11:01:50]DEBUG: The server has called a gamemode vote
+[11:02:50]DEBUG: The server has called a gamemode vote
+[11:02:50]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[11:04:10]ACCESS: Logout: *no key*/(Fox2408)
+[11:04:10]ACCESS: Login: Fox2408/(Brian Stafford) from 145.255.170.182-1711785598 || BYOND v512
+[11:04:16]DEBUG: Next event in 33.81 minutes.
+[11:04:27]SAY: Mister Wiggles/ : Woof!
+[11:05:35]ACCESS: Login: BlackCrystall/(BlackCrystall) from 127.0.0.1-2513525785 || BYOND v511
+[11:06:25]ACCESS: Logout: *no key*/(BlackCrystall)
+[11:06:25]ACCESS: Login: BlackCrystall/(Goodwin Swabey) from 127.0.0.1-2513525785 || BYOND v511
+[11:06:47]ADMIN: BlackCrystall/(Goodwin Swabey) has used rudimentary transformation on BlackCrystall/(Goodwin Swabey). Transforming to larva; deletemob=1
+[11:06:47]ACCESS: Logout: *no key*/(Goodwin Swabey)
+[11:06:47]ACCESS: Login: BlackCrystall/(Goodwin Swabey) from 127.0.0.1-2513525785 || BYOND v511
+[11:09:56]ADMIN: BlackCrystall/(Young Bloody Larva (267)) modified Larva (267)'s amount_grown to 100
+[11:10:15]ACCESS: Logout: *no key*/(Young Bloody Larva (267))
+[11:10:15]ACCESS: Login: BlackCrystall/(Alien Larva (267)) from 127.0.0.1-2513525785 || BYOND v511
+[11:10:27]ADMIN: BlackCrystall/(Young Drone (589)) modified Young Drone (589)'s amount_grown to 200
+[11:11:07]ACCESS: Logout: *no key*/(Young Drone (589))
+[11:11:07]ACCESS: Login: BlackCrystall/(Queen) from 127.0.0.1-2513525785 || BYOND v511
+[11:11:48]ADMIN: BlackCrystall/(Queen) modified Queen's jellyGrow to 800
+[11:12:33]ADMIN: BlackCrystall/(Elite Queen) modified Elite Queen's maxHealth to 900
+[11:12:47]ADMIN: BlackCrystall/(Elite Queen) modified Elite Queen's maxplasma to 1700
+[11:13:13]ATTACK: Elite Queen (blackcrystall) spat acid on the M4RA battle rifle.
+[11:13:19]SAY: Brian Stafford/Fox2408 : Ты
+[11:13:22]SAY: Brian Stafford/Fox2408 : Пидор
+[11:14:08]ATTACK: Brian Stafford (fox2408) shot Elite Queen (blackcrystall) with a the pistol bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=0;Y=0;Z=0'>JMP</a>)
+[11:14:10]ATTACK: Brian Stafford (fox2408) shot Elite Queen (blackcrystall) with a the pistol bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=0;Y=0;Z=0'>JMP</a>)
+[11:14:10]EMOTE: Brian Stafford/Fox2408 : <B>SPSGT Brian Stafford</B> screams!
+[11:14:10]EMOTE: Elite Queen/BlackCrystall : <B>The Elite Queen</B> roars!
+[11:14:12]ATTACK: Brian Stafford (fox2408) shot Elite Queen (blackcrystall) with a the pistol bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=0;Y=0;Z=0'>JMP</a>)
+[11:14:12]EMOTE: Brian Stafford/Fox2408 : <B>SPSGT Brian Stafford</B> screams!
+[11:14:14]ATTACK: Brian Stafford (fox2408) shot Elite Queen (blackcrystall) with a the pistol bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=0;Y=0;Z=0'>JMP</a>)
+[11:14:16]ATTACK: Brian Stafford (fox2408) shot Elite Queen (blackcrystall) with a the pistol bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=0;Y=0;Z=0'>JMP</a>)
+[11:14:24]ATTACK: Brian Stafford (fox2408) shot Elite Queen (blackcrystall) with a the pistol bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=0;Y=0;Z=0'>JMP</a>)
+[11:14:25]ATTACK: Brian Stafford (fox2408) shot Elite Queen (blackcrystall) with a the pistol bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=0;Y=0;Z=0'>JMP</a>)
+[11:14:26]ATTACK: Brian Stafford (fox2408) shot Elite Queen (blackcrystall) with a the pistol bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=0;Y=0;Z=0'>JMP</a>)
+[11:14:27]ATTACK: Brian Stafford (fox2408) shot Elite Queen (blackcrystall) with a the pistol bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=0;Y=0;Z=0'>JMP</a>)
+[11:14:40]EMOTE: Brian Stafford/Fox2408 : <B>SPSGT Brian Stafford</B> gasps!
+[11:14:48]EMOTE: Brian Stafford/Fox2408 : <B>SPSGT Brian Stafford</B> gasps!
+[11:15:04]GAME: <a href='?priv_msg=[0x5000000]'>Fox2408</a>/(Brian Stafford) has ghosted.
+[11:15:04]ACCESS: Logout: *no key*/(Brian Stafford)
+[11:15:04]ACCESS: Login: Fox2408/(Brian Stafford) from 145.255.170.182-1711785598 || BYOND v512
+[11:15:17]ADMIN: BlackCrystall/(Elite Queen) has sent Fox2408/(Brian Stafford) back to the Lobby.
+[11:15:17]ACCESS: Logout: *no key*/(Brian Stafford)
+[11:15:17]ACCESS: Login: fox2408/(new player) from 145.255.170.182-1711785598 || BYOND v512
+[11:15:23]ACCESS: Logout: *no key*/(new player)
+[11:15:23]ACCESS: Login: fox2408/(Brian Stafford) from 145.255.170.182-1711785598 || BYOND v512
+[11:15:54]GAME: <a href='?priv_msg=[0x5000000]'>fox2408</a>/(Brian Stafford) has ghosted.
+[11:15:54]ACCESS: Logout: *no key*/(Brian Stafford)
+[11:15:54]ACCESS: Login: fox2408/(Brian Stafford) from 145.255.170.182-1711785598 || BYOND v512
+[11:16:03]ADMIN: BlackCrystall/(Elite Queen) has sent fox2408/(Brian Stafford) back to the Lobby.
+[11:16:03]ACCESS: Logout: *no key*/(Brian Stafford)
+[11:16:03]ACCESS: Login: fox2408/(new player) from 145.255.170.182-1711785598 || BYOND v512
+[11:16:04]EMOTE: Brian Stafford/ : <B>SPSGT Brian Stafford</B> gasps!
+[11:16:14]EMOTE: Brian Stafford/ : <B>SPSGT Brian Stafford</B> gasps!
+[11:16:14]ACCESS: Logout: *no key*/(new player)
+[11:16:14]ACCESS: Login: fox2408/(Brian Stafford) from 145.255.170.182-1711785598 || BYOND v512
+[11:16:20]EMOTE: Brian Stafford/ : <B>SPSGT Brian Stafford</B> gasps!
+[11:16:36]EMOTE: Brian Stafford/ : <B>SPSGT Brian Stafford</B> gasps!
+[11:16:46]EMOTE: Brian Stafford/ : <B>SPSGT Brian Stafford</B> gasps!
+[11:17:46]EMOTE: Brian Stafford/ : <B>CMDR Brian Stafford</B> gasps!
+[11:17:54]ATTACK: fox2408/(Brian Stafford) attacked BlackCrystall/(Elite Queen) with M4A3 service pistol (INTENT: HELP) (DAMTYE: BRUTE)
+[11:17:55]ATTACK: fox2408/(Brian Stafford) attacked BlackCrystall/(Elite Queen) with M4A3 service pistol (INTENT: HELP) (DAMTYE: BRUTE)
+[11:17:56]ATTACK: fox2408/(Brian Stafford) attacked BlackCrystall/(Elite Queen) with M4A3 service pistol (INTENT: HELP) (DAMTYE: BRUTE)
+[11:17:57]ATTACK: fox2408/(Brian Stafford) attacked BlackCrystall/(Elite Queen) with M4A3 service pistol (INTENT: HELP) (DAMTYE: BRUTE)
+[11:17:58]ATTACK: fox2408/(Brian Stafford) attacked BlackCrystall/(Elite Queen) with M4A3 service pistol (INTENT: HELP) (DAMTYE: BRUTE)
+[11:17:58]EMOTE: Brian Stafford/ : <B>CMDR Brian Stafford</B> gasps!
+[11:17:59]ATTACK: fox2408/(Brian Stafford) attacked BlackCrystall/(Elite Queen) with M4A3 service pistol (INTENT: HELP) (DAMTYE: BRUTE)
+[11:18:00]ATTACK: fox2408/(Brian Stafford) attacked BlackCrystall/(Elite Queen) with M4A3 service pistol (INTENT: HELP) (DAMTYE: BRUTE)
+[11:18:01]ATTACK: fox2408/(Brian Stafford) attacked BlackCrystall/(Elite Queen) with M4A3 service pistol (INTENT: HELP) (DAMTYE: BRUTE)
+[11:18:06]ATTACK: fox2408/(Brian Stafford) attacked BlackCrystall/(Elite Queen) with M4A3 service pistol (INTENT: HELP) (DAMTYE: BRUTE)
+[11:18:07]ATTACK: fox2408/(Brian Stafford) attacked BlackCrystall/(Elite Queen) with M4A3 service pistol (INTENT: HELP) (DAMTYE: BRUTE)
+[11:18:08]ATTACK: fox2408/(Brian Stafford) attacked BlackCrystall/(Elite Queen) with M4A3 service pistol (INTENT: HELP) (DAMTYE: BRUTE)
+[11:18:19]ATTACK: Brian Stafford (fox2408) shot Elite Queen (blackcrystall) with a the pistol bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=0;Y=0;Z=0'>JMP</a>)
+[11:18:20]ATTACK: Brian Stafford (fox2408) shot Elite Queen (blackcrystall) with a the pistol bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=0;Y=0;Z=0'>JMP</a>)
+[11:18:20]EMOTE: Brian Stafford/fox2408 : <B>LTCMDR Brian Stafford</B> screams!
+[11:18:21]ATTACK: Brian Stafford (fox2408) shot Elite Queen (blackcrystall) with a the pistol bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=0;Y=0;Z=0'>JMP</a>)
+[11:18:22]EMOTE: Brian Stafford/ : <B>CMDR Brian Stafford</B> gasps!
+[11:18:23]ATTACK: Brian Stafford (fox2408) shot Elite Queen (blackcrystall) with a the pistol bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=0;Y=0;Z=0'>JMP</a>)
+[11:18:26]EMOTE: Brian Stafford/ : <B>CMDR Brian Stafford</B> gasps!
+[11:18:28]EMOTE: Brian Stafford/ : <B>CMDR Brian Stafford</B> gasps!
+[11:18:37]ATTACK: Brian Stafford (fox2408) shot Elite Queen (blackcrystall) with a the pistol bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=0;Y=0;Z=0'>JMP</a>)
+[11:18:46]EMOTE: Brian Stafford/ : <B>CMDR Brian Stafford</B> gasps!
+[11:18:47]ACCESS: Logout: fox2408/(Brian Stafford)
+[11:18:56]EMOTE: Brian Stafford/fox2408 : <B>LTCMDR Brian Stafford</B> gasps!
+[11:19:06]EMOTE: Brian Stafford/fox2408 : <B>LTCMDR Brian Stafford</B> gasps!
+[11:19:08]EMOTE: Brian Stafford/fox2408 : <B>LTCMDR Brian Stafford</B> gasps!
+[11:19:22]EMOTE: Brian Stafford/fox2408 : <B>LTCMDR Brian Stafford</B> gasps!
+[11:19:38]EMOTE: Brian Stafford/fox2408 : <B>LTCMDR Brian Stafford</B> gasps!
+[11:20:00]EMOTE: Brian Stafford/fox2408 : <B>LTCMDR Brian Stafford</B> gasps!
+[11:20:14]EMOTE: Brian Stafford/fox2408 : <B>LTCMDR Brian Stafford</B> gasps!
+[11:20:26]EMOTE: Brian Stafford/fox2408 : <B>LTCMDR Brian Stafford</B> gasps!
+[11:21:28]ACCESS: Logout: BlackCrystall/(Elite Queen)
+[11:21:36]ACCESS: Login: BlackCrystall/(Elite Queen) from 127.0.0.1-2513525785 || BYOND v511
+[11:25:44]ADMIN: BlackCrystall/(Elite Queen) initiated a reboot.
+[11:25:49]ACCESS: Logout: BlackCrystall/(Elite Queen)
+
+
+Starting up. 11:26.11
+---------------------
+[11:26:11]MISC: Adding game mode traitor (traitor) to configuration.
+[11:26:11]MISC: Adding game mode Colonial Marines (Colonial Marines) to configuration.
+[11:26:11]MISC: Adding game mode Hunter Games (Hunter Games) to configuration.
+[11:26:11]MISC: Adding game mode Ice Colony (Ice Colony) to configuration.
+[11:26:11]MISC: Adding game mode Whiskey Outpost (Whiskey Outpost) to configuration.
+[11:26:11]MISC: Adding game mode extended (extended) to configuration.
+[11:26:11]MISC: Unknown setting in configuration: 'assistant_limit'
+[11:26:11]MISC: Unknown setting in configuration: 'assistant_ratio'
+[11:26:11]MISC: Unknown setting in configuration: 'station_levels'
+[11:26:11]MISC: Unknown setting in configuration: 'admin_levels'
+[11:26:11]MISC: Unknown setting in configuration: 'contact_levels'
+[11:26:11]MISC: Unknown setting in configuration: 'player_levels'
+[11:26:11]MISC: Unknown setting in configuration: 'expected_round_length'
+[11:26:11]MISC: Unknown setting in configuration: 'event_delay_lower'
+[11:26:11]MISC: Unknown setting in configuration: 'event_delay_upper'
+[11:26:11]MISC: Unknown setting in configuration: 'event_custom_start_major'
+[11:26:11]MISC: Unknown setting in configuration: 'starlight'
+[11:26:11]MISC: Unknown setting in configuration: 'player_reroute_cap'
+[11:26:11]MISC: Unknown setting in configuration: 'disable_space_ruins'
+[11:26:11]MISC: Unknown setting in configuration: 'feedback_tableprefix'
+[11:26:11]MISC: Saved mode is 'extended'
+[11:26:12]ADMIN: Loading jobban_rank
+[11:26:12]ADMIN: jobban_keylist was empty
+[11:26:12]ADMIN: Loading Banlist
+[11:26:12]DEBUG: Rebuilding Master Controller
+[11:26:24]ACCESS: Login: BlackCrystall/(BlackCrystall) from 127.0.0.1-2513525785 || BYOND v511
+[11:27:40]VOTE: Gamemode vote started by the server.
+[11:27:40]DEBUG: The server has called a gamemode vote
+[11:28:40]DEBUG: The server has called a gamemode vote
+[11:28:40]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[12:29:05]DEBUG: Next event in 47.174 minutes.
+[12:30:40]ADMIN: BlackCrystall/(BlackCrystall) initiated a reboot.
+[12:30:41]SAY: Mister Wiggles/ : Bark!
+[12:30:45]ACCESS: Logout: BlackCrystall/(BlackCrystall)
+
+
+Starting up. 12:31.07
+---------------------
+[12:31:07]MISC: Adding game mode traitor (traitor) to configuration.
+[12:31:07]MISC: Adding game mode Colonial Marines (Colonial Marines) to configuration.
+[12:31:07]MISC: Adding game mode Hunter Games (Hunter Games) to configuration.
+[12:31:07]MISC: Adding game mode Ice Colony (Ice Colony) to configuration.
+[12:31:07]MISC: Adding game mode Whiskey Outpost (Whiskey Outpost) to configuration.
+[12:31:07]MISC: Adding game mode extended (extended) to configuration.
+[12:31:08]MISC: Unknown setting in configuration: 'assistant_limit'
+[12:31:08]MISC: Unknown setting in configuration: 'assistant_ratio'
+[12:31:08]MISC: Unknown setting in configuration: 'station_levels'
+[12:31:08]MISC: Unknown setting in configuration: 'admin_levels'
+[12:31:08]MISC: Unknown setting in configuration: 'contact_levels'
+[12:31:08]MISC: Unknown setting in configuration: 'player_levels'
+[12:31:08]MISC: Unknown setting in configuration: 'expected_round_length'
+[12:31:08]MISC: Unknown setting in configuration: 'event_delay_lower'
+[12:31:08]MISC: Unknown setting in configuration: 'event_delay_upper'
+[12:31:08]MISC: Unknown setting in configuration: 'event_custom_start_major'
+[12:31:08]MISC: Unknown setting in configuration: 'starlight'
+[12:31:08]MISC: Unknown setting in configuration: 'player_reroute_cap'
+[12:31:08]MISC: Unknown setting in configuration: 'disable_space_ruins'
+[12:31:08]MISC: Unknown setting in configuration: 'feedback_tableprefix'
+[12:31:08]MISC: Saved mode is 'extended'
+[12:31:08]ADMIN: Loading jobban_rank
+[12:31:08]ADMIN: jobban_keylist was empty
+[12:31:09]ADMIN: Loading Banlist
+[12:31:09]DEBUG: Rebuilding Master Controller
+[12:31:27]ACCESS: Login: BlackCrystall/(BlackCrystall) from 127.0.0.1-2513525785 || BYOND v511
+[12:31:36]ADMIN: BlackCrystall/(BlackCrystall) set the mode as Colonial Marines.
+[12:32:36]VOTE: Gamemode vote started by the server.
+[12:32:36]DEBUG: The server has called a gamemode vote
+[12:33:36]DEBUG: The server has called a gamemode vote
+[12:33:36]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[12:36:00]DEBUG: The server has called a gamemode vote
+[12:38:24]DEBUG: The server has called a gamemode vote
+[12:40:48]DEBUG: The server has called a gamemode vote
+[12:43:12]DEBUG: The server has called a gamemode vote
+[12:44:36]ACCESS: Logout: BlackCrystall/(BlackCrystall)
+
+
+Starting up. 12:51.25
+---------------------
+[12:51:25]MISC: Adding game mode traitor (traitor) to configuration.
+[12:51:25]MISC: Adding game mode Colonial Marines (Colonial Marines) to configuration.
+[12:51:25]MISC: Adding game mode Hunter Games (Hunter Games) to configuration.
+[12:51:25]MISC: Adding game mode Ice Colony (Ice Colony) to configuration.
+[12:51:25]MISC: Adding game mode Whiskey Outpost (Whiskey Outpost) to configuration.
+[12:51:25]MISC: Adding game mode extended (extended) to configuration.
+[12:51:25]MISC: Unknown setting in configuration: 'assistant_limit'
+[12:51:25]MISC: Unknown setting in configuration: 'assistant_ratio'
+[12:51:25]MISC: Unknown setting in configuration: 'station_levels'
+[12:51:25]MISC: Unknown setting in configuration: 'admin_levels'
+[12:51:25]MISC: Unknown setting in configuration: 'contact_levels'
+[12:51:25]MISC: Unknown setting in configuration: 'player_levels'
+[12:51:25]MISC: Unknown setting in configuration: 'expected_round_length'
+[12:51:25]MISC: Unknown setting in configuration: 'event_delay_lower'
+[12:51:25]MISC: Unknown setting in configuration: 'event_delay_upper'
+[12:51:25]MISC: Unknown setting in configuration: 'event_custom_start_major'
+[12:51:25]MISC: Unknown setting in configuration: 'starlight'
+[12:51:25]MISC: Unknown setting in configuration: 'player_reroute_cap'
+[12:51:25]MISC: Unknown setting in configuration: 'disable_space_ruins'
+[12:51:25]MISC: Unknown setting in configuration: 'feedback_tableprefix'
+[12:51:25]MISC: Saved mode is 'Colonial Marines'
+[12:51:26]ADMIN: Loading jobban_rank
+[12:51:26]ADMIN: jobban_keylist was empty
+[12:51:26]ADMIN: Loading Banlist
+[12:51:26]DEBUG: Rebuilding Master Controller
+
+
+Starting up. 12:52.37
+---------------------
+[12:52:37]MISC: Adding game mode traitor (traitor) to configuration.
+[12:52:37]MISC: Adding game mode Colonial Marines (Colonial Marines) to configuration.
+[12:52:37]MISC: Adding game mode Hunter Games (Hunter Games) to configuration.
+[12:52:37]MISC: Adding game mode Ice Colony (Ice Colony) to configuration.
+[12:52:37]MISC: Adding game mode Whiskey Outpost (Whiskey Outpost) to configuration.
+[12:52:37]MISC: Adding game mode extended (extended) to configuration.
+[12:52:37]MISC: Unknown setting in configuration: 'assistant_limit'
+[12:52:37]MISC: Unknown setting in configuration: 'assistant_ratio'
+[12:52:37]MISC: Unknown setting in configuration: 'station_levels'
+[12:52:37]MISC: Unknown setting in configuration: 'admin_levels'
+[12:52:37]MISC: Unknown setting in configuration: 'contact_levels'
+[12:52:37]MISC: Unknown setting in configuration: 'player_levels'
+[12:52:37]MISC: Unknown setting in configuration: 'expected_round_length'
+[12:52:37]MISC: Unknown setting in configuration: 'event_delay_lower'
+[12:52:37]MISC: Unknown setting in configuration: 'event_delay_upper'
+[12:52:37]MISC: Unknown setting in configuration: 'event_custom_start_major'
+[12:52:37]MISC: Unknown setting in configuration: 'starlight'
+[12:52:37]MISC: Unknown setting in configuration: 'player_reroute_cap'
+[12:52:37]MISC: Unknown setting in configuration: 'disable_space_ruins'
+[12:52:37]MISC: Unknown setting in configuration: 'feedback_tableprefix'
+[12:52:37]MISC: Saved mode is 'Colonial Marines'
+[12:52:39]ADMIN: Loading jobban_rank
+[12:52:39]ADMIN: jobban_keylist was empty
+[12:52:39]ADMIN: Loading Banlist
+[12:52:39]DEBUG: Rebuilding Master Controller
+[12:55:39]ACCESS: Login: BlackCrystall/(BlackCrystall) from 127.0.0.1-2513525785 || BYOND v511
+[12:55:56]ACCESS: Logout: BlackCrystall/(BlackCrystall)

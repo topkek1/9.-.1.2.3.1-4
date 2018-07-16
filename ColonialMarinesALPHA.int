@@ -1,11 +1,12 @@
 // BEGIN_INTERNALS
 /*
 MAP_ZOOM: 1.000
-DIR: code icons icons\effects icons\Marine\SEASONS icons\misc icons\obj\clothing maps 
+LAST_COMPILE_TIME: 1531389588
+DIR: icons\effects icons\Marine\SEASONS icons\misc icons\obj\clothing 
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
-LAST_COMPILE_VERSION: 510.1345
-WINDOW: maps\obj.dmm;icons\misc\title.jpg;icons\misc\fullscreen.gif;icons\misc\title.dmi;icons\misc\static.dmi
-FILE: icons\misc\title.jpg
+LAST_COMPILE_VERSION: 511.1385
+WINDOW: code\modules\cm_aliens\XenoUpgrade.dm
+FILE: code\modules\cm_aliens\XenoUpgrade.dm
 */
 // END_INTERNALS

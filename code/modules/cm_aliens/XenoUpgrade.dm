@@ -1,6 +1,3 @@
-//Xenomorph Upgrade Code - Colonial Marines - Apophis775 - Last Edit: 11JUN16
-
-
 /mob/living/carbon/Xenomorph/verb/Upgrade()
 	set name = "Upgrade"
 	set desc = "Upgrades you, at the cost of never being able to evolve.  Requires full plasma"
@@ -50,11 +47,11 @@
 			if("Runner")
 				melee_damage_lower = 15
 				melee_damage_upper = 25
-				health = 120
-				maxHealth = 120
+				health = 140
+				maxHealth = 140
 				storedplasma = 0
-				plasma_gain = 2
-				maxplasma = 150
+				plasma_gain = 20
+				maxplasma = 200
 				jellyMax = 400
 				caste_desc = "A fast, four-legged terror, but weak in sustained combat.  It looks a little more dangerous..."
 				speed = -1.5
@@ -66,11 +63,11 @@
 			if("Hunter")
 				melee_damage_lower = 25
 				melee_damage_upper = 35
-				health = 170
-				maxHealth = 170
+				health = 225
+				maxHealth = 225
 				storedplasma = 0
-				plasma_gain = 10
-				maxplasma = 150
+				plasma_gain = 30
+				maxplasma = 250
 				jellyMax = 800
 				caste_desc = "A fast, powerful front line combatant.  It looks a little more dangerous..."
 				speed = -1.4
@@ -82,11 +79,11 @@
 			if("Ravager")
 				melee_damage_lower = 50
 				melee_damage_upper = 70
-				health = 220
-				maxHealth = 220
+				health = 280
+				maxHealth = 280
 				storedplasma = 0
-				plasma_gain = 10
-				maxplasma = 150
+				plasma_gain = 90
+				maxplasma = 320
 				jellyMax = 1600
 				caste_desc = "A brutal, devastating front-line attacker.  It looks a little more dangerous..."
 				speed = -1.2
@@ -100,22 +97,22 @@
 				tacklemin = 4
 				tacklemax = 7
 				tackle_chance = 95
-				health = 250
-				maxHealth = 250
+				health = 450
+				maxHealth = 450
 				storedplasma = 0
-				plasma_gain = 15
-				maxplasma = 300
+				plasma_gain = 125
+				maxplasma = 900
 				jellyMax = 1600
 				caste_desc = "A huge tanky xenomorph.  It looks a little more dangerous..."
 				speed = 0.5
-				armor_deflection = 70
+				armor_deflection = 75
 			if("Sentinel")
 				melee_damage_lower = 15
 				melee_damage_upper = 25
-				health = 150
-				maxHealth = 150
+				health = 200
+				maxHealth = 200
 				storedplasma = 0
-				plasma_gain = 12
+				plasma_gain = 60
 				maxplasma = 400
 				jellyMax = 400
 				spit_delay = 25
@@ -129,10 +126,10 @@
 			if("Spitter")
 				melee_damage_lower = 20
 				melee_damage_upper = 30
-				health = 180
-				maxHealth = 180
+				health = 225
+				maxHealth = 225
 				storedplasma = 0
-				plasma_gain = 25
+				plasma_gain = 95
 				maxplasma = 700
 				jellyMax = 800
 				spit_delay = 20
@@ -146,11 +143,11 @@
 			if("Boiler")
 				melee_damage_lower = 20
 				melee_damage_upper = 25
-				health = 200
-				maxHealth = 200
+				health = 250
+				maxHealth = 250
 				storedplasma = 0
-				plasma_gain = 35
-				maxplasma = 900
+				plasma_gain = 115
+				maxplasma = 1100
 				jellyMax = 1600
 				spit_delay = 30
 				caste_desc = "Some sort of abomination...  It looks a little more dangerous..."
@@ -162,11 +159,11 @@
 			if("Praetorian")
 				melee_damage_lower = 20
 				melee_damage_upper = 30
-				health = 220
-				maxHealth = 220
+				health = 325
+				maxHealth = 325
 				storedplasma = 0
-				plasma_gain = 30
-				maxplasma = 900
+				plasma_gain = 100
+				maxplasma = 1100
 				jellyMax = 1600
 				spit_delay = 15
 				caste_desc = "A giant ranged monster...   It looks a little more dangerous..."
@@ -179,11 +176,11 @@
 			if("Hivelord")
 				melee_damage_lower = 15
 				melee_damage_upper = 20
-				health = 220
-				maxHealth = 220
+				health = 325
+				maxHealth = 325
 				storedplasma = 0
-				maxplasma = 900
-				plasma_gain = 40
+				maxplasma = 1100
+				plasma_gain = 100
 				jellyMax = 1600
 				caste_desc = "A builder of REALLY BIG hives.   It looks a little more dangerous..."
 				armor_deflection = 10
@@ -195,11 +192,11 @@
 				src << "\green Throw a hugger to get your hugger upgrades."
 				melee_damage_lower = 25
 				melee_damage_upper = 35
-				health = 200
-				maxHealth = 200
+				health = 400
+				maxHealth = 400
 				storedplasma = 0
-				maxplasma = 300
-				plasma_gain = 10
+				maxplasma = 550
+				plasma_gain = 20
 				jellyMax = 1600
 				caste_desc = "A portable Love transport.  It looks a little more dangerous..."
 				armor_deflection = 10
@@ -211,16 +208,16 @@
 				name = "Elite [caste]"
 				real_name = name
 				src.mind.name  = real_name
-				melee_damage_lower = 40
-				melee_damage_upper = 55
-				health = 320
-				maxHealth = 320
+				melee_damage_lower = 50
+				melee_damage_upper = 75
+				health = 900
+				maxHealth = 900
 				storedplasma = 0
-				maxplasma = 800
-				plasma_gain = 40
+				maxplasma = 1600
+				plasma_gain = 100
 				jellyMax = 1600
 				caste_desc = "The biggest and baddest xeno. The Queen controls the hive and plants eggs and royal jelly."
-				armor_deflection = 65
+				armor_deflection = 100
 				tacklemin = 5
 				tacklemax = 7
 				tackle_chance = 85
@@ -241,10 +238,10 @@
 			if("Runner")
 				melee_damage_lower = 20
 				melee_damage_upper = 30
-				health = 150
-				maxHealth = 150
+				health = 160
+				maxHealth = 160
 				storedplasma = 0
-				plasma_gain = 2
+				plasma_gain = 20
 				maxplasma = 200
 				jellyMax = 800
 				caste_desc = "A fast, four-legged terror, but weak in sustained combat.  It looks pretty strong..."
@@ -260,8 +257,8 @@
 				health = 200
 				maxHealth = 200
 				storedplasma = 0
-				plasma_gain = 10
-				maxplasma = 200
+				plasma_gain = 25
+				maxplasma = 275
 				jellyMax = 1600
 				caste_desc = "A fast, powerful front line combatant.  It looks pretty strong..."
 				speed = -1.5
@@ -273,11 +270,11 @@
 			if("Ravager")
 				melee_damage_lower = 60
 				melee_damage_upper = 80
-				health = 250
-				maxHealth = 250
+				health = 300
+				maxHealth = 300
 				storedplasma = 0
-				plasma_gain = 15
-				maxplasma = 200
+				plasma_gain = 100
+				maxplasma = 330
 				jellyMax = 3200
 				caste_desc = "A brutal, devastating front-line attacker.  It looks pretty strong..."
 				speed = -1.3
@@ -291,22 +288,22 @@
 				tacklemin = 5
 				tacklemax = 9
 				tackle_chance = 95
-				health = 300
-				maxHealth = 300
+				health = 500
+				maxHealth = 500
 				storedplasma = 0
-				plasma_gain = 30
-				maxplasma = 400
+				plasma_gain = 150
+				maxplasma = 1000
 				jellyMax = 3200
 				caste_desc = "A huge tanky xenomorph.  It looks pretty strong..."
 				speed = 0.1
-				armor_deflection = 75
+				armor_deflection = 100
 			if("Sentinel")
 				melee_damage_lower = 20
 				melee_damage_upper = 30
-				health = 175
-				maxHealth = 175
+				health = 225
+				maxHealth = 225
 				storedplasma = 0
-				plasma_gain = 15
+				plasma_gain = 75
 				maxplasma = 500
 				jellyMax = 800
 				spit_delay = 20
@@ -320,10 +317,10 @@
 			if("Spitter")
 				melee_damage_lower = 25
 				melee_damage_upper = 35
-				health = 200
-				maxHealth = 200
+				health = 250
+				maxHealth = 250
 				storedplasma = 0
-				plasma_gain = 30
+				plasma_gain = 100
 				maxplasma = 800
 				jellyMax = 1600
 				spit_delay = 15
@@ -337,11 +334,11 @@
 			if("Boiler")
 				melee_damage_lower = 30
 				melee_damage_upper = 35
-				health = 220
-				maxHealth = 220
+				health = 275
+				maxHealth = 275
 				storedplasma = 0
-				plasma_gain = 40
-				maxplasma = 1000
+				plasma_gain = 150
+				maxplasma = 1150
 				jellyMax = 3200
 				spit_delay = 20
 				caste_desc = "Some sort of abomination...  It looks pretty strong..."
@@ -353,11 +350,11 @@
 			if("Praetorian")
 				melee_damage_lower = 30
 				melee_damage_upper = 35
-				health = 250
+				health = 350
 				maxHealth = 250
 				storedplasma = 0
-				plasma_gain = 40
-				maxplasma = 1000
+				plasma_gain = 110
+				maxplasma = 1150
 				jellyMax = 3200
 				spit_delay = 10
 				caste_desc = "A giant ranged monster...   It looks pretty strong..."
@@ -370,11 +367,11 @@
 			if("Hivelord")
 				melee_damage_lower = 15
 				melee_damage_upper = 20
-				health = 250
-				maxHealth = 250
+				health = 350
+				maxHealth = 350
 				storedplasma = 0
-				maxplasma = 1000
-				plasma_gain = 50
+				maxplasma = 1150
+				plasma_gain = 110
 				jellyMax = 3200
 				caste_desc = "A builder of REALLY BIG hives.   It looks pretty strong..."
 				armor_deflection = 15
@@ -386,14 +383,14 @@
 				src << "\green Throw a hugger to get your hugger upgrades."
 				melee_damage_lower = 30
 				melee_damage_upper = 40
-				health = 220
-				maxHealth = 220
+				health = 425
+				maxHealth = 425
 				storedplasma = 0
 				maxplasma = 350
-				plasma_gain = 12
+				plasma_gain = 30
 				jellyMax = 3200
 				caste_desc = "A portable Love transport.  It looks pretty strong..."
-				armor_deflection = 15
+				armor_deflection = 20
 				tacklemin = 4
 				tacklemax = 5
 				tackle_chance = 70
@@ -402,16 +399,16 @@
 				name = "Elite Empress"
 				real_name = name
 				src.mind.name  = real_name
-				melee_damage_lower = 50
-				melee_damage_upper = 60
-				health = 350
-				maxHealth = 350
+				melee_damage_lower = 100
+				melee_damage_upper = 150
+				health = 1000
+				maxHealth = 1000
 				storedplasma = 0
-				maxplasma = 900
-				plasma_gain = 50
+				maxplasma = 1700
+				plasma_gain = 150
 				jellyMax = 3200
 				caste_desc = "The biggest and baddest xeno. The Empress controls multiple hives and planets..."
-				armor_deflection = 70
+				armor_deflection = 125
 				tacklemin = 6
 				tacklemax = 9
 				tackle_chance = 90
@@ -438,7 +435,7 @@
 				maxHealth = 140
 				storedplasma = 0
 				plasma_gain = 2
-				maxplasma = 200
+				maxplasma = 210
 				caste_desc = "Not what you want to run into in a dark alley...  It looks fucking deadly..."
 				speed = -2
 				armor_deflection = 10
@@ -582,7 +579,7 @@
 				health = 250
 				maxHealth = 250
 				storedplasma = 0
-				maxplasma = 400
+				maxplasma = 600
 				plasma_gain = 15
 				caste_desc = "It's literally crawling with 10 huggers."
 				armor_deflection = 20
@@ -595,15 +592,15 @@
 				real_name = name
 				src.mind.name  = real_name
 				src << "\green You are the Alpha and the Omega...  The beginning and the end..."
-				melee_damage_lower = 70
-				melee_damage_upper = 90
-				health = 400
-				maxHealth = 400
+				melee_damage_lower = 150
+				melee_damage_upper = 225
+				health = 1500
+				maxHealth = 1500
 				storedplasma = 0
-				maxplasma = 1000
-				plasma_gain = 50
+				maxplasma = 2000
+				plasma_gain = 200
 				caste_desc = "The most perfect Xeno form imaginable."
-				armor_deflection = 80
+				armor_deflection = 150
 				tacklemin = 7
 				tacklemax = 10
 				tackle_chance = 95

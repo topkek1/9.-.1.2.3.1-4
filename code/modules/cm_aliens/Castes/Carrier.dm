@@ -1,5 +1,3 @@
-//Carrier Code - Colonial Marines - Last Edit: Apophis775 - 11JUN16
-
 /mob/living/carbon/Xenomorph/Carrier
 	caste = "Carrier"
 	name = "Carrier"
@@ -11,13 +9,13 @@
 	tacklemin = 2
 	tacklemax = 3
 	tackle_chance = 60
-	health = 175
-	maxHealth = 175
-	storedplasma = 50
-	maxplasma = 250
+	health = 350
+	maxHealth = 350
+	storedplasma = 100
+	maxplasma = 500
 	jelly = 1
 	jellyMax = 800
-	plasma_gain = 8
+	plasma_gain = 10
 	evolves_to = list() //Add more here seperated by commas
 	caste_desc = "A carrier of huggies."
 	var/huggers_max = 6

@@ -1,5 +1,3 @@
-//Xenomorph - Queen- Colonial Marines - Apophis775 - Last Edit: 11JUN16
-
 /mob/living/carbon/Xenomorph/Queen
 	caste = "Queen"
 	name = "Queen"
@@ -7,8 +5,8 @@
 	icon = 'icons/xeno/2x2_Xenos.dmi'
 	icon_state = "Queen Walking"
 //	pass_flags = PASSTABLE
-	melee_damage_lower = 30
-	melee_damage_upper = 46
+	melee_damage_lower = 20
+	melee_damage_upper = 36
 	tacklemin = 4
 	tacklemax = 6
 	tackle_chance = 80
@@ -16,13 +14,13 @@
 	attack_sound = null
 	friendly = "nuzzles"
 	wall_smash = 0
-	health = 300
-	maxHealth = 300
+	health = 800
+	maxHealth = 800
 	amount_grown = 0
 	max_grown = 10
-	storedplasma = 300
-	maxplasma = 700
-	plasma_gain = 30
+	storedplasma = 1000
+	maxplasma = 1600
+	plasma_gain = 200
 	is_intelligent = 1
 	speed = 1
 	jelly = 1
@@ -34,7 +32,7 @@
 	fire_immune = 1
 	big_xeno = 1
 	jelly = 1
-	armor_deflection = 60
+	armor_deflection = 120
 	tier = 0 //Queen doesn't count towards population limit.
 	upgrade = 0
 	caste_desc = "The biggest and baddest xeno. The Queen controls the hive and plants eggs and royal jelly."
